@@ -3,7 +3,7 @@ import pandas as pd
 import json
 import requests
 
-API_KEY = "Api-key"  
+API_KEY = "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"  
 st.set_page_config(page_title="Supplement Recommender", layout="centered")
 st.title("LLM-Powered Supplement Recommendation Demo")
 
@@ -25,6 +25,7 @@ goal = st.selectbox("Select wellness goal:", sorted(df["wellness_goal"].unique()
 
 st.subheader("Budget filter")
 max_price = st.number_input("Max price ($)", min_value=0.0, value=50.0, step=1.0)
+
 
 def call_llm(prompt):
     url = "https://api.openai.com/v1/chat/completions"
@@ -96,3 +97,55 @@ Rules:
     except Exception as e:
         st.error("LLM call failed: " + str(e))
 
+st.subheader("Chat-based Supplement Assistant")
+
+if user_input := st.chat_input("Write your wellness goal and budget (example: muscle_gain_energy 40)"):
+    st.chat_message("user").write(user_input)
+
+    # --- Goal ve bütçe çıkar ---
+    text = user_input.lower()
+    import re
+    nums = re.findall(r"\d+", text)
+    budget = float(nums[0]) if nums else max_price  # UI budget fallback
+
+    inferred = None
+    for g in df["wellness_goal"].unique():
+        if g in text:
+            inferred = g
+            break
+    if not inferred:
+        inferred = goal  # UI goal fallback
+
+    # --- Adayları hazırla ---
+    cands = df[(df["wellness_goal"] == inferred) & (df["price_num"] <= budget)]
+    top10 = cands.sort_values("score", ascending=False).head(10)
+
+    if top10.empty:
+        st.chat_message("assistant").write("No supplements match your request.")
+        st.stop()
+
+    cand_text = "\n".join(
+        [f"{r['product_id']} | {r['name']} | ${r['price_num']:.2f}" for _, r in top10.iterrows()]
+    )
+
+    llm_prompt = f"""
+You are a supplement sales agent chatbot.
+Goal: {inferred}
+Budget: ${budget}
+
+Candidates (choose ONLY from this list):
+{cand_text}
+
+Rules:
+- Pick exactly 3 products from the list.
+- Do not invent new names.
+- Return ONLY JSON array with 3 objects: product_id, name, price, reason.
+"""
+
+    try:
+        answer = call_llm(llm_prompt)
+        recs = json.loads(answer)
+        st.chat_message("assistant").write("Here are your top 3 supplements:")
+        st.table(pd.DataFrame(recs))
+    except:
+        st.chat_message("assistant").write("LLM could not generate recommendations.")
