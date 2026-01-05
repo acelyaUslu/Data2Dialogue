@@ -3,7 +3,7 @@ import pandas as pd
 import json
 import requests
 
-API_KEY = "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"  
+API_KEY = "Api-key"  
 st.set_page_config(page_title="Supplement Recommender", layout="centered")
 st.title("LLM-Powered Supplement Recommendation Demo")
 
