@@ -49,9 +49,65 @@ The system follows this unified pipeline:
 
 ---
 
-## Installation & Run
+## 🚀 Installation & Run
 
-### Clone repository
+### 1. Clone repository
 ```bash
 git clone <repo_link>
 cd Data2Dialogue
+```
+
+### 2. Install dependencies
+```bash
+pip install -r requirements.txt
+```
+
+### 3. Set your OpenAI API key
+Edit `app.py` and update:
+```python
+API_KEY = "your_api_key_here"
+```
+
+### 4. Run the prototype UI
+```bash
+streamlit run app.py  # Launch the interface
+```
+
+---
+
+##  File Structure
+```
+📁 Data2Dialogue
+│
+├── sports_nutrition_supplements_with_ingredients.csv  # Original knowledge source
+├── products.csv                                      # Generated local knowledge base
+├── app.py                                           # Streamlit UI + LLM logic
+├── requirements.txt                                  # Project dependencies
+└── README.md                                        # Documentation
+```
+
+---
+
+## 🤖 LLM Output Constraints
+The OpenAI agent is instructed to:
+- Pick **exactly 3 products**
+- Select **only from the candidate list provided**
+- **Never generate new product names**
+- Return results **only in JSON array format**
+
+### Example valid model output:
+```json
+[
+  {"product_id": "P00034", "name": "whey isolate", "price": 27.99, "reason": "Supports muscle gain and protein goals."},
+  {"product_id": "P00112", "name": "omega 3 fish oil", "price": 19.50, "reason": "Promotes heart health and immunity."},
+  {"product_id": "P00256", "name": "probiotic complex", "price": 32.00, "reason": "Provides digestion support."}
+]
+```
+
+---
+
+## ✍️ Author & Affiliation
+**Açelya Uslu**  
+MSc Computer Engineering  
+Manisa Celal Bayar University, Türkiye
+
