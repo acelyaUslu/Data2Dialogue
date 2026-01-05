@@ -1,0 +1,2720 @@
+product_id,name,ingredients,flavor_rating,price,rating,price_num,goals,wellness_goal,score
+P00001,whey protein,,0,$19.99,0,19.99,General,muscle_gain_energy,0.0
+P00002,whey protein,,0,$19.99,0,19.99,General,muscle_gain_energy,0.0
+P00003,whey protein,,0,$19.99,0,19.99,General,muscle_gain_energy,0.0
+P00004,whey protein,,0,$29.99,0,29.99,General,muscle_gain_energy,0.0
+P00005,whey protein,,0,$29.99,0,29.99,General,muscle_gain_energy,0.0
+P00006,whey protein,,0,$29.99,0,29.99,General,muscle_gain_energy,0.0
+P00007,whey protein,,0,$29.99,0,29.99,General,muscle_gain_energy,0.0
+P00008,whey protein,,0,$29.99,0,29.99,General,muscle_gain_energy,0.0
+P00009,whey protein,,0,$29.99,0,29.99,General,muscle_gain_energy,0.0
+P00010,whey protein,,0,$29.99,0,29.99,General,muscle_gain_energy,0.0
+P00011,whey protein,,0,$29.99,0,29.99,General,muscle_gain_energy,0.0
+P00012,whey protein,,0,$29.99,0,29.99,General,muscle_gain_energy,0.0
+P00013,whey protein,,0,$29.99,0,29.99,General,muscle_gain_energy,0.0
+P00014,whey protein,,0,$29.99,0,29.99,General,muscle_gain_energy,0.0
+P00015,whey protein,,0,$29.99,0,29.99,General,muscle_gain_energy,0.0
+P00016,whey protein,,0,$29.99,0,29.99,General,muscle_gain_energy,0.0
+P00017,whey protein,,0,$29.99,0,29.99,General,muscle_gain_energy,0.0
+P00018,whey protein,,0,$29.99,0,29.99,General,muscle_gain_energy,0.0
+P00019,whey protein,,0,$29.99,0,29.99,General,muscle_gain_energy,0.0
+P00020,whey protein,,0,$29.99,0,29.99,General,muscle_gain_energy,0.0
+P00021,whey protein,,0,$29.99,0,29.99,General,muscle_gain_energy,0.0
+P00022,whey protein,,0,$29.99,0,29.99,General,muscle_gain_energy,0.0
+P00023,whey protein,,0,$59.99,0,59.99,General,muscle_gain_energy,0.0
+P00024,whey protein,,0,$59.99,0,59.99,General,muscle_gain_energy,0.0
+P00025,whey protein,,0,$59.99,0,59.99,General,muscle_gain_energy,0.0
+P00026,whey protein,,0,$59.99,0,59.99,General,muscle_gain_energy,0.0
+P00027,whey protein,,0,$59.99,0,59.99,General,muscle_gain_energy,0.0
+P00028,whey protein,,0,$59.99,0,59.99,General,muscle_gain_energy,0.0
+P00029,whey protein,,0,$59.99,0,59.99,General,muscle_gain_energy,0.0
+P00030,whey protein,,0,$59.99,0,59.99,General,muscle_gain_energy,0.0
+P00031,whey protein,,0,$59.99,0,59.99,General,muscle_gain_energy,0.0
+P00032,whey protein,,0,$59.99,0,59.99,General,muscle_gain_energy,0.0
+P00033,whey protein,,0,$59.99,0,59.99,General,muscle_gain_energy,0.0
+P00034,whey protein,,0,$59.99,0,59.99,General,muscle_gain_energy,0.0
+P00035,whey protein,,0,$59.99,0,59.99,General,muscle_gain_energy,0.0
+P00036,whey protein,,0,$59.99,0,59.99,General,muscle_gain_energy,0.0
+P00037,whey protein,,0,$59.99,0,59.99,General,muscle_gain_energy,0.0
+P00038,whey protein,,0,$59.99,0,59.99,General,muscle_gain_energy,0.0
+P00039,whey protein,,0,$59.99,0,59.99,General,muscle_gain_energy,0.0
+P00040,whey protein,,0,$59.99,0,59.99,General,muscle_gain_energy,0.0
+P00041,whey protein,,0,$12.99,0,12.99,General,muscle_gain_energy,0.14
+P00042,whey protein,,0,$115.99,0,115.99,General,muscle_gain_energy,0.0
+P00043,whey protein,,0,$115.99,0,115.99,General,muscle_gain_energy,0.0
+P00044,whey protein,,0,$115.99,0,115.99,General,muscle_gain_energy,0.0
+P00045,whey protein,,0,$115.99,0,115.99,General,muscle_gain_energy,0.0
+P00046,whey protein,,0,$115.99,0,115.99,General,muscle_gain_energy,0.0
+P00047,whey protein,,0,$34.99,0,34.99,General,muscle_gain_energy,0.0
+P00048,whey protein,,0,$34.99,0,34.99,General,muscle_gain_energy,0.0
+P00049,whey protein,,0,$34.99,0,34.99,General,muscle_gain_energy,0.0
+P00050,whey protein,,0,$34.99,0,34.99,General,muscle_gain_energy,0.0
+P00051,whey protein,,0,$34.99,0,34.99,General,muscle_gain_energy,0.0
+P00052,whey protein,,0,$34.99,0,34.99,General,muscle_gain_energy,0.0
+P00053,whey protein,,0,$34.99,0,34.99,General,muscle_gain_energy,0.0
+P00054,whey protein,,0,$56.98,0,56.98,General,muscle_gain_energy,0.0
+P00055,whey protein,,0,$56.98,0,56.98,General,muscle_gain_energy,0.0
+P00056,whey protein,,0,$56.98,0,56.98,General,muscle_gain_energy,0.0
+P00057,whey protein,,0,$56.98,0,56.98,General,muscle_gain_energy,0.0
+P00058,whey protein,,0,$56.98,0,56.98,General,muscle_gain_energy,0.0
+P00059,whey protein,,0,$56.98,0,56.98,General,muscle_gain_energy,0.0
+P00060,whey protein,,0,$56.98,0,56.98,General,muscle_gain_energy,0.0
+P00061,whey protein,,0,$56.98,0,56.98,General,muscle_gain_energy,0.0
+P00062,whey protein,,0,$20.24,0,20.24,General,muscle_gain_energy,0.0
+P00063,whey protein,,0,$20.24,0,20.24,General,muscle_gain_energy,0.0
+P00064,whey protein,,0,$20.24,0,20.24,General,muscle_gain_energy,0.0
+P00065,whey protein,,0,$20.24,0,20.24,General,muscle_gain_energy,0.0
+P00066,whey protein,,0,$37.49,0,37.49,General,muscle_gain_energy,0.0
+P00067,whey protein,,0,$37.49,0,37.49,General,muscle_gain_energy,0.0
+P00068,whey protein,,0,$37.49,0,37.49,General,muscle_gain_energy,0.0
+P00069,whey protein,,0,$37.49,0,37.49,General,muscle_gain_energy,0.0
+P00070,whey protein,,0,$37.49,0,37.49,General,muscle_gain_energy,0.0
+P00071,whey protein,,0,$3.74,0,3.74,General,muscle_gain_energy,0.325
+P00072,whey protein,,0,$3.74,0,3.74,General,muscle_gain_energy,0.325
+P00073,whey protein,,0,$3.74,0,3.74,General,muscle_gain_energy,0.325
+P00074,whey protein,,0,$3.74,0,3.74,General,muscle_gain_energy,0.325
+P00075,whey protein,,0,$24.99,0,24.99,General,muscle_gain_energy,0.0
+P00076,whey protein,,0,$24.99,0,24.99,General,muscle_gain_energy,0.0
+P00077,whey protein,,0,$24.99,0,24.99,General,muscle_gain_energy,0.0
+P00078,whey protein,,0,$24.99,0,24.99,General,muscle_gain_energy,0.0
+P00079,whey protein,,0,$29.99,0,29.99,General,muscle_gain_energy,0.0
+P00080,whey protein,,0,$29.99,0,29.99,General,muscle_gain_energy,0.0
+P00081,whey protein,,0,$29.99,0,29.99,General,muscle_gain_energy,0.0
+P00082,whey protein,,0,$29.99,0,29.99,General,muscle_gain_energy,0.0
+P00083,whey protein,,0,$29.99,0,29.99,General,muscle_gain_energy,0.0
+P00084,whey protein,,0,$29.99,0,29.99,General,muscle_gain_energy,0.0
+P00085,whey protein,,0,$29.99,0,29.99,General,muscle_gain_energy,0.0
+P00086,whey protein,,0,$29.99,0,29.99,General,muscle_gain_energy,0.0
+P00087,whey protein,,0,$29.99,0,29.99,General,muscle_gain_energy,0.0
+P00088,whey protein,,0,$29.99,0,29.99,General,muscle_gain_energy,0.0
+P00089,whey protein,,0,$29.99,0,29.99,General,muscle_gain_energy,0.0
+P00090,whey protein,,0,$29.99,0,29.99,General,muscle_gain_energy,0.0
+P00091,whey protein,,0,$29.99,0,29.99,General,muscle_gain_energy,0.0
+P00092,whey protein,,0,$29.99,0,29.99,General,muscle_gain_energy,0.0
+P00093,whey protein,,0,$29.99,0,29.99,General,muscle_gain_energy,0.0
+P00094,whey protein,,0,$48.99,0,48.99,General,muscle_gain_energy,0.0
+P00095,whey protein,,0,$48.99,0,48.99,General,muscle_gain_energy,0.0
+P00096,whey protein,,0,$48.99,0,48.99,General,muscle_gain_energy,0.0
+P00097,whey protein,,0,$48.99,0,48.99,General,muscle_gain_energy,0.0
+P00098,whey protein,,0,$48.99,0,48.99,General,muscle_gain_energy,0.0
+P00099,whey protein,,0,$48.99,0,48.99,General,muscle_gain_energy,0.0
+P00100,whey protein,,0,$48.99,0,48.99,General,muscle_gain_energy,0.0
+P00101,whey protein,,0,$48.99,0,48.99,General,muscle_gain_energy,0.0
+P00102,whey protein,,0,$48.99,0,48.99,General,muscle_gain_energy,0.0
+P00103,whey protein,,0,$48.99,0,48.99,General,muscle_gain_energy,0.0
+P00104,whey protein,,0,$48.99,0,48.99,General,muscle_gain_energy,0.0
+P00105,whey protein,,0,$48.99,0,48.99,General,muscle_gain_energy,0.0
+P00106,whey protein,,0,$99.99,0,99.99,General,muscle_gain_energy,0.0
+P00107,whey protein,,0,$99.99,0,99.99,General,muscle_gain_energy,0.0
+P00108,whey protein,,0,$32.99,0,32.99,General,muscle_gain_energy,0.0
+P00109,whey protein,,0,$32.99,0,32.99,General,muscle_gain_energy,0.0
+P00110,whey protein,,0,$32.99,0,32.99,General,muscle_gain_energy,0.0
+P00111,whey protein,,0,$32.99,0,32.99,General,muscle_gain_energy,0.0
+P00112,whey protein,,0,$32.99,0,32.99,General,muscle_gain_energy,0.0
+P00113,whey protein,,0,$32.99,0,32.99,General,muscle_gain_energy,0.0
+P00114,whey protein,,0,$32.99,0,32.99,General,muscle_gain_energy,0.0
+P00115,whey protein,,0,$32.99,0,32.99,General,muscle_gain_energy,0.0
+P00116,whey protein,,0,$32.99,0,32.99,General,muscle_gain_energy,0.0
+P00117,whey protein,,0,$32.99,0,32.99,General,muscle_gain_energy,0.0
+P00118,whey protein,,0,$32.99,0,32.99,General,muscle_gain_energy,0.0
+P00119,whey protein,,0,$32.99,0,32.99,General,muscle_gain_energy,0.0
+P00120,whey protein,,0,$32.99,0,32.99,General,muscle_gain_energy,0.0
+P00121,whey protein,,0,$32.99,0,32.99,General,muscle_gain_energy,0.0
+P00122,whey protein,,0,$51.99,0,51.99,General,muscle_gain_energy,0.0
+P00123,whey protein,,0,$51.99,0,51.99,General,muscle_gain_energy,0.0
+P00124,whey protein,,0,$51.99,0,51.99,General,muscle_gain_energy,0.0
+P00125,whey protein,,0,$51.99,0,51.99,General,muscle_gain_energy,0.0
+P00126,whey protein,,0,$51.99,0,51.99,General,muscle_gain_energy,0.0
+P00127,whey protein,,0,$51.99,0,51.99,General,muscle_gain_energy,0.0
+P00128,whey protein,,0,$51.99,0,51.99,General,muscle_gain_energy,0.0
+P00129,whey protein,,0,$51.99,0,51.99,General,muscle_gain_energy,0.0
+P00130,whey protein,,0,$74.99,0,74.99,General,muscle_gain_energy,0.0
+P00131,whey protein,,0,$74.99,0,74.99,General,muscle_gain_energy,0.0
+P00132,whey protein,,0,$78.74,0,78.74,General,muscle_gain_energy,0.0
+P00133,whey protein,,0,$79.99,0,79.99,General,muscle_gain_energy,0.0
+P00134,whey protein,,0,$79.99,0,79.99,General,muscle_gain_energy,0.0
+P00135,whey protein,,0,$79.99,0,79.99,General,muscle_gain_energy,0.0
+P00136,whey protein,,0,$79.99,0,79.99,General,muscle_gain_energy,0.0
+P00137,whey protein,,0,$79.99,0,79.99,General,muscle_gain_energy,0.0
+P00138,whey protein,,0,$79.99,0,79.99,General,muscle_gain_energy,0.0
+P00139,whey protein,,0,$79.99,0,79.99,General,muscle_gain_energy,0.0
+P00140,whey protein,,0,$79.99,0,79.99,General,muscle_gain_energy,0.0
+P00141,whey protein,,0,$79.99,0,79.99,General,muscle_gain_energy,0.0
+P00142,whey protein,,0,$79.99,0,79.99,General,muscle_gain_energy,0.0
+P00143,whey protein,,0,$79.99,0,79.99,General,muscle_gain_energy,0.0
+P00144,whey protein,,0,$39.99,0,39.99,General,muscle_gain_energy,0.0
+P00145,whey protein,,0,$39.99,0,39.99,General,muscle_gain_energy,0.0
+P00146,whey protein,,0,$67.99,0,67.99,General,muscle_gain_energy,0.0
+P00147,whey protein,,0,$67.99,0,67.99,General,muscle_gain_energy,0.0
+P00148,whey protein,,0,$37.99,0,37.99,General,muscle_gain_energy,0.0
+P00149,whey protein,,0,$37.99,0,37.99,General,muscle_gain_energy,0.0
+P00150,whey protein,,0,$62.99,0,62.99,General,muscle_gain_energy,0.0
+P00151,whey protein,,0,$62.99,0,62.99,General,muscle_gain_energy,0.0
+P00152,whey protein,,0,$35.99,0,35.99,General,muscle_gain_energy,0.0
+P00153,whey protein,,0,$35.99,0,35.99,General,muscle_gain_energy,0.0
+P00154,whey protein,,0,$35.99,0,35.99,General,muscle_gain_energy,0.0
+P00155,whey protein,,0,$35.99,0,35.99,General,muscle_gain_energy,0.0
+P00156,whey protein,,0,$35.99,0,35.99,General,muscle_gain_energy,0.0
+P00157,whey protein,,0,$56.99,0,56.99,General,muscle_gain_energy,0.0
+P00158,whey protein,,0,$56.99,0,56.99,General,muscle_gain_energy,0.0
+P00159,whey protein,,0,$56.99,0,56.99,General,muscle_gain_energy,0.0
+P00160,whey protein,,0,$56.99,0,56.99,General,muscle_gain_energy,0.0
+P00161,whey protein,,0,$56.99,0,56.99,General,muscle_gain_energy,0.0
+P00162,whey protein,,0,$39.99,0,39.99,General,muscle_gain_energy,0.0
+P00163,whey protein,,0,$39.99,0,39.99,General,muscle_gain_energy,0.0
+P00164,whey protein,,0,$32.99,0,32.99,General,muscle_gain_energy,0.0
+P00165,whey protein,,0,$32.99,0,32.99,General,muscle_gain_energy,0.0
+P00166,whey protein,,0,$32.99,0,32.99,General,muscle_gain_energy,0.0
+P00167,whey protein,,0,$32.99,0,32.99,General,muscle_gain_energy,0.0
+P00168,whey protein,,0,$62.99,0,62.99,General,muscle_gain_energy,0.0
+P00169,whey protein,,0,$62.99,0,62.99,General,muscle_gain_energy,0.0
+P00170,whey protein,,0,$62.99,0,62.99,General,muscle_gain_energy,0.0
+P00171,whey protein,,0,$62.99,0,62.99,General,muscle_gain_energy,0.0
+P00172,whey protein,,0,$89.99,0,89.99,General,muscle_gain_energy,0.0
+P00173,whey protein,,0,$4.99,0,4.99,General,muscle_gain_energy,0.3
+P00174,whey protein,,0,$4.99,0,4.99,General,muscle_gain_energy,0.3
+P00175,whey protein,,0,$4.99,0,4.99,General,muscle_gain_energy,0.3
+P00176,whey protein,,0,$4.99,0,4.99,General,muscle_gain_energy,0.3
+P00177,whey protein,,0,$4.99,0,4.99,General,muscle_gain_energy,0.3
+P00178,whey protein,,0,$4.99,0,4.99,General,muscle_gain_energy,0.3
+P00179,whey protein,,0,$4.99,0,4.99,General,muscle_gain_energy,0.3
+P00180,whey protein,,0,$4.99,0,4.99,General,muscle_gain_energy,0.3
+P00181,whey protein,,0,$4.99,0,4.99,General,muscle_gain_energy,0.3
+P00182,whey protein,,0,$4.99,0,4.99,General,muscle_gain_energy,0.3
+P00183,whey protein,,0,$24.99,0,24.99,General,muscle_gain_energy,0.0
+P00184,whey protein,,0,$24.99,0,24.99,General,muscle_gain_energy,0.0
+P00185,whey protein,,0,$24.99,0,24.99,General,muscle_gain_energy,0.0
+P00186,whey protein,,0,$24.99,0,24.99,General,muscle_gain_energy,0.0
+P00187,whey protein,,0,$24.99,0,24.99,General,muscle_gain_energy,0.0
+P00188,whey protein,,0,$24.99,0,24.99,General,muscle_gain_energy,0.0
+P00189,whey protein,,0,$24.99,0,24.99,General,muscle_gain_energy,0.0
+P00190,whey protein,,0,$24.99,0,24.99,General,muscle_gain_energy,0.0
+P00191,whey protein,,0,$24.99,0,24.99,General,muscle_gain_energy,0.0
+P00192,whey protein,,0,$3.74,0,3.74,General,muscle_gain_energy,0.325
+P00193,whey protein,,0,$3.74,0,3.74,General,muscle_gain_energy,0.325
+P00194,whey protein,,0,$3.74,0,3.74,General,muscle_gain_energy,0.325
+P00195,whey protein,,0,$3.74,0,3.74,General,muscle_gain_energy,0.325
+P00196,whey protein,,0,$3.74,0,3.74,General,muscle_gain_energy,0.325
+P00197,whey protein,,0,$3.74,0,3.74,General,muscle_gain_energy,0.325
+P00198,whey protein,,0,$20.24,0,20.24,General,muscle_gain_energy,0.0
+P00199,whey protein,,0,$20.24,0,20.24,General,muscle_gain_energy,0.0
+P00200,whey protein,,0,$20.24,0,20.24,General,muscle_gain_energy,0.0
+P00201,whey protein,,0,$20.24,0,20.24,General,muscle_gain_energy,0.0
+P00202,whey protein,,0,$20.24,0,20.24,General,muscle_gain_energy,0.0
+P00203,whey protein,,0,$20.24,0,20.24,General,muscle_gain_energy,0.0
+P00204,whey protein isolate,,0,$44.99,0,44.99,General,muscle_gain_energy,0.0
+P00205,whey protein isolate,,0,$44.99,0,44.99,General,muscle_gain_energy,0.0
+P00206,whey protein isolate,,0,$44.99,0,44.99,General,muscle_gain_energy,0.0
+P00207,whey protein isolate,,0,$14.99,0,14.99,General,muscle_gain_energy,0.1
+P00208,whey protein isolate,,0,$14.99,0,14.99,General,muscle_gain_energy,0.1
+P00209,whey protein isolate,,0,$14.99,0,14.99,General,muscle_gain_energy,0.1
+P00210,whey protein isolate,,0,$14.99,0,14.99,General,muscle_gain_energy,0.1
+P00211,whey protein isolate,,0,$37.49,0,37.49,General,muscle_gain_energy,0.0
+P00212,whey protein isolate,,0,$37.49,0,37.49,General,muscle_gain_energy,0.0
+P00213,whey protein isolate,,0,$37.49,0,37.49,General,muscle_gain_energy,0.0
+P00214,whey protein isolate,,0,$37.49,0,37.49,General,muscle_gain_energy,0.0
+P00215,whey protein isolate,,0,$37.49,0,37.49,General,muscle_gain_energy,0.0
+P00216,whey protein isolate,,0,$37.49,0,37.49,General,muscle_gain_energy,0.0
+P00217,whey protein isolate,,0,$37.49,0,37.49,General,muscle_gain_energy,0.0
+P00218,whey protein isolate,,0,$37.49,0,37.49,General,muscle_gain_energy,0.0
+P00219,whey protein isolate,,0,$37.49,0,37.49,General,muscle_gain_energy,0.0
+P00220,whey protein isolate,,0,$37.49,0,37.49,General,muscle_gain_energy,0.0
+P00221,whey protein isolate,,0,$37.49,0,37.49,General,muscle_gain_energy,0.0
+P00222,whey protein isolate,,0,$83.99,0,83.99,General,muscle_gain_energy,0.0
+P00223,whey protein isolate,,0,$83.99,0,83.99,General,muscle_gain_energy,0.0
+P00224,whey protein isolate,,0,$83.99,0,83.99,General,muscle_gain_energy,0.0
+P00225,whey protein isolate,,0,$83.99,0,83.99,General,muscle_gain_energy,0.0
+P00226,whey protein isolate,,0,$20.99,0,20.99,General,muscle_gain_energy,0.0
+P00227,whey protein isolate,,0,$20.99,0,20.99,General,muscle_gain_energy,0.0
+P00228,whey protein isolate,,0,$52.49,0,52.49,General,muscle_gain_energy,0.0
+P00229,whey protein isolate,,0,$52.49,0,52.49,General,muscle_gain_energy,0.0
+P00230,whey protein isolate,,0,$27.99,0,27.99,General,muscle_gain_energy,0.0
+P00231,whey protein isolate,,0,$27.99,0,27.99,General,muscle_gain_energy,0.0
+P00232,whey protein isolate,,0,$27.99,0,27.99,General,muscle_gain_energy,0.0
+P00233,whey protein isolate,,0,$27.99,0,27.99,General,muscle_gain_energy,0.0
+P00234,whey protein isolate,,0,$49.99,0,49.99,General,muscle_gain_energy,0.0
+P00235,whey protein isolate,,0,$49.99,0,49.99,General,muscle_gain_energy,0.0
+P00236,whey protein isolate,,0,$49.99,0,49.99,General,muscle_gain_energy,0.0
+P00237,whey protein isolate,,0,$49.99,0,49.99,General,muscle_gain_energy,0.0
+P00238,whey protein isolate,,0,$37.49,0,37.49,General,muscle_gain_energy,0.0
+P00239,whey protein isolate,,0,$37.49,0,37.49,General,muscle_gain_energy,0.0
+P00240,whey protein isolate,,0,$37.49,0,37.49,General,muscle_gain_energy,0.0
+P00241,whey protein isolate,,0,$37.49,0,37.49,General,muscle_gain_energy,0.0
+P00242,whey protein isolate,,0,$37.49,0,37.49,General,muscle_gain_energy,0.0
+P00243,whey protein isolate,,0,$37.49,0,37.49,General,muscle_gain_energy,0.0
+P00244,whey protein isolate,,0,$32.99,0,32.99,General,muscle_gain_energy,0.0
+P00245,whey protein isolate,,0,$32.99,0,32.99,General,muscle_gain_energy,0.0
+P00246,whey protein isolate,,0,$32.99,0,32.99,General,muscle_gain_energy,0.0
+P00247,whey protein isolate,,0,$52.99,0,52.99,General,muscle_gain_energy,0.0
+P00248,whey protein isolate,,0,$52.99,0,52.99,General,muscle_gain_energy,0.0
+P00249,whey protein isolate,,0,$52.99,0,52.99,General,muscle_gain_energy,0.0
+P00250,whey protein isolate,,0,$52.99,0,52.99,General,muscle_gain_energy,0.0
+P00251,whey protein isolate,,0,$19.99,0,19.99,General,muscle_gain_energy,0.0
+P00252,whey protein isolate,,0,$19.99,0,19.99,General,muscle_gain_energy,0.0
+P00253,whey protein isolate,,0,$19.99,0,19.99,General,muscle_gain_energy,0.0
+P00254,whey protein isolate,,0,$19.99,0,19.99,General,muscle_gain_energy,0.0
+P00255,whey protein isolate,,0,$38.62,0,38.62,General,muscle_gain_energy,0.0
+P00256,whey protein isolate,,0,$38.62,0,38.62,General,muscle_gain_energy,0.0
+P00257,whey protein isolate,,0,$38.62,0,38.62,General,muscle_gain_energy,0.0
+P00258,whey protein isolate,,0,$53.80,0,53.8,General,muscle_gain_energy,0.0
+P00259,whey protein isolate,,0,$53.80,0,53.8,General,muscle_gain_energy,0.0
+P00260,whey protein isolate,,0,$53.80,0,53.8,General,muscle_gain_energy,0.0
+P00261,whey protein isolate,,0,$53.80,0,53.8,General,muscle_gain_energy,0.0
+P00262,whey protein isolate,,0,$53.80,0,53.8,General,muscle_gain_energy,0.0
+P00263,whey protein isolate,,0,$4.99,0,4.99,General,muscle_gain_energy,0.3
+P00264,whey protein isolate,,0,$4.99,0,4.99,General,muscle_gain_energy,0.3
+P00265,whey protein isolate,,0,$4.99,0,4.99,General,muscle_gain_energy,0.3
+P00266,whey protein isolate,,0,$24.99,0,24.99,General,muscle_gain_energy,0.0
+P00267,whey protein isolate,,0,$24.99,0,24.99,General,muscle_gain_energy,0.0
+P00268,whey protein isolate,,0,$29.99,0,29.99,General,muscle_gain_energy,0.0
+P00269,whey protein isolate,,0,$29.99,0,29.99,General,muscle_gain_energy,0.0
+P00270,whey protein isolate,,0,$29.99,0,29.99,General,muscle_gain_energy,0.0
+P00271,whey protein isolate,,0,$29.99,0,29.99,General,muscle_gain_energy,0.0
+P00272,whey protein isolate,,0,$29.99,0,29.99,General,muscle_gain_energy,0.0
+P00273,whey protein isolate,,0,$29.99,0,29.99,General,muscle_gain_energy,0.0
+P00274,whey protein isolate,,0,$29.99,0,29.99,General,muscle_gain_energy,0.0
+P00275,whey protein isolate,,0,$29.99,0,29.99,General,muscle_gain_energy,0.0
+P00276,whey protein isolate,,0,$29.99,0,29.99,General,muscle_gain_energy,0.0
+P00277,whey protein isolate,,0,$29.99,0,29.99,General,muscle_gain_energy,0.0
+P00278,whey protein isolate,,0,$29.99,0,29.99,General,muscle_gain_energy,0.0
+P00279,whey protein isolate,,0,$29.99,0,29.99,General,muscle_gain_energy,0.0
+P00280,whey protein isolate,,0,$28.34,0,28.34,General,muscle_gain_energy,0.0
+P00281,whey protein isolate,,0,$28.34,0,28.34,General,muscle_gain_energy,0.0
+P00282,whey protein isolate,,0,$28.34,0,28.34,General,muscle_gain_energy,0.0
+P00283,whey protein isolate,,0,$28.34,0,28.34,General,muscle_gain_energy,0.0
+P00284,whey protein isolate,,0,$21.74,0,21.74,General,muscle_gain_energy,0.0
+P00285,whey protein isolate,,0,$21.74,0,21.74,General,muscle_gain_energy,0.0
+P00286,whey protein isolate,,0,$21.74,0,21.74,General,muscle_gain_energy,0.0
+P00287,whey protein isolate,,0,$21.74,0,21.74,General,muscle_gain_energy,0.0
+P00288,whey protein isolate,,0,$21.74,0,21.74,General,muscle_gain_energy,0.0
+P00289,whey protein isolate,,0,$27.74,0,27.74,General,muscle_gain_energy,0.0
+P00290,whey protein isolate,,0,$27.74,0,27.74,General,muscle_gain_energy,0.0
+P00291,whey protein isolate,,0,$32.99,0,32.99,General,muscle_gain_energy,0.0
+P00292,whey protein isolate,,0,$32.99,0,32.99,General,muscle_gain_energy,0.0
+P00293,whey protein isolate,,0,$32.99,0,32.99,General,muscle_gain_energy,0.0
+P00294,whey protein isolate,,0,$74.99,0,74.99,General,muscle_gain_energy,0.0
+P00295,whey protein isolate,,0,$74.99,0,74.99,General,muscle_gain_energy,0.0
+P00296,whey protein isolate,,0,$74.99,0,74.99,General,muscle_gain_energy,0.0
+P00297,whey protein isolate,,0,$63.97,0,63.97,General,muscle_gain_energy,0.0
+P00298,whey protein isolate,,0,$63.97,0,63.97,General,muscle_gain_energy,0.0
+P00299,whey protein isolate,,0,$63.97,0,63.97,General,muscle_gain_energy,0.0
+P00300,whey protein isolate,,0,$65.99,0,65.99,General,muscle_gain_energy,0.0
+P00301,whey protein isolate,,0,$44.99,0,44.99,General,muscle_gain_energy,0.0
+P00302,whey protein isolate,,0,$42.99,0,42.99,General,muscle_gain_energy,0.0
+P00303,whey protein isolate,,0,$42.99,0,42.99,General,muscle_gain_energy,0.0
+P00304,whey protein isolate,,0,$31.99,0,31.99,General,muscle_gain_energy,0.0
+P00305,whey protein isolate,,0,$31.99,0,31.99,General,muscle_gain_energy,0.0
+P00306,whey protein isolate,,0,$31.99,0,31.99,General,muscle_gain_energy,0.0
+P00307,whey protein isolate,,0,$29.99,0,29.99,General,muscle_gain_energy,0.0
+P00308,whey protein isolate,,0,$29.99,0,29.99,General,muscle_gain_energy,0.0
+P00309,whey protein isolate,,0,$29.99,0,29.99,General,muscle_gain_energy,0.0
+P00310,whey protein isolate,,0,$39.99,0,39.99,General,muscle_gain_energy,0.0
+P00311,whey protein isolate,,0,$39.99,0,39.99,General,muscle_gain_energy,0.0
+P00312,whey protein isolate,,0,$39.99,0,39.99,General,muscle_gain_energy,0.0
+P00313,whey protein isolate,,0,$39.99,0,39.99,General,muscle_gain_energy,0.0
+P00314,whey protein isolate,,0,$39.99,0,39.99,General,muscle_gain_energy,0.0
+P00315,whey protein isolate,,0,$39.99,0,39.99,General,muscle_gain_energy,0.0
+P00316,whey protein isolate,,0,$39.99,0,39.99,General,muscle_gain_energy,0.0
+P00317,whey protein isolate,,0,$79.99,0,79.99,General,muscle_gain_energy,0.0
+P00318,whey protein isolate,,0,$79.99,0,79.99,General,muscle_gain_energy,0.0
+P00319,whey protein isolate,,0,$79.99,0,79.99,General,muscle_gain_energy,0.0
+P00320,whey protein isolate,,0,$39.19,0,39.19,General,muscle_gain_energy,0.0
+P00321,whey protein isolate,,0,$40.79,0,40.79,General,muscle_gain_energy,0.0
+P00322,whey protein isolate,,0,$35.01,0,35.01,General,muscle_gain_energy,0.0
+P00323,whey protein isolate,,0,$35.01,0,35.01,General,muscle_gain_energy,0.0
+P00324,whey protein isolate,,0,$35.01,0,35.01,General,muscle_gain_energy,0.0
+P00325,whey protein isolate,,0,$35.01,0,35.01,General,muscle_gain_energy,0.0
+P00326,whey protein isolate,,0,$35.99,0,35.99,General,muscle_gain_energy,0.0
+P00327,whey protein isolate,,0,$35.99,0,35.99,General,muscle_gain_energy,0.0
+P00328,whey protein isolate,,0,$35.99,0,35.99,General,muscle_gain_energy,0.0
+P00329,whey protein isolate,,0,$35.99,0,35.99,General,muscle_gain_energy,0.0
+P00330,whey protein isolate,,0,$35.99,0,35.99,General,muscle_gain_energy,0.0
+P00331,whey protein isolate,,0,$35.99,0,35.99,General,muscle_gain_energy,0.0
+P00332,whey protein isolate,,0,$35.99,0,35.99,General,muscle_gain_energy,0.0
+P00333,whey protein isolate,,0,$35.99,0,35.99,General,muscle_gain_energy,0.0
+P00334,whey protein isolate,,0,$57.99,0,57.99,General,muscle_gain_energy,0.0
+P00335,whey protein isolate,,0,$57.99,0,57.99,General,muscle_gain_energy,0.0
+P00336,whey protein isolate,,0,$57.99,0,57.99,General,muscle_gain_energy,0.0
+P00337,whey protein isolate,,0,$57.99,0,57.99,General,muscle_gain_energy,0.0
+P00338,whey protein isolate,,0,$57.99,0,57.99,General,muscle_gain_energy,0.0
+P00339,whey protein isolate,,0,$57.99,0,57.99,General,muscle_gain_energy,0.0
+P00340,whey protein isolate,,0,$57.99,0,57.99,General,muscle_gain_energy,0.0
+P00341,whey protein isolate,,0,$57.99,0,57.99,General,muscle_gain_energy,0.0
+P00342,whey protein isolate,,0,$57.99,0,57.99,General,muscle_gain_energy,0.0
+P00343,whey protein isolate,,0,$57.99,0,57.99,General,muscle_gain_energy,0.0
+P00344,whey protein isolate,,0,$57.99,0,57.99,General,muscle_gain_energy,0.0
+P00345,whey protein isolate,,0,$57.99,0,57.99,General,muscle_gain_energy,0.0
+P00346,whey protein isolate,,0,$9.99,0,9.99,General,muscle_gain_energy,0.2
+P00347,whey protein isolate,,0,$132.99,0,132.99,General,muscle_gain_energy,0.0
+P00348,whey protein isolate,,0,$132.99,0,132.99,General,muscle_gain_energy,0.0
+P00349,whey protein isolate,,0,$132.99,0,132.99,General,muscle_gain_energy,0.0
+P00350,whey protein isolate,,0,$80.24,0,80.24,General,muscle_gain_energy,0.0
+P00351,whey protein isolate,,0,$80.24,0,80.24,General,muscle_gain_energy,0.0
+P00352,whey protein isolate,,0,$21.59,0,21.59,General,muscle_gain_energy,0.0
+P00353,whey protein isolate,,0,$34.99,0,34.99,General,muscle_gain_energy,0.0
+P00354,whey protein isolate,,0,$34.99,0,34.99,General,muscle_gain_energy,0.0
+P00355,whey protein isolate,,0,$34.99,0,34.99,General,muscle_gain_energy,0.0
+P00356,whey protein isolate,,0,$34.99,0,34.99,General,muscle_gain_energy,0.0
+P00357,whey protein isolate,,0,$34.99,0,34.99,General,muscle_gain_energy,0.0
+P00358,whey protein isolate,,0,$34.99,0,34.99,General,muscle_gain_energy,0.0
+P00359,whey protein isolate,,0,$34.99,0,34.99,General,muscle_gain_energy,0.0
+P00360,whey protein isolate,,0,$34.99,0,34.99,General,muscle_gain_energy,0.0
+P00361,whey protein isolate,,0,$34.99,0,34.99,General,muscle_gain_energy,0.0
+P00362,whey protein isolate,,0,$34.99,0,34.99,General,muscle_gain_energy,0.0
+P00363,whey protein isolate,,0,$34.99,0,34.99,General,muscle_gain_energy,0.0
+P00364,whey protein isolate,,0,$71.24,0,71.24,General,muscle_gain_energy,0.0
+P00365,whey protein isolate,,0,$71.24,0,71.24,General,muscle_gain_energy,0.0
+P00366,whey protein isolate,,0,$71.24,0,71.24,General,muscle_gain_energy,0.0
+P00367,whey protein isolate,,0,$71.24,0,71.24,General,muscle_gain_energy,0.0
+P00368,whey protein isolate,,0,$71.24,0,71.24,General,muscle_gain_energy,0.0
+P00369,whey protein isolate,,0,$71.24,0,71.24,General,muscle_gain_energy,0.0
+P00370,whey protein isolate,,0,$71.24,0,71.24,General,muscle_gain_energy,0.0
+P00371,whey protein isolate,,0,$27.99,0,27.99,General,muscle_gain_energy,0.0
+P00372,whey protein isolate,,0,$27.99,0,27.99,General,muscle_gain_energy,0.0
+P00373,whey protein isolate,,0,$47.99,0,47.99,General,muscle_gain_energy,0.0
+P00374,whey protein isolate,,0,$40.49,0,40.49,General,muscle_gain_energy,0.0
+P00375,whey protein isolate,,0,$40.49,0,40.49,General,muscle_gain_energy,0.0
+P00376,whey protein isolate,,0,$40.49,0,40.49,General,muscle_gain_energy,0.0
+P00377,whey protein isolate,,0,$40.49,0,40.49,General,muscle_gain_energy,0.0
+P00378,whey protein isolate,,0,$40.49,0,40.49,General,muscle_gain_energy,0.0
+P00379,whey protein isolate,,0,$65.24,0,65.24,General,muscle_gain_energy,0.0
+P00380,whey protein isolate,,0,$35.99,0,35.99,General,muscle_gain_energy,0.0
+P00381,whey protein isolate,,0,$39.99,0,39.99,General,muscle_gain_energy,0.0
+P00382,whey protein isolate,,0,$75.99,0,75.99,General,muscle_gain_energy,0.0
+P00383,whey protein isolate,,0,$75.99,0,75.99,General,muscle_gain_energy,0.0
+P00384,whey protein isolate,,0,$75.99,0,75.99,General,muscle_gain_energy,0.0
+P00385,whey protein isolate,,0,$129.99,0,129.99,General,muscle_gain_energy,0.0
+P00386,whey protein isolate,,0,$129.99,0,129.99,General,muscle_gain_energy,0.0
+P00387,whey protein isolate,,0,$129.99,0,129.99,General,muscle_gain_energy,0.0
+P00388,whey protein isolate,,0,$59.99,0,59.99,General,muscle_gain_energy,0.0
+P00389,whey protein isolate,,0,$59.99,0,59.99,General,muscle_gain_energy,0.0
+P00390,whey protein isolate,,0,$52.99,0,52.99,General,muscle_gain_energy,0.0
+P00391,whey protein isolate,,0,$47.99,0,47.99,General,muscle_gain_energy,0.0
+P00392,whey protein isolate,,0,$47.99,0,47.99,General,muscle_gain_energy,0.0
+P00393,whey protein isolate,,0,$47.99,0,47.99,General,muscle_gain_energy,0.0
+P00394,whey protein isolate,,0,$43.99,0,43.99,General,muscle_gain_energy,0.0
+P00395,whey protein isolate,,0,$43.99,0,43.99,General,muscle_gain_energy,0.0
+P00396,whey protein isolate,,0,$45.10,0,45.1,General,muscle_gain_energy,0.0
+P00397,whey protein isolate,,0,$46.99,0,46.99,General,muscle_gain_energy,0.0
+P00398,whey protein isolate,,0,$46.99,0,46.99,General,muscle_gain_energy,0.0
+P00399,whey protein isolate,,0,$46.99,0,46.99,General,muscle_gain_energy,0.0
+P00400,whey protein isolate,,0,$31.99,0,31.99,General,muscle_gain_energy,0.0
+P00401,whey protein isolate,,0,$31.99,0,31.99,General,muscle_gain_energy,0.0
+P00402,whey protein isolate,,0,$74.99,0,74.99,General,muscle_gain_energy,0.0
+P00403,whey protein isolate,,0,$74.99,0,74.99,General,muscle_gain_energy,0.0
+P00404,whey protein isolate,,0,$44.99,0,44.99,General,muscle_gain_energy,0.0
+P00405,whey protein isolate,,0,$44.99,0,44.99,General,muscle_gain_energy,0.0
+P00406,whey protein isolate,,0,$53.12,0,53.12,General,muscle_gain_energy,0.0
+P00407,whey protein isolate,,0,$24.99,0,24.99,General,muscle_gain_energy,0.0
+P00408,whey protein isolate,,0,$33.59,0,33.59,General,muscle_gain_energy,0.0
+P00409,whey protein isolate,,0,$33.59,0,33.59,General,muscle_gain_energy,0.0
+P00410,whey protein isolate,,0,$22.39,0,22.39,General,muscle_gain_energy,0.0
+P00411,whey protein isolate,,0,$22.39,0,22.39,General,muscle_gain_energy,0.0
+P00412,whey protein isolate,,0,$22.39,0,22.39,General,muscle_gain_energy,0.0
+P00413,whey protein isolate,,0,$43.99,0,43.99,General,muscle_gain_energy,0.0
+P00414,whey protein isolate,,0,$43.99,0,43.99,General,muscle_gain_energy,0.0
+P00415,whey protein isolate,,0,$42.99,0,42.99,General,muscle_gain_energy,0.0
+P00416,whey protein isolate,,0,$42.99,0,42.99,General,muscle_gain_energy,0.0
+P00417,whey protein isolate,,0,$42.99,0,42.99,General,muscle_gain_energy,0.0
+P00418,whey protein isolate,,0,$42.99,0,42.99,General,muscle_gain_energy,0.0
+P00419,whey protein isolate,,0,$42.99,0,42.99,General,muscle_gain_energy,0.0
+P00420,whey protein isolate,,0,$34.99,0,34.99,General,muscle_gain_energy,0.0
+P00421,whey protein isolate,,0,$34.99,0,34.99,General,muscle_gain_energy,0.0
+P00422,whey protein isolate,,0,$34.99,0,34.99,General,muscle_gain_energy,0.0
+P00423,whey protein isolate,,0,$34.99,0,34.99,General,muscle_gain_energy,0.0
+P00424,whey protein isolate,,0,$60.99,0,60.99,General,muscle_gain_energy,0.0
+P00425,whey protein isolate,,0,$60.99,0,60.99,General,muscle_gain_energy,0.0
+P00426,whey protein isolate,,0,$90.99,0,90.99,General,muscle_gain_energy,0.0
+P00427,whey protein isolate,,0,$93.99,0,93.99,General,muscle_gain_energy,0.0
+P00428,whey protein isolate,,0,$48.79,0,48.79,General,muscle_gain_energy,0.0
+P00429,whey protein isolate,,0,$26.99,0,26.99,General,muscle_gain_energy,0.0
+P00430,whey protein isolate,,0,$37.59,0,37.59,General,muscle_gain_energy,0.0
+P00431,whey protein isolate,,0,$39.99,0,39.99,General,muscle_gain_energy,0.0
+P00432,whey protein isolate,,0,$71.99,0,71.99,General,muscle_gain_energy,0.0
+P00433,whey protein isolate,,0,$71.99,0,71.99,General,muscle_gain_energy,0.0
+P00434,whey protein isolate,,0,$71.99,0,71.99,General,muscle_gain_energy,0.0
+P00435,whey protein isolate,,0,$33.29,0,33.29,General,muscle_gain_energy,0.0
+P00436,whey protein isolate,,0,$53.99,0,53.99,General,muscle_gain_energy,0.0
+P00437,whey protein isolate,,0,$53.99,0,53.99,General,muscle_gain_energy,0.0
+P00438,whey protein isolate,,0,$53.99,0,53.99,General,muscle_gain_energy,0.0
+P00439,whey protein isolate,,0,$36.28,0,36.28,General,muscle_gain_energy,0.0
+P00440,whey protein isolate,,0,$36.28,0,36.28,General,muscle_gain_energy,0.0
+P00441,whey protein isolate,,0,$36.28,0,36.28,General,muscle_gain_energy,0.0
+P00442,whey protein isolate,,0,$36.28,0,36.28,General,muscle_gain_energy,0.0
+P00443,whey protein isolate,,0,$36.28,0,36.28,General,muscle_gain_energy,0.0
+P00444,whey protein isolate,,0,$36.28,0,36.28,General,muscle_gain_energy,0.0
+P00445,whey protein isolate,,0,$36.28,0,36.28,General,muscle_gain_energy,0.0
+P00446,whey protein isolate,,0,$36.28,0,36.28,General,muscle_gain_energy,0.0
+P00447,whey protein isolate,,0,$90.63,0,90.63,General,muscle_gain_energy,0.0
+P00448,whey protein isolate,,0,$90.63,0,90.63,General,muscle_gain_energy,0.0
+P00449,whey protein isolate,,0,$90.63,0,90.63,General,muscle_gain_energy,0.0
+P00450,whey protein isolate,,0,$90.63,0,90.63,General,muscle_gain_energy,0.0
+P00451,whey protein isolate,,0,$90.63,0,90.63,General,muscle_gain_energy,0.0
+P00452,whey protein isolate,,0,$52.99,0,52.99,General,muscle_gain_energy,0.0
+P00453,whey protein isolate,,0,$52.99,0,52.99,General,muscle_gain_energy,0.0
+P00454,whey protein isolate,,0,$52.99,0,52.99,General,muscle_gain_energy,0.0
+P00455,whey protein isolate,,0,$28.49,0,28.49,General,muscle_gain_energy,0.0
+P00456,whey protein isolate,,0,$65.99,0,65.99,General,muscle_gain_energy,0.0
+P00457,whey protein isolate,,0,$65.99,0,65.99,General,muscle_gain_energy,0.0
+P00458,whey protein isolate,,0,$30.49,0,30.49,General,muscle_gain_energy,0.0
+P00459,whey protein isolate,,0,$31.99,0,31.99,General,muscle_gain_energy,0.0
+P00460,whey protein isolate,,0,$31.99,0,31.99,General,muscle_gain_energy,0.0
+P00461,whey protein isolate,,0,$31.99,0,31.99,General,muscle_gain_energy,0.0
+P00462,whey protein isolate,,0,$36.99,0,36.99,General,muscle_gain_energy,0.0
+P00463,whey protein isolate,,0,$73.70,0,73.7,General,muscle_gain_energy,0.0
+P00464,whey protein isolate,,0,$85.99,0,85.99,General,muscle_gain_energy,0.0
+P00465,whey protein isolate,,0,$37.99,0,37.99,General,muscle_gain_energy,0.0
+P00466,whey protein isolate,,0,$37.99,0,37.99,General,muscle_gain_energy,0.0
+P00467,whey protein isolate,,0,$37.99,0,37.99,General,muscle_gain_energy,0.0
+P00468,whey protein isolate,,0,$44.99,0,44.99,General,muscle_gain_energy,0.0
+P00469,whey protein isolate,,0,$44.99,0,44.99,General,muscle_gain_energy,0.0
+P00470,whey protein isolate,,0,$44.99,0,44.99,General,muscle_gain_energy,0.0
+P00471,whey protein isolate,,0,$32.99,0,32.99,General,muscle_gain_energy,0.0
+P00472,whey protein isolate,,0,$80.99,0,80.99,General,muscle_gain_energy,0.0
+P00473,whey protein isolate,,0,$81.99,0,81.99,General,muscle_gain_energy,0.0
+P00474,whey protein isolate,,0,$81.99,0,81.99,General,muscle_gain_energy,0.0
+P00475,whey protein isolate,,0,$31.99,0,31.99,General,muscle_gain_energy,0.0
+P00476,whey protein isolate,,0,$31.99,0,31.99,General,muscle_gain_energy,0.0
+P00477,whey protein isolate,,0,$37.99,0,37.99,General,muscle_gain_energy,0.0
+P00478,whey protein isolate,,0,$37.99,0,37.99,General,muscle_gain_energy,0.0
+P00479,whey protein isolate,,0,$53.40,0,53.4,General,muscle_gain_energy,0.0
+P00480,whey protein isolate,,0,$48.74,0,48.74,General,muscle_gain_energy,0.0
+P00481,whey protein isolate,,0,$48.74,0,48.74,General,muscle_gain_energy,0.0
+P00482,whey protein isolate,,0,$82.99,0,82.99,General,muscle_gain_energy,0.0
+P00483,whey protein isolate,,0,$51.99,0,51.99,General,muscle_gain_energy,0.0
+P00484,whey protein isolate,,0,$51.99,0,51.99,General,muscle_gain_energy,0.0
+P00485,whey protein isolate,,0,$92.69,0,92.69,General,muscle_gain_energy,0.0
+P00486,whey protein isolate,,0,$45.35,0,45.35,General,muscle_gain_energy,0.0
+P00487,whey protein isolate,,0,$45.35,0,45.35,General,muscle_gain_energy,0.0
+P00488,whey protein isolate,,0,$45.35,0,45.35,General,muscle_gain_energy,0.0
+P00489,whey protein isolate,,0,$102.99,0,102.99,General,muscle_gain_energy,0.0
+P00490,whey protein isolate,,0,$43.99,0,43.99,General,muscle_gain_energy,0.0
+P00491,micellar casein protein,,0,$39.99,0,39.99,General,muscle_gain_energy,0.0
+P00492,micellar casein protein,,0,$39.99,0,39.99,General,muscle_gain_energy,0.0
+P00493,micellar casein protein,,0,$34.99,0,34.99,General,muscle_gain_energy,0.0
+P00494,micellar casein protein,,0,$34.99,0,34.99,General,muscle_gain_energy,0.0
+P00495,micellar casein protein,,0,$34.99,0,34.99,General,muscle_gain_energy,0.0
+P00496,micellar casein protein,,0,$34.99,0,34.99,General,muscle_gain_energy,0.0
+P00497,micellar casein protein,,0,$34.99,0,34.99,General,muscle_gain_energy,0.0
+P00498,micellar casein protein,,0,$34.99,0,34.99,General,muscle_gain_energy,0.0
+P00499,micellar casein protein,,0,$34.99,0,34.99,General,muscle_gain_energy,0.0
+P00500,micellar casein protein,,0,$34.99,0,34.99,General,muscle_gain_energy,0.0
+P00501,micellar casein protein,,0,$66.99,0,66.99,General,muscle_gain_energy,0.0
+P00502,micellar casein protein,,0,$66.99,0,66.99,General,muscle_gain_energy,0.0
+P00503,micellar casein protein,,0,$66.99,0,66.99,General,muscle_gain_energy,0.0
+P00504,micellar casein protein,,0,$66.99,0,66.99,General,muscle_gain_energy,0.0
+P00505,micellar casein protein,,0,$66.99,0,66.99,General,muscle_gain_energy,0.0
+P00506,micellar casein protein,,0,$66.99,0,66.99,General,muscle_gain_energy,0.0
+P00507,micellar casein protein,,0,$34.99,0,34.99,General,muscle_gain_energy,0.0
+P00508,micellar casein protein,,0,$34.99,0,34.99,General,muscle_gain_energy,0.0
+P00509,micellar casein protein,,0,$26.99,0,26.99,General,muscle_gain_energy,0.0
+P00510,micellar casein protein,,0,$26.99,0,26.99,General,muscle_gain_energy,0.0
+P00511,micellar casein protein,,0,$26.99,0,26.99,General,muscle_gain_energy,0.0
+P00512,micellar casein protein,,0,$26.99,0,26.99,General,muscle_gain_energy,0.0
+P00513,micellar casein protein,,0,$26.99,0,26.99,General,muscle_gain_energy,0.0
+P00514,micellar casein protein,,0,$26.99,0,26.99,General,muscle_gain_energy,0.0
+P00515,micellar casein protein,,0,$62.24,0,62.24,General,muscle_gain_energy,0.0
+P00516,micellar casein protein,,0,$50.99,0,50.99,General,muscle_gain_energy,0.0
+P00517,micellar casein protein,,0,$50.99,0,50.99,General,muscle_gain_energy,0.0
+P00518,micellar casein protein,,0,$50.99,0,50.99,General,muscle_gain_energy,0.0
+P00519,micellar casein protein,,0,$50.99,0,50.99,General,muscle_gain_energy,0.0
+P00520,micellar casein protein,,0,$50.99,0,50.99,General,muscle_gain_energy,0.0
+P00521,micellar casein protein,,0,$50.99,0,50.99,General,muscle_gain_energy,0.0
+P00522,micellar casein protein,,0,$29.99,0,29.99,General,muscle_gain_energy,0.0
+P00523,micellar casein protein,,0,$29.99,0,29.99,General,muscle_gain_energy,0.0
+P00524,micellar casein protein,,0,$49.99,0,49.99,General,muscle_gain_energy,0.0
+P00525,micellar casein protein,,0,$49.99,0,49.99,General,muscle_gain_energy,0.0
+P00526,micellar casein protein,,0,$49.99,0,49.99,General,muscle_gain_energy,0.0
+P00527,micellar casein protein,,0,$49.99,0,49.99,General,muscle_gain_energy,0.0
+P00528,micellar casein protein,,0,$34.99,0,34.99,General,muscle_gain_energy,0.0
+P00529,micellar casein protein,,0,$34.99,0,34.99,General,muscle_gain_energy,0.0
+P00530,micellar casein protein,,0,$57.99,0,57.99,General,muscle_gain_energy,0.0
+P00531,micellar casein protein,,0,$22.49,0,22.49,General,muscle_gain_energy,0.0
+P00532,micellar casein protein,,0,$22.49,0,22.49,General,muscle_gain_energy,0.0
+P00533,micellar casein protein,,0,$22.49,0,22.49,General,muscle_gain_energy,0.0
+P00534,micellar casein protein,,0,$22.49,0,22.49,General,muscle_gain_energy,0.0
+P00535,micellar casein protein,,0,$37.49,0,37.49,General,muscle_gain_energy,0.0
+P00536,micellar casein protein,,0,$37.49,0,37.49,General,muscle_gain_energy,0.0
+P00537,micellar casein protein,,0,$49.99,0,49.99,General,muscle_gain_energy,0.0
+P00538,micellar casein protein,,0,$49.99,0,49.99,General,muscle_gain_energy,0.0
+P00539,micellar casein protein,,0,$28.99,0,28.99,General,muscle_gain_energy,0.0
+P00540,micellar casein protein,,0,$28.99,0,28.99,General,muscle_gain_energy,0.0
+P00541,micellar casein protein,,0,$28.99,0,28.99,General,muscle_gain_energy,0.0
+P00542,micellar casein protein,,0,$47.99,0,47.99,General,muscle_gain_energy,0.0
+P00543,micellar casein protein,,0,$47.99,0,47.99,General,muscle_gain_energy,0.0
+P00544,micellar casein protein,,0,$47.99,0,47.99,General,muscle_gain_energy,0.0
+P00545,micellar casein protein,,0,$48.29,0,48.29,General,muscle_gain_energy,0.0
+P00546,micellar casein protein,,0,$40.49,0,40.49,General,muscle_gain_energy,0.0
+P00547,micellar casein protein,,0,$40.49,0,40.49,General,muscle_gain_energy,0.0
+P00548,micellar casein protein,,0,$39.99,0,39.99,General,muscle_gain_energy,0.0
+P00549,micellar casein protein,,0,$27.99,0,27.99,General,muscle_gain_energy,0.0
+P00550,micellar casein protein,,0,$49.99,0,49.99,General,muscle_gain_energy,0.0
+P00551,micellar casein protein,,0,$49.99,0,49.99,General,muscle_gain_energy,0.0
+P00552,micellar casein protein,,0,$39.99,0,39.99,General,muscle_gain_energy,0.0
+P00553,micellar casein protein,,0,$39.99,0,39.99,General,muscle_gain_energy,0.0
+P00554,micellar casein protein,,0,$52.99,0,52.99,General,muscle_gain_energy,0.0
+P00555,micellar casein protein,,0,$52.99,0,52.99,General,muscle_gain_energy,0.0
+P00556,micellar casein protein,,0,$84.99,0,84.99,General,muscle_gain_energy,0.0
+P00557,micellar casein protein,,0,$84.99,0,84.99,General,muscle_gain_energy,0.0
+P00558,micellar casein protein,,0,$84.99,0,84.99,General,muscle_gain_energy,0.0
+P00559,micellar casein protein,,0,$84.99,0,84.99,General,muscle_gain_energy,0.0
+P00560,micellar casein protein,,0,$51.99,0,51.99,General,muscle_gain_energy,0.0
+P00561,micellar casein protein,,0,$51.99,0,51.99,General,muscle_gain_energy,0.0
+P00562,micellar casein protein,,0,$100.99,0,100.99,General,muscle_gain_energy,0.0
+P00563,mass gainers,,0,$51.99,0,51.99,General,muscle_gain_energy,0.0
+P00564,mass gainers,,0,$51.99,0,51.99,General,muscle_gain_energy,0.0
+P00565,mass gainers,,0,$51.99,0,51.99,General,muscle_gain_energy,0.0
+P00566,mass gainers,,0,$51.99,0,51.99,General,muscle_gain_energy,0.0
+P00567,mass gainers,,0,$100.99,0,100.99,General,muscle_gain_energy,0.0
+P00568,mass gainers,,0,$100.99,0,100.99,General,muscle_gain_energy,0.0
+P00569,mass gainers,,0,$100.99,0,100.99,General,muscle_gain_energy,0.0
+P00570,mass gainers,,0,$42.59,0,42.59,General,muscle_gain_energy,0.0
+P00571,mass gainers,,0,$42.59,0,42.59,General,muscle_gain_energy,0.0
+P00572,mass gainers,,0,$95.99,0,95.99,General,muscle_gain_energy,0.0
+P00573,mass gainers,,0,$95.99,0,95.99,General,muscle_gain_energy,0.0
+P00574,mass gainers,,0,$47.99,0,47.99,General,muscle_gain_energy,0.0
+P00575,mass gainers,,0,$47.99,0,47.99,General,muscle_gain_energy,0.0
+P00576,mass gainers,,0,$47.99,0,47.99,General,muscle_gain_energy,0.0
+P00577,mass gainers,,0,$47.99,0,47.99,General,muscle_gain_energy,0.0
+P00578,mass gainers,,0,$49.99,0,49.99,General,muscle_gain_energy,0.0
+P00579,mass gainers,,0,$44.99,0,44.99,General,muscle_gain_energy,0.0
+P00580,mass gainers,,0,$44.99,0,44.99,General,muscle_gain_energy,0.0
+P00581,mass gainers,,0,$59.99,0,59.99,General,muscle_gain_energy,0.0
+P00582,mass gainers,,0,$59.99,0,59.99,General,muscle_gain_energy,0.0
+P00583,mass gainers,,0,$59.99,0,59.99,General,muscle_gain_energy,0.0
+P00584,mass gainers,,0,$33.99,0,33.99,General,muscle_gain_energy,0.0
+P00585,mass gainers,,0,$33.99,0,33.99,General,muscle_gain_energy,0.0
+P00586,mass gainers,,0,$54.39,0,54.39,General,muscle_gain_energy,0.0
+P00587,mass gainers,,0,$37.39,0,37.39,General,muscle_gain_energy,0.0
+P00588,mass gainers,,0,$37.39,0,37.39,General,muscle_gain_energy,0.0
+P00589,mass gainers,,0,$37.39,0,37.39,General,muscle_gain_energy,0.0
+P00590,mass gainers,,0,$48.74,0,48.74,General,muscle_gain_energy,0.0
+P00591,mass gainers,,0,$48.74,0,48.74,General,muscle_gain_energy,0.0
+P00592,mass gainers,,0,$48.74,0,48.74,General,muscle_gain_energy,0.0
+P00593,mass gainers,,0,$47.98,0,47.98,General,muscle_gain_energy,0.0
+P00594,mass gainers,,0,$47.98,0,47.98,General,muscle_gain_energy,0.0
+P00595,mass gainers,,0,$14.99,0,14.99,General,muscle_gain_energy,0.1
+P00596,mass gainers,,0,$14.99,0,14.99,General,muscle_gain_energy,0.1
+P00597,mass gainers,,0,$14.99,0,14.99,General,muscle_gain_energy,0.1
+P00598,mass gainers,,0,$14.99,0,14.99,General,muscle_gain_energy,0.1
+P00599,mass gainers,,0,$23.99,0,23.99,General,muscle_gain_energy,0.0
+P00600,mass gainers,,0,$23.99,0,23.99,General,muscle_gain_energy,0.0
+P00601,mass gainers,,0,$23.99,0,23.99,General,muscle_gain_energy,0.0
+P00602,mass gainers,,0,$52.99,0,52.99,General,muscle_gain_energy,0.0
+P00603,mass gainers,,0,$52.99,0,52.99,General,muscle_gain_energy,0.0
+P00604,mass gainers,,0,$52.99,0,52.99,General,muscle_gain_energy,0.0
+P00605,mass gainers,,0,$52.99,0,52.99,General,muscle_gain_energy,0.0
+P00606,mass gainers,,0,$28.99,0,28.99,General,muscle_gain_energy,0.0
+P00607,mass gainers,,0,$28.99,0,28.99,General,muscle_gain_energy,0.0
+P00608,mass gainers,,0,$28.99,0,28.99,General,muscle_gain_energy,0.0
+P00609,mass gainers,,0,$44.99,0,44.99,General,muscle_gain_energy,0.0
+P00610,mass gainers,,0,$44.99,0,44.99,General,muscle_gain_energy,0.0
+P00611,mass gainers,,0,$44.99,0,44.99,General,muscle_gain_energy,0.0
+P00612,mass gainers,,0,$44.99,0,44.99,General,muscle_gain_energy,0.0
+P00613,mass gainers,,0,$44.99,0,44.99,General,muscle_gain_energy,0.0
+P00614,mass gainers,,0,$44.99,0,44.99,General,muscle_gain_energy,0.0
+P00615,mass gainers,,0,$61.99,0,61.99,General,muscle_gain_energy,0.0
+P00616,mass gainers,,0,$61.99,0,61.99,General,muscle_gain_energy,0.0
+P00617,mass gainers,,0,$61.99,0,61.99,General,muscle_gain_energy,0.0
+P00618,mass gainers,,0,$61.99,0,61.99,General,muscle_gain_energy,0.0
+P00619,mass gainers,,0,$61.99,0,61.99,General,muscle_gain_energy,0.0
+P00620,mass gainers,,0,$32.36,0,32.36,General,muscle_gain_energy,0.0
+P00621,mass gainers,,0,$32.36,0,32.36,General,muscle_gain_energy,0.0
+P00622,mass gainers,,0,$35.99,0,35.99,General,muscle_gain_energy,0.0
+P00623,mass gainers,,0,$38.99,0,38.99,General,muscle_gain_energy,0.0
+P00624,mass gainers,,0,$38.99,0,38.99,General,muscle_gain_energy,0.0
+P00625,mass gainers,,0,$38.99,0,38.99,General,muscle_gain_energy,0.0
+P00626,mass gainers,,0,$38.99,0,38.99,General,muscle_gain_energy,0.0
+P00627,mass gainers,,0,$62.99,0,62.99,General,muscle_gain_energy,0.0
+P00628,mass gainers,,0,$62.99,0,62.99,General,muscle_gain_energy,0.0
+P00629,mass gainers,,0,$60.99,0,60.99,General,muscle_gain_energy,0.0
+P00630,mass gainers,,0,$60.99,0,60.99,General,muscle_gain_energy,0.0
+P00631,mass gainers,,0,$100.99,0,100.99,General,muscle_gain_energy,0.0
+P00632,mass gainers,,0,$100.99,0,100.99,General,muscle_gain_energy,0.0
+P00633,mass gainers,,0,$100.99,0,100.99,General,muscle_gain_energy,0.0
+P00634,mass gainers,,0,$36.28,0,36.28,General,muscle_gain_energy,0.0
+P00635,mass gainers,,0,$37.59,0,37.59,General,muscle_gain_energy,0.0
+P00636,mass gainers,,0,$37.59,0,37.59,General,muscle_gain_energy,0.0
+P00637,mass gainers,,0,$61.23,0,61.23,General,muscle_gain_energy,0.0
+P00638,mass gainers,,0,$81.64,0,81.64,General,muscle_gain_energy,0.0
+P00639,mass gainers,,0,$62.24,0,62.24,General,muscle_gain_energy,0.0
+P00640,mass gainers,,0,$62.24,0,62.24,General,muscle_gain_energy,0.0
+P00641,mass gainers,,0,$26.24,0,26.24,General,muscle_gain_energy,0.0
+P00642,mass gainers,,0,$26.24,0,26.24,General,muscle_gain_energy,0.0
+P00643,mass gainers,,0,$26.24,0,26.24,General,muscle_gain_energy,0.0
+P00644,mass gainers,,0,$50.14,0,50.14,General,muscle_gain_energy,0.0
+P00645,mass gainers,,0,$43.99,0,43.99,General,muscle_gain_energy,0.0
+P00646,mass gainers,,0,$43.99,0,43.99,General,muscle_gain_energy,0.0
+P00647,mass gainers,,0,$43.99,0,43.99,General,muscle_gain_energy,0.0
+P00648,mass gainers,,0,$63.74,0,63.74,General,muscle_gain_energy,0.0
+P00649,mass gainers,,0,$63.74,0,63.74,General,muscle_gain_energy,0.0
+P00650,mass gainers,,0,$49.99,0,49.99,General,muscle_gain_energy,0.0
+P00651,mass gainers,,0,$49.99,0,49.99,General,muscle_gain_energy,0.0
+P00652,mass gainers,,0,$9.06,0,9.06,General,muscle_gain_energy,0.219
+P00653,mass gainers,,0,$40.81,0,40.81,General,muscle_gain_energy,0.0
+P00654,mass gainers,,0,$40.81,0,40.81,General,muscle_gain_energy,0.0
+P00655,mass gainers,,0,$40.81,0,40.81,General,muscle_gain_energy,0.0
+P00656,mass gainers,,0,$40.81,0,40.81,General,muscle_gain_energy,0.0
+P00657,mass gainers,,0,$40.81,0,40.81,General,muscle_gain_energy,0.0
+P00658,mass gainers,,0,$89.79,0,89.79,General,muscle_gain_energy,0.0
+P00659,mass gainers,,0,$89.79,0,89.79,General,muscle_gain_energy,0.0
+P00660,mass gainers,,0,$89.79,0,89.79,General,muscle_gain_energy,0.0
+P00661,mass gainers,,0,$89.79,0,89.79,General,muscle_gain_energy,0.0
+P00662,mass gainers,,0,$26.95,0,26.95,General,muscle_gain_energy,0.0
+P00663,mass gainers,,0,$31.72,0,31.72,General,muscle_gain_energy,0.0
+P00664,mass gainers,,0,$66.99,0,66.99,General,muscle_gain_energy,0.0
+P00665,mass gainers,,0,$66.99,0,66.99,General,muscle_gain_energy,0.0
+P00666,mass gainers,,0,$30.39,0,30.39,General,muscle_gain_energy,0.0
+P00667,mass gainers,,0,$30.39,0,30.39,General,muscle_gain_energy,0.0
+P00668,mass gainers,,0,$30.39,0,30.39,General,muscle_gain_energy,0.0
+P00669,mass gainers,,0,$51.99,0,51.99,General,muscle_gain_energy,0.0
+P00670,mass gainers,,0,$51.99,0,51.99,General,muscle_gain_energy,0.0
+P00671,mass gainers,,0,$51.99,0,51.99,General,muscle_gain_energy,0.0
+P00672,mass gainers,,0,$36.79,0,36.79,General,muscle_gain_energy,0.0
+P00673,mass gainers,,0,$36.79,0,36.79,General,muscle_gain_energy,0.0
+P00674,mass gainers,,0,$59.95,0,59.95,General,muscle_gain_energy,0.0
+P00675,mass gainers,,0,$49.99,0,49.99,General,muscle_gain_energy,0.0
+P00676,mass gainers,,0,$49.99,0,49.99,General,muscle_gain_energy,0.0
+P00677,mass gainers,,0,$82.99,0,82.99,General,muscle_gain_energy,0.0
+P00678,mass gainers,,0,$82.99,0,82.99,General,muscle_gain_energy,0.0
+P00679,plant protein,,0,$37.99,0,37.99,General,muscle_gain_energy,0.0
+P00680,plant protein,,0,$37.99,0,37.99,General,muscle_gain_energy,0.0
+P00681,plant protein,,0,$34.99,0,34.99,General,muscle_gain_energy,0.0
+P00682,plant protein,,0,$34.99,0,34.99,General,muscle_gain_energy,0.0
+P00683,plant protein,,0,$21.99,0,21.99,General,muscle_gain_energy,0.0
+P00684,plant protein,,0,$21.74,0,21.74,General,muscle_gain_energy,0.0
+P00685,plant protein,,0,$21.74,0,21.74,General,muscle_gain_energy,0.0
+P00686,plant protein,,0,$41.99,0,41.99,General,muscle_gain_energy,0.0
+P00687,plant protein,,0,$41.19,0,41.19,General,muscle_gain_energy,0.0
+P00688,plant protein,,0,$41.19,0,41.19,General,muscle_gain_energy,0.0
+P00689,plant protein,,0,$41.19,0,41.19,General,muscle_gain_energy,0.0
+P00690,plant protein,,0,$41.19,0,41.19,General,muscle_gain_energy,0.0
+P00691,plant protein,,0,$29.90,0,29.9,General,muscle_gain_energy,0.0
+P00692,plant protein,,0,$44.99,0,44.99,General,muscle_gain_energy,0.0
+P00693,plant protein,,0,$44.99,0,44.99,General,muscle_gain_energy,0.0
+P00694,plant protein,,0,$44.99,0,44.99,General,muscle_gain_energy,0.0
+P00695,plant protein,,0,$44.99,0,44.99,General,muscle_gain_energy,0.0
+P00696,plant protein,,0,$54.95,0,54.95,General,muscle_gain_energy,0.0
+P00697,plant protein,,0,$54.95,0,54.95,General,muscle_gain_energy,0.0
+P00698,plant protein,,0,$44.99,0,44.99,General,muscle_gain_energy,0.0
+P00699,plant protein,,0,$44.99,0,44.99,General,muscle_gain_energy,0.0
+P00700,plant protein,,0,$44.99,0,44.99,General,muscle_gain_energy,0.0
+P00701,plant protein,,0,$20.99,0,20.99,General,muscle_gain_energy,0.0
+P00702,plant protein,,0,$20.99,0,20.99,General,muscle_gain_energy,0.0
+P00703,plant protein,,0,$20.99,0,20.99,General,muscle_gain_energy,0.0
+P00704,plant protein,,0,$20.99,0,20.99,General,muscle_gain_energy,0.0
+P00705,plant protein,,0,$34.99,0,34.99,General,muscle_gain_energy,0.0
+P00706,plant protein,,0,$34.99,0,34.99,General,muscle_gain_energy,0.0
+P00707,plant protein,,0,$34.99,0,34.99,General,muscle_gain_energy,0.0
+P00708,plant protein,,0,$34.99,0,34.99,General,muscle_gain_energy,0.0
+P00709,plant protein,,0,$34.99,0,34.99,General,muscle_gain_energy,0.0
+P00710,plant protein,,0,$71.99,0,71.99,General,muscle_gain_energy,0.0
+P00711,plant protein,,0,$71.99,0,71.99,General,muscle_gain_energy,0.0
+P00712,plant protein,,0,$71.99,0,71.99,General,muscle_gain_energy,0.0
+P00713,plant protein,,0,$23.88,0,23.88,General,muscle_gain_energy,0.0
+P00714,plant protein,,0,$23.88,0,23.88,General,muscle_gain_energy,0.0
+P00715,plant protein,,0,$8.79,0,8.79,General,muscle_gain_energy,0.224
+P00716,plant protein,,0,$8.79,0,8.79,General,muscle_gain_energy,0.224
+P00717,plant protein,,0,$39.99,0,39.99,General,muscle_gain_energy,0.0
+P00718,plant protein,,0,$39.99,0,39.99,General,muscle_gain_energy,0.0
+P00719,plant protein,,0,$39.99,0,39.99,General,muscle_gain_energy,0.0
+P00720,plant protein,,0,$39.99,0,39.99,General,muscle_gain_energy,0.0
+P00721,plant protein,,0,$54.99,0,54.99,General,muscle_gain_energy,0.0
+P00722,plant protein,,0,$54.99,0,54.99,General,muscle_gain_energy,0.0
+P00723,plant protein,,0,$15.29,0,15.29,General,muscle_gain_energy,0.094
+P00724,plant protein,,0,$15.74,0,15.74,General,muscle_gain_energy,0.085
+P00725,plant protein,,0,$15.74,0,15.74,General,muscle_gain_energy,0.085
+P00726,plant protein,,0,$20.99,0,20.99,General,muscle_gain_energy,0.0
+P00727,plant protein,,0,$62.99,0,62.99,General,muscle_gain_energy,0.0
+P00728,plant protein,,0,$62.99,0,62.99,General,muscle_gain_energy,0.0
+P00729,plant protein,,0,$62.99,0,62.99,General,muscle_gain_energy,0.0
+P00730,plant protein,,0,$25.59,0,25.59,General,muscle_gain_energy,0.0
+P00731,plant protein,,0,$25.59,0,25.59,General,muscle_gain_energy,0.0
+P00732,plant protein,,0,$47.99,0,47.99,General,muscle_gain_energy,0.0
+P00733,plant protein,,0,$47.99,0,47.99,General,muscle_gain_energy,0.0
+P00734,plant protein,,0,$37.99,0,37.99,General,muscle_gain_energy,0.0
+P00735,plant protein,,0,$44.99,0,44.99,General,muscle_gain_energy,0.0
+P00736,plant protein,,0,$44.99,0,44.99,General,muscle_gain_energy,0.0
+P00737,plant protein,,0,$44.99,0,44.99,General,muscle_gain_energy,0.0
+P00738,plant protein,,0,$14.39,0,14.39,General,muscle_gain_energy,0.112
+P00739,plant protein,,0,$37.99,0,37.99,General,muscle_gain_energy,0.0
+P00740,plant protein,,0,$43.99,0,43.99,General,muscle_gain_energy,0.0
+P00741,plant protein,,0,$43.99,0,43.99,General,muscle_gain_energy,0.0
+P00742,plant protein,,0,$66.99,0,66.99,General,muscle_gain_energy,0.0
+P00743,plant protein,,0,$66.99,0,66.99,General,muscle_gain_energy,0.0
+P00744,plant protein,,0,$66.99,0,66.99,General,muscle_gain_energy,0.0
+P00745,plant protein,,0,$66.99,0,66.99,General,muscle_gain_energy,0.0
+P00746,plant protein,,0,$122.99,0,122.99,General,muscle_gain_energy,0.0
+P00747,plant protein,,0,$122.99,0,122.99,General,muscle_gain_energy,0.0
+P00748,plant protein,,0,$39.99,0,39.99,General,muscle_gain_energy,0.0
+P00749,plant protein,,0,$39.99,0,39.99,General,muscle_gain_energy,0.0
+P00750,plant protein,,0,$45.99,0,45.99,General,muscle_gain_energy,0.0
+P00751,plant protein,,0,$45.99,0,45.99,General,muscle_gain_energy,0.0
+P00752,plant protein,,0,$45.99,0,45.99,General,muscle_gain_energy,0.0
+P00753,plant protein,,0,$60.99,0,60.99,General,muscle_gain_energy,0.0
+P00754,plant protein,,0,$30.99,0,30.99,General,muscle_gain_energy,0.0
+P00755,plant protein,,0,$30.99,0,30.99,General,muscle_gain_energy,0.0
+P00756,plant protein,,0,$42.99,0,42.99,General,muscle_gain_energy,0.0
+P00757,plant protein,,0,$27.74,0,27.74,General,muscle_gain_energy,0.0
+P00758,plant protein,,0,$45.99,0,45.99,General,muscle_gain_energy,0.0
+P00759,plant protein,,0,$57.74,0,57.74,General,muscle_gain_energy,0.0
+P00760,plant protein,,0,$33.99,0,33.99,General,muscle_gain_energy,0.0
+P00761,plant protein,,0,$33.99,0,33.99,General,muscle_gain_energy,0.0
+P00762,plant protein,,0,$20.99,0,20.99,General,muscle_gain_energy,0.0
+P00763,plant protein,,0,$23.99,0,23.99,General,muscle_gain_energy,0.0
+P00764,plant protein,,0,$45.99,0,45.99,General,muscle_gain_energy,0.0
+P00765,plant protein,,0,$37.99,0,37.99,General,muscle_gain_energy,0.0
+P00766,plant protein,,0,$151.99,0,151.99,General,muscle_gain_energy,0.0
+P00767,plant protein,,0,$151.99,0,151.99,General,muscle_gain_energy,0.0
+P00768,plant protein,,0,$42.99,0,42.99,General,muscle_gain_energy,0.0
+P00769,plant protein,,0,$36.99,0,36.99,General,muscle_gain_energy,0.0
+P00770,plant protein,,0,$39.99,0,39.99,General,muscle_gain_energy,0.0
+P00771,plant protein,,0,$75.81,0,75.81,General,muscle_gain_energy,0.0
+P00772,plant protein,,0,$88.99,0,88.99,General,muscle_gain_energy,0.0
+P00773,plant protein,,0,$88.99,0,88.99,General,muscle_gain_energy,0.0
+P00774,plant protein,,0,$88.99,0,88.99,General,muscle_gain_energy,0.0
+P00775,plant protein,,0,$49.99,0,49.99,General,muscle_gain_energy,0.0
+P00776,meal replacement,,0,$32.98,0,32.98,General,other,0.0
+P00777,meal replacement,,0,$32.98,0,32.98,General,other,0.0
+P00778,meal replacement,,0,$32.98,0,32.98,General,other,0.0
+P00779,meal replacement,,0,$32.98,0,32.98,General,other,0.0
+P00780,meal replacement,,0,$56.23,0,56.23,General,other,0.0
+P00781,meal replacement,,0,$56.23,0,56.23,General,other,0.0
+P00782,meal replacement,,0,$56.23,0,56.23,General,other,0.0
+P00783,meal replacement,,0,$79.99,0,79.99,General,other,0.0
+P00784,meal replacement,,0,$79.99,0,79.99,General,other,0.0
+P00785,meal replacement,,0,$79.99,0,79.99,General,other,0.0
+P00786,meal replacement,,0,$79.99,0,79.99,General,other,0.0
+P00787,meal replacement,,0,$79.99,0,79.99,General,other,0.0
+P00788,meal replacement,,0,$79.99,0,79.99,General,other,0.0
+P00789,meal replacement,,0,$79.99,0,79.99,General,other,0.0
+P00790,meal replacement,,0,$44.99,0,44.99,General,other,0.0
+P00791,meal replacement,,0,$44.99,0,44.99,General,other,0.0
+P00792,meal replacement,,0,$44.99,0,44.99,General,other,0.0
+P00793,meal replacement,,0,$44.99,0,44.99,General,other,0.0
+P00794,meal replacement,,0,$45.49,0,45.49,General,other,0.0
+P00795,meal replacement,,0,$45.49,0,45.49,General,other,0.0
+P00796,meal replacement,,0,$45.49,0,45.49,General,other,0.0
+P00797,meal replacement,,0,$45.49,0,45.49,General,other,0.0
+P00798,meal replacement,,0,$45.49,0,45.49,General,other,0.0
+P00799,meal replacement,,0,$34.99,0,34.99,General,other,0.0
+P00800,meal replacement,,0,$34.99,0,34.99,General,other,0.0
+P00801,meal replacement,,0,$34.99,0,34.99,General,other,0.0
+P00802,meal replacement,,0,$34.99,0,34.99,General,other,0.0
+P00803,meal replacement,,0,$34.99,0,34.99,General,other,0.0
+P00804,meal replacement,,0,$34.99,0,34.99,General,other,0.0
+P00805,meal replacement,,0,$34.99,0,34.99,General,other,0.0
+P00806,meal replacement,,0,$34.99,0,34.99,General,other,0.0
+P00807,meal replacement,,0,$34.99,0,34.99,General,other,0.0
+P00808,meal replacement,,0,$34.99,0,34.99,General,other,0.0
+P00809,meal replacement,,0,$34.99,0,34.99,General,other,0.0
+P00810,meal replacement,,0,$36.79,0,36.79,General,other,0.0
+P00811,meal replacement,,0,$36.79,0,36.79,General,other,0.0
+P00812,meal replacement,,0,$36.79,0,36.79,General,other,0.0
+P00813,meal replacement,,0,$36.79,0,36.79,General,other,0.0
+P00814,meal replacement,,0,$36.79,0,36.79,General,other,0.0
+P00815,meal replacement,,0,$36.79,0,36.79,General,other,0.0
+P00816,meal replacement,,0,$63.99,0,63.99,General,other,0.0
+P00817,meal replacement,,0,$63.99,0,63.99,General,other,0.0
+P00818,meal replacement,,0,$79.04,0,79.04,General,other,0.0
+P00819,meal replacement,,0,$79.04,0,79.04,General,other,0.0
+P00820,meal replacement,,0,$60.29,0,60.29,General,other,0.0
+P00821,meal replacement,,0,$60.29,0,60.29,General,other,0.0
+P00822,meal replacement,,0,$100.79,0,100.79,General,other,0.0
+P00823,meal replacement,,0,$100.79,0,100.79,General,other,0.0
+P00824,meal replacement,,0,$52.99,0,52.99,General,other,0.0
+P00825,meal replacement,,0,$52.99,0,52.99,General,other,0.0
+P00826,meal replacement,,0,$52.99,0,52.99,General,other,0.0
+P00827,meal replacement,,0,$52.99,0,52.99,General,other,0.0
+P00828,meal replacement,,0,$52.99,0,52.99,General,other,0.0
+P00829,meal replacement,,0,$47.99,0,47.99,General,other,0.0
+P00830,meal replacement,,0,$47.99,0,47.99,General,other,0.0
+P00831,protein rtd shakes,,0,$3.99,0,3.99,General,muscle_gain_energy,0.32
+P00832,protein rtd shakes,,0,$3.99,0,3.99,General,muscle_gain_energy,0.32
+P00833,protein rtd shakes,,0,$3.99,0,3.99,General,muscle_gain_energy,0.32
+P00834,protein rtd shakes,,0,$3.99,0,3.99,General,muscle_gain_energy,0.32
+P00835,protein rtd shakes,,0,$3.99,0,3.99,General,muscle_gain_energy,0.32
+P00836,protein rtd shakes,,0,$3.99,0,3.99,General,muscle_gain_energy,0.32
+P00837,protein rtd shakes,,0,$3.99,0,3.99,General,muscle_gain_energy,0.32
+P00838,protein rtd shakes,,0,$3.99,0,3.99,General,muscle_gain_energy,0.32
+P00839,protein rtd shakes,,0,$3.99,0,3.99,General,muscle_gain_energy,0.32
+P00840,protein rtd shakes,,0,$44.24,0,44.24,General,muscle_gain_energy,0.0
+P00841,protein rtd shakes,,0,$44.24,0,44.24,General,muscle_gain_energy,0.0
+P00842,protein rtd shakes,,0,$44.24,0,44.24,General,muscle_gain_energy,0.0
+P00843,protein rtd shakes,,0,$44.24,0,44.24,General,muscle_gain_energy,0.0
+P00844,protein rtd shakes,,0,$44.24,0,44.24,General,muscle_gain_energy,0.0
+P00845,protein rtd shakes,,0,$44.24,0,44.24,General,muscle_gain_energy,0.0
+P00846,protein rtd shakes,,0,$44.24,0,44.24,General,muscle_gain_energy,0.0
+P00847,protein rtd shakes,,0,$44.24,0,44.24,General,muscle_gain_energy,0.0
+P00848,protein rtd shakes,,0,$44.24,0,44.24,General,muscle_gain_energy,0.0
+P00849,protein rtd shakes,,0,$56.99,0,56.99,General,muscle_gain_energy,0.0
+P00850,protein rtd shakes,,0,$56.99,0,56.99,General,muscle_gain_energy,0.0
+P00851,protein rtd shakes,,0,$56.99,0,56.99,General,muscle_gain_energy,0.0
+P00852,protein rtd shakes,,0,$56.99,0,56.99,General,muscle_gain_energy,0.0
+P00853,protein rtd shakes,,0,$56.99,0,56.99,General,muscle_gain_energy,0.0
+P00854,protein rtd shakes,,0,$56.99,0,56.99,General,muscle_gain_energy,0.0
+P00855,protein rtd shakes,,0,$54.99,0,54.99,General,muscle_gain_energy,0.0
+P00856,protein rtd shakes,,0,$54.99,0,54.99,General,muscle_gain_energy,0.0
+P00857,protein rtd shakes,,0,$54.99,0,54.99,General,muscle_gain_energy,0.0
+P00858,protein rtd shakes,,0,$27.99,0,27.99,General,muscle_gain_energy,0.0
+P00859,protein rtd shakes,,0,$27.99,0,27.99,General,muscle_gain_energy,0.0
+P00860,protein rtd shakes,,0,$27.99,0,27.99,General,muscle_gain_energy,0.0
+P00861,protein rtd shakes,,0,$49.49,0,49.49,General,muscle_gain_energy,0.0
+P00862,protein bars,,0,$3.74,0,3.74,General,muscle_gain_energy,0.325
+P00863,protein bars,,0,$3.74,0,3.74,General,muscle_gain_energy,0.325
+P00864,protein bars,,0,$3.74,0,3.74,General,muscle_gain_energy,0.325
+P00865,protein bars,,0,$20.99,0,20.99,General,muscle_gain_energy,0.0
+P00866,protein bars,,0,$20.99,0,20.99,General,muscle_gain_energy,0.0
+P00867,protein bars,,0,$20.99,0,20.99,General,muscle_gain_energy,0.0
+P00868,protein bars,,0,$20.99,0,20.99,General,muscle_gain_energy,0.0
+P00869,protein bars,,0,$20.99,0,20.99,General,muscle_gain_energy,0.0
+P00870,protein bars,,0,$20.99,0,20.99,General,muscle_gain_energy,0.0
+P00871,protein bars,,0,$20.99,0,20.99,General,muscle_gain_energy,0.0
+P00872,protein bars,,0,$20.99,0,20.99,General,muscle_gain_energy,0.0
+P00873,protein bars,,0,$20.99,0,20.99,General,muscle_gain_energy,0.0
+P00874,protein bars,,0,$20.99,0,20.99,General,muscle_gain_energy,0.0
+P00875,protein bars,,0,$22.99,0,22.99,General,muscle_gain_energy,0.0
+P00876,protein bars,,0,$22.99,0,22.99,General,muscle_gain_energy,0.0
+P00877,protein bars,,0,$22.99,0,22.99,General,muscle_gain_energy,0.0
+P00878,protein bars,,0,$22.99,0,22.99,General,muscle_gain_energy,0.0
+P00879,protein bars,,0,$27.99,0,27.99,General,muscle_gain_energy,0.0
+P00880,protein bars,,0,$27.99,0,27.99,General,muscle_gain_energy,0.0
+P00881,protein bars,,0,$2.39,0,2.39,General,muscle_gain_energy,0.352
+P00882,protein bars,,0,$2.39,0,2.39,General,muscle_gain_energy,0.352
+P00883,protein bars,,0,$2.39,0,2.39,General,muscle_gain_energy,0.352
+P00884,protein bars,,0,$2.39,0,2.39,General,muscle_gain_energy,0.352
+P00885,protein bars,,0,$2.39,0,2.39,General,muscle_gain_energy,0.352
+P00886,protein bars,,0,$22.49,0,22.49,General,muscle_gain_energy,0.0
+P00887,protein bars,,0,$22.49,0,22.49,General,muscle_gain_energy,0.0
+P00888,protein bars,,0,$22.49,0,22.49,General,muscle_gain_energy,0.0
+P00889,protein bars,,0,$22.49,0,22.49,General,muscle_gain_energy,0.0
+P00890,protein bars,,0,$22.49,0,22.49,General,muscle_gain_energy,0.0
+P00891,protein bars,,0,$22.49,0,22.49,General,muscle_gain_energy,0.0
+P00892,protein bars,,0,$22.49,0,22.49,General,muscle_gain_energy,0.0
+P00893,protein bars,,0,$24.99,0,24.99,General,muscle_gain_energy,0.0
+P00894,protein bars,,0,$24.99,0,24.99,General,muscle_gain_energy,0.0
+P00895,protein bars,,0,$24.99,0,24.99,General,muscle_gain_energy,0.0
+P00896,protein bars,,0,$24.99,0,24.99,General,muscle_gain_energy,0.0
+P00897,protein bars,,0,$29.99,0,29.99,General,muscle_gain_energy,0.0
+P00898,protein bars,,0,$29.99,0,29.99,General,muscle_gain_energy,0.0
+P00899,protein bars,,0,$28.99,0,28.99,General,muscle_gain_energy,0.0
+P00900,protein bars,,0,$28.99,0,28.99,General,muscle_gain_energy,0.0
+P00901,protein bars,,0,$28.99,0,28.99,General,muscle_gain_energy,0.0
+P00902,protein bars,,0,$28.99,0,28.99,General,muscle_gain_energy,0.0
+P00903,protein bars,,0,$28.99,0,28.99,General,muscle_gain_energy,0.0
+P00904,protein bars,,0,$28.99,0,28.99,General,muscle_gain_energy,0.0
+P00905,protein bars,,0,$28.99,0,28.99,General,muscle_gain_energy,0.0
+P00906,protein bars,,0,$28.99,0,28.99,General,muscle_gain_energy,0.0
+P00907,protein bars,,0,$28.99,0,28.99,General,muscle_gain_energy,0.0
+P00908,protein bars,,0,$28.99,0,28.99,General,muscle_gain_energy,0.0
+P00909,protein bars,,0,$28.99,0,28.99,General,muscle_gain_energy,0.0
+P00910,protein bars,,0,$28.99,0,28.99,General,muscle_gain_energy,0.0
+P00911,protein bars,,0,$30.99,0,30.99,General,muscle_gain_energy,0.0
+P00912,protein bars,,0,$27.99,0,27.99,General,muscle_gain_energy,0.0
+P00913,protein bars,,0,$27.99,0,27.99,General,muscle_gain_energy,0.0
+P00914,protein bars,,0,$27.99,0,27.99,General,muscle_gain_energy,0.0
+P00915,protein bars,,0,$27.99,0,27.99,General,muscle_gain_energy,0.0
+P00916,protein bars,,0,$27.99,0,27.99,General,muscle_gain_energy,0.0
+P00917,protein bars,,0,$24.99,0,24.99,General,muscle_gain_energy,0.0
+P00918,protein bars,,0,$24.99,0,24.99,General,muscle_gain_energy,0.0
+P00919,protein bars,,0,$24.99,0,24.99,General,muscle_gain_energy,0.0
+P00920,protein bars,,0,$24.99,0,24.99,General,muscle_gain_energy,0.0
+P00921,protein bars,,0,$17.99,0,17.99,General,muscle_gain_energy,0.04
+P00922,protein bars,,0,$17.99,0,17.99,General,muscle_gain_energy,0.04
+P00923,protein bars,,0,$17.99,0,17.99,General,muscle_gain_energy,0.04
+P00924,protein bars,,0,$27.00,0,27.0,General,muscle_gain_energy,0.0
+P00925,protein bars,,0,$27.00,0,27.0,General,muscle_gain_energy,0.0
+P00926,protein bars,,0,$21.99,0,21.99,General,muscle_gain_energy,0.0
+P00927,protein bars,,0,$21.99,0,21.99,General,muscle_gain_energy,0.0
+P00928,protein bars,,0,$21.99,0,21.99,General,muscle_gain_energy,0.0
+P00929,protein bars,,0,$21.99,0,21.99,General,muscle_gain_energy,0.0
+P00930,protein bars,,0,$31.99,0,31.99,General,muscle_gain_energy,0.0
+P00931,protein bars,,0,$29.88,0,29.88,General,muscle_gain_energy,0.0
+P00932,protein bars,,0,$29.88,0,29.88,General,muscle_gain_energy,0.0
+P00933,protein bars,,0,$31.08,0,31.08,General,muscle_gain_energy,0.0
+P00934,protein bars,,0,$35.99,0,35.99,General,muscle_gain_energy,0.0
+P00935,protein bars,,0,$37.99,0,37.99,General,muscle_gain_energy,0.0
+P00936,protein bars,,0,$37.99,0,37.99,General,muscle_gain_energy,0.0
+P00937,protein bars,,0,$37.99,0,37.99,General,muscle_gain_energy,0.0
+P00938,protein bars,,0,$37.99,0,37.99,General,muscle_gain_energy,0.0
+P00939,protein bars,,0,$27.00,0,27.0,General,muscle_gain_energy,0.0
+P00940,protein bars,,0,$27.00,0,27.0,General,muscle_gain_energy,0.0
+P00941,protein bars,,0,$27.00,0,27.0,General,muscle_gain_energy,0.0
+P00942,protein bars,,0,$22.49,0,22.49,General,muscle_gain_energy,0.0
+P00943,protein bars,,0,$22.49,0,22.49,General,muscle_gain_energy,0.0
+P00944,protein bars,,0,$22.49,0,22.49,General,muscle_gain_energy,0.0
+P00945,protein bars,,0,$19.99,0,19.99,General,muscle_gain_energy,0.0
+P00946,protein bars,,0,$19.99,0,19.99,General,muscle_gain_energy,0.0
+P00947,protein bars,,0,$19.99,0,19.99,General,muscle_gain_energy,0.0
+P00948,pre-workout,,0,$39.99,0,39.99,General,performance_energy,0.0
+P00949,pre-workout,,0,$37.99,0,37.99,General,performance_energy,0.0
+P00950,pre-workout,,0,$37.99,0,37.99,General,performance_energy,0.0
+P00951,pre-workout,,0,$37.99,0,37.99,General,performance_energy,0.0
+P00952,pre-workout,,0,$37.99,0,37.99,General,performance_energy,0.0
+P00953,pre-workout,,0,$37.99,0,37.99,General,performance_energy,0.0
+P00954,pre-workout,,0,$37.99,0,37.99,General,performance_energy,0.0
+P00955,pre-workout,,0,$37.99,0,37.99,General,performance_energy,0.0
+P00956,pre-workout,,0,$37.99,0,37.99,General,performance_energy,0.0
+P00957,pre-workout,,0,$37.99,0,37.99,General,performance_energy,0.0
+P00958,pre-workout,,0,$48.99,0,48.99,General,performance_energy,0.0
+P00959,pre-workout,,0,$48.99,0,48.99,General,performance_energy,0.0
+P00960,pre-workout,,0,$48.99,0,48.99,General,performance_energy,0.0
+P00961,pre-workout,,0,$48.99,0,48.99,General,performance_energy,0.0
+P00962,pre-workout,,0,$48.99,0,48.99,General,performance_energy,0.0
+P00963,pre-workout,,0,$48.99,0,48.99,General,performance_energy,0.0
+P00964,pre-workout,,0,$48.99,0,48.99,General,performance_energy,0.0
+P00965,pre-workout,,0,$48.99,0,48.99,General,performance_energy,0.0
+P00966,pre-workout,,0,$48.99,0,48.99,General,performance_energy,0.0
+P00967,pre-workout,,0,$48.99,0,48.99,General,performance_energy,0.0
+P00968,pre-workout,,0,$48.99,0,48.99,General,performance_energy,0.0
+P00969,pre-workout,,0,$21.99,0,21.99,General,performance_energy,0.0
+P00970,pre-workout,,0,$21.99,0,21.99,General,performance_energy,0.0
+P00971,pre-workout,,0,$21.99,0,21.99,General,performance_energy,0.0
+P00972,pre-workout,,0,$21.99,0,21.99,General,performance_energy,0.0
+P00973,pre-workout,,0,$21.99,0,21.99,General,performance_energy,0.0
+P00974,pre-workout,,0,$21.99,0,21.99,General,performance_energy,0.0
+P00975,pre-workout,,0,$21.99,0,21.99,General,performance_energy,0.0
+P00976,pre-workout,,0,$21.99,0,21.99,General,performance_energy,0.0
+P00977,pre-workout,,0,$21.99,0,21.99,General,performance_energy,0.0
+P00978,pre-workout,,0,$21.99,0,21.99,General,performance_energy,0.0
+P00979,pre-workout,,0,$21.99,0,21.99,General,performance_energy,0.0
+P00980,pre-workout,,0,$43.99,0,43.99,General,performance_energy,0.0
+P00981,pre-workout,,0,$43.99,0,43.99,General,performance_energy,0.0
+P00982,pre-workout,,0,$43.99,0,43.99,General,performance_energy,0.0
+P00983,pre-workout,,0,$43.99,0,43.99,General,performance_energy,0.0
+P00984,pre-workout,,0,$43.99,0,43.99,General,performance_energy,0.0
+P00985,pre-workout,,0,$11.99,0,11.99,General,performance_energy,0.16
+P00986,pre-workout,,0,$11.99,0,11.99,General,performance_energy,0.16
+P00987,pre-workout,,0,$11.99,0,11.99,General,performance_energy,0.16
+P00988,pre-workout,,0,$11.99,0,11.99,General,performance_energy,0.16
+P00989,pre-workout,,0,$21.99,0,21.99,General,performance_energy,0.0
+P00990,pre-workout,,0,$21.99,0,21.99,General,performance_energy,0.0
+P00991,pre-workout,,0,$21.99,0,21.99,General,performance_energy,0.0
+P00992,pre-workout,,0,$21.99,0,21.99,General,performance_energy,0.0
+P00993,pre-workout,,0,$21.99,0,21.99,General,performance_energy,0.0
+P00994,pre-workout,,0,$21.99,0,21.99,General,performance_energy,0.0
+P00995,pre-workout,,0,$21.99,0,21.99,General,performance_energy,0.0
+P00996,pre-workout,,0,$21.99,0,21.99,General,performance_energy,0.0
+P00997,pre-workout,,0,$21.99,0,21.99,General,performance_energy,0.0
+P00998,pre-workout,,0,$21.99,0,21.99,General,performance_energy,0.0
+P00999,pre-workout,,0,$21.99,0,21.99,General,performance_energy,0.0
+P01000,pre-workout,,0,$21.99,0,21.99,General,performance_energy,0.0
+P01001,pre-workout,,0,$21.99,0,21.99,General,performance_energy,0.0
+P01002,pre-workout,,0,$21.99,0,21.99,General,performance_energy,0.0
+P01003,pre-workout,,0,$21.99,0,21.99,General,performance_energy,0.0
+P01004,pre-workout,,0,$21.99,0,21.99,General,performance_energy,0.0
+P01005,pre-workout,,0,$45.99,0,45.99,General,performance_energy,0.0
+P01006,pre-workout,,0,$45.99,0,45.99,General,performance_energy,0.0
+P01007,pre-workout,,0,$45.99,0,45.99,General,performance_energy,0.0
+P01008,pre-workout,,0,$45.99,0,45.99,General,performance_energy,0.0
+P01009,pre-workout,,0,$45.99,0,45.99,General,performance_energy,0.0
+P01010,pre-workout,,0,$45.99,0,45.99,General,performance_energy,0.0
+P01011,pre-workout,,0,$36.99,0,36.99,General,performance_energy,0.0
+P01012,pre-workout,,0,$36.99,0,36.99,General,performance_energy,0.0
+P01013,pre-workout,,0,$36.99,0,36.99,General,performance_energy,0.0
+P01014,pre-workout,,0,$36.99,0,36.99,General,performance_energy,0.0
+P01015,pre-workout,,0,$36.99,0,36.99,General,performance_energy,0.0
+P01016,pre-workout,,0,$13.49,0,13.49,General,performance_energy,0.13
+P01017,pre-workout,,0,$22.99,0,22.99,General,performance_energy,0.0
+P01018,pre-workout,,0,$22.99,0,22.99,General,performance_energy,0.0
+P01019,pre-workout,,0,$31.99,0,31.99,General,performance_energy,0.0
+P01020,pre-workout,,0,$31.99,0,31.99,General,performance_energy,0.0
+P01021,pre-workout,,0,$31.99,0,31.99,General,performance_energy,0.0
+P01022,pre-workout,,0,$31.99,0,31.99,General,performance_energy,0.0
+P01023,pre-workout,,0,$31.99,0,31.99,General,performance_energy,0.0
+P01024,pre-workout,,0,$39.99,0,39.99,General,performance_energy,0.0
+P01025,pre-workout,,0,$39.99,0,39.99,General,performance_energy,0.0
+P01026,pre-workout,,0,$39.99,0,39.99,General,performance_energy,0.0
+P01027,pre-workout,,0,$39.99,0,39.99,General,performance_energy,0.0
+P01028,pre-workout,,0,$39.99,0,39.99,General,performance_energy,0.0
+P01029,pre-workout,,0,$20.99,0,20.99,General,performance_energy,0.0
+P01030,pre-workout,,0,$20.99,0,20.99,General,performance_energy,0.0
+P01031,pre-workout,,0,$20.99,0,20.99,General,performance_energy,0.0
+P01032,pre-workout,,0,$20.99,0,20.99,General,performance_energy,0.0
+P01033,pre-workout,,0,$31.99,0,31.99,General,performance_energy,0.0
+P01034,pre-workout,,0,$31.99,0,31.99,General,performance_energy,0.0
+P01035,pre-workout,,0,$21.99,0,21.99,General,performance_energy,0.0
+P01036,pre-workout,,0,$21.99,0,21.99,General,performance_energy,0.0
+P01037,pre-workout,,0,$21.99,0,21.99,General,performance_energy,0.0
+P01038,pre-workout,,0,$22.99,0,22.99,General,performance_energy,0.0
+P01039,pre-workout,,0,$32.24,0,32.24,General,performance_energy,0.0
+P01040,pre-workout,,0,$32.24,0,32.24,General,performance_energy,0.0
+P01041,pre-workout,,0,$32.24,0,32.24,General,performance_energy,0.0
+P01042,pre-workout,,0,$32.24,0,32.24,General,performance_energy,0.0
+P01043,pre-workout,,0,$32.24,0,32.24,General,performance_energy,0.0
+P01044,pre-workout,,0,$32.24,0,32.24,General,performance_energy,0.0
+P01045,pre-workout,,0,$34.99,0,34.99,General,performance_energy,0.0
+P01046,pre-workout,,0,$34.99,0,34.99,General,performance_energy,0.0
+P01047,pre-workout,,0,$32.99,0,32.99,General,performance_energy,0.0
+P01048,pre-workout,,0,$32.99,0,32.99,General,performance_energy,0.0
+P01049,pre-workout,,0,$32.99,0,32.99,General,performance_energy,0.0
+P01050,pre-workout,,0,$32.99,0,32.99,General,performance_energy,0.0
+P01051,pre-workout,,0,$32.99,0,32.99,General,performance_energy,0.0
+P01052,pre-workout,,0,$32.99,0,32.99,General,performance_energy,0.0
+P01053,pre-workout,,0,$32.99,0,32.99,General,performance_energy,0.0
+P01054,pre-workout,,0,$32.99,0,32.99,General,performance_energy,0.0
+P01055,pre-workout,,0,$32.99,0,32.99,General,performance_energy,0.0
+P01056,pre-workout,,0,$32.99,0,32.99,General,performance_energy,0.0
+P01057,pre-workout,,0,$32.99,0,32.99,General,performance_energy,0.0
+P01058,pre-workout,,0,$32.99,0,32.99,General,performance_energy,0.0
+P01059,pre-workout,,0,$18.73,0,18.73,General,performance_energy,0.025
+P01060,pre-workout,,0,$18.73,0,18.73,General,performance_energy,0.025
+P01061,pre-workout,,0,$18.73,0,18.73,General,performance_energy,0.025
+P01062,pre-workout,,0,$18.73,0,18.73,General,performance_energy,0.025
+P01063,pre-workout,,0,$18.73,0,18.73,General,performance_energy,0.025
+P01064,pre-workout,,0,$18.73,0,18.73,General,performance_energy,0.025
+P01065,pre-workout,,0,$24.97,0,24.97,General,performance_energy,0.0
+P01066,pre-workout,,0,$24.97,0,24.97,General,performance_energy,0.0
+P01067,pre-workout,,0,$32.23,0,32.23,General,performance_energy,0.0
+P01068,pre-workout,,0,$32.23,0,32.23,General,performance_energy,0.0
+P01069,pre-workout,,0,$32.23,0,32.23,General,performance_energy,0.0
+P01070,pre-workout,,0,$32.23,0,32.23,General,performance_energy,0.0
+P01071,pre-workout,,0,$32.23,0,32.23,General,performance_energy,0.0
+P01072,pre-workout,,0,$24.99,0,24.99,General,performance_energy,0.0
+P01073,pre-workout,,0,$24.99,0,24.99,General,performance_energy,0.0
+P01074,pre-workout,,0,$24.99,0,24.99,General,performance_energy,0.0
+P01075,pre-workout,,0,$24.99,0,24.99,General,performance_energy,0.0
+P01076,pre-workout,,0,$34.99,0,34.99,General,performance_energy,0.0
+P01077,pre-workout,,0,$34.99,0,34.99,General,performance_energy,0.0
+P01078,pre-workout,,0,$34.99,0,34.99,General,performance_energy,0.0
+P01079,pre-workout,,0,$34.99,0,34.99,General,performance_energy,0.0
+P01080,pre-workout,,0,$49.99,0,49.99,General,performance_energy,0.0
+P01081,pre-workout,,0,$49.99,0,49.99,General,performance_energy,0.0
+P01082,pre-workout,,0,$49.99,0,49.99,General,performance_energy,0.0
+P01083,pre-workout,,0,$49.99,0,49.99,General,performance_energy,0.0
+P01084,pre-workout,,0,$49.99,0,49.99,General,performance_energy,0.0
+P01085,pre-workout,,0,$49.99,0,49.99,General,performance_energy,0.0
+P01086,pre-workout,,0,$25.99,0,25.99,General,performance_energy,0.0
+P01087,pre-workout,,0,$11.69,0,11.69,General,performance_energy,0.166
+P01088,pre-workout,,0,$11.69,0,11.69,General,performance_energy,0.166
+P01089,pre-workout,,0,$34.99,0,34.99,General,performance_energy,0.0
+P01090,pre-workout,,0,$52.99,0,52.99,General,performance_energy,0.0
+P01091,pre-workout,,0,$33.07,0,33.07,General,performance_energy,0.0
+P01092,pre-workout,,0,$33.07,0,33.07,General,performance_energy,0.0
+P01093,pre-workout,,0,$33.07,0,33.07,General,performance_energy,0.0
+P01094,pre-workout,,0,$33.07,0,33.07,General,performance_energy,0.0
+P01095,pre-workout,,0,$33.07,0,33.07,General,performance_energy,0.0
+P01096,pre-workout,,0,$23.99,0,23.99,General,performance_energy,0.0
+P01097,pre-workout,,0,$23.99,0,23.99,General,performance_energy,0.0
+P01098,pre-workout,,0,$23.99,0,23.99,General,performance_energy,0.0
+P01099,pre-workout,,0,$23.99,0,23.99,General,performance_energy,0.0
+P01100,pre-workout,,0,$23.99,0,23.99,General,performance_energy,0.0
+P01101,pre-workout,,0,$23.99,0,23.99,General,performance_energy,0.0
+P01102,pre-workout,,0,$23.99,0,23.99,General,performance_energy,0.0
+P01103,pre-workout,,0,$23.99,0,23.99,General,performance_energy,0.0
+P01104,pre-workout,,0,$31.99,0,31.99,General,performance_energy,0.0
+P01105,pre-workout,,0,$41.99,0,41.99,General,performance_energy,0.0
+P01106,pre-workout,,0,$41.99,0,41.99,General,performance_energy,0.0
+P01107,pre-workout,,0,$32.24,0,32.24,General,performance_energy,0.0
+P01108,pre-workout,,0,$32.24,0,32.24,General,performance_energy,0.0
+P01109,pre-workout,,0,$32.24,0,32.24,General,performance_energy,0.0
+P01110,pre-workout,,0,$39.99,0,39.99,General,performance_energy,0.0
+P01111,pre-workout,,0,$39.99,0,39.99,General,performance_energy,0.0
+P01112,pre-workout,,0,$39.99,0,39.99,General,performance_energy,0.0
+P01113,pre-workout,,0,$39.99,0,39.99,General,performance_energy,0.0
+P01114,pre-workout,,0,$39.99,0,39.99,General,performance_energy,0.0
+P01115,pre-workout,,0,$39.99,0,39.99,General,performance_energy,0.0
+P01116,pre-workout,,0,$12.99,0,12.99,General,performance_energy,0.14
+P01117,pre-workout,,0,$39.99,0,39.99,General,performance_energy,0.0
+P01118,pre-workout,,0,$39.99,0,39.99,General,performance_energy,0.0
+P01119,pre-workout,,0,$39.99,0,39.99,General,performance_energy,0.0
+P01120,pre-workout,,0,$39.99,0,39.99,General,performance_energy,0.0
+P01121,pre-workout,,0,$39.99,0,39.99,General,performance_energy,0.0
+P01122,pre-workout,,0,$39.99,0,39.99,General,performance_energy,0.0
+P01123,pre-workout,,0,$39.99,0,39.99,General,performance_energy,0.0
+P01124,pre-workout,,0,$39.99,0,39.99,General,performance_energy,0.0
+P01125,pre-workout,,0,$39.99,0,39.99,General,performance_energy,0.0
+P01126,pre-workout,,0,$39.99,0,39.99,General,performance_energy,0.0
+P01127,pre-workout,,0,$39.99,0,39.99,General,performance_energy,0.0
+P01128,pre-workout,,0,$39.99,0,39.99,General,performance_energy,0.0
+P01129,pre-workout,,0,$39.99,0,39.99,General,performance_energy,0.0
+P01130,pre-workout,,0,$39.99,0,39.99,General,performance_energy,0.0
+P01131,pre-workout,,0,$29.99,0,29.99,General,performance_energy,0.0
+P01132,pre-workout,,0,$44.99,0,44.99,General,performance_energy,0.0
+P01133,pre-workout,,0,$49.99,0,49.99,General,performance_energy,0.0
+P01134,pre-workout,,0,$49.99,0,49.99,General,performance_energy,0.0
+P01135,pre-workout,,0,$49.99,0,49.99,General,performance_energy,0.0
+P01136,pre-workout,,0,$31.49,0,31.49,General,performance_energy,0.0
+P01137,pre-workout,,0,$31.49,0,31.49,General,performance_energy,0.0
+P01138,pre-workout,,0,$31.49,0,31.49,General,performance_energy,0.0
+P01139,pre-workout,,0,$41.99,0,41.99,General,performance_energy,0.0
+P01140,pre-workout,,0,$16.48,0,16.48,General,performance_energy,0.07
+P01141,pre-workout,,0,$16.48,0,16.48,General,performance_energy,0.07
+P01142,pre-workout,,0,$16.48,0,16.48,General,performance_energy,0.07
+P01143,pre-workout,,0,$26.39,0,26.39,General,performance_energy,0.0
+P01144,pre-workout,,0,$26.39,0,26.39,General,performance_energy,0.0
+P01145,pre-workout,,0,$29.99,0,29.99,General,performance_energy,0.0
+P01146,pre-workout,,0,$29.99,0,29.99,General,performance_energy,0.0
+P01147,pre-workout,,0,$29.99,0,29.99,General,performance_energy,0.0
+P01148,pre-workout,,0,$29.24,0,29.24,General,performance_energy,0.0
+P01149,pre-workout,,0,$29.24,0,29.24,General,performance_energy,0.0
+P01150,pre-workout,,0,$29.24,0,29.24,General,performance_energy,0.0
+P01151,pre-workout,,0,$31.99,0,31.99,General,performance_energy,0.0
+P01152,pre-workout,,0,$31.99,0,31.99,General,performance_energy,0.0
+P01153,pre-workout,,0,$31.99,0,31.99,General,performance_energy,0.0
+P01154,pre-workout,,0,$31.99,0,31.99,General,performance_energy,0.0
+P01155,pre-workout,,0,$22.38,0,22.38,General,performance_energy,0.0
+P01156,pre-workout,,0,$22.38,0,22.38,General,performance_energy,0.0
+P01157,pre-workout,,0,$22.99,0,22.99,General,performance_energy,0.0
+P01158,pre-workout,,0,$19.19,0,19.19,General,performance_energy,0.016
+P01159,pre-workout,,0,$19.99,0,19.99,General,performance_energy,0.0
+P01160,pre-workout,,0,$19.99,0,19.99,General,performance_energy,0.0
+P01161,pre-workout,,0,$19.99,0,19.99,General,performance_energy,0.0
+P01162,pre-workout,,0,$49.99,0,49.99,General,performance_energy,0.0
+P01163,pre-workout,,0,$49.99,0,49.99,General,performance_energy,0.0
+P01164,pre-workout,,0,$49.99,0,49.99,General,performance_energy,0.0
+P01165,pre-workout,,0,$49.99,0,49.99,General,performance_energy,0.0
+P01166,pre-workout,,0,$49.99,0,49.99,General,performance_energy,0.0
+P01167,pre-workout,,0,$49.99,0,49.99,General,performance_energy,0.0
+P01168,pre-workout,,0,$34.99,0,34.99,General,performance_energy,0.0
+P01169,pre-workout,,0,$34.99,0,34.99,General,performance_energy,0.0
+P01170,pre-workout,,0,$34.99,0,34.99,General,performance_energy,0.0
+P01171,pre-workout,,0,$34.99,0,34.99,General,performance_energy,0.0
+P01172,pre-workout,,0,$34.99,0,34.99,General,performance_energy,0.0
+P01173,pre-workout,,0,$34.99,0,34.99,General,performance_energy,0.0
+P01174,pre-workout,,0,$34.99,0,34.99,General,performance_energy,0.0
+P01175,pre-workout,,0,$34.99,0,34.99,General,performance_energy,0.0
+P01176,pre-workout,,0,$34.99,0,34.99,General,performance_energy,0.0
+P01177,pre-workout,,0,$49.99,0,49.99,General,performance_energy,0.0
+P01178,pre-workout,,0,$49.99,0,49.99,General,performance_energy,0.0
+P01179,pre-workout,,0,$49.99,0,49.99,General,performance_energy,0.0
+P01180,pre-workout,,0,$49.99,0,49.99,General,performance_energy,0.0
+P01181,pre-workout,,0,$29.59,0,29.59,General,performance_energy,0.0
+P01182,pre-workout,,0,$29.59,0,29.59,General,performance_energy,0.0
+P01183,pre-workout,,0,$29.59,0,29.59,General,performance_energy,0.0
+P01184,pre-workout,,0,$29.59,0,29.59,General,performance_energy,0.0
+P01185,pre-workout,,0,$29.59,0,29.59,General,performance_energy,0.0
+P01186,pre-workout,,0,$8.44,0,8.44,General,performance_energy,0.231
+P01187,pre-workout,,0,$29.99,0,29.99,General,performance_energy,0.0
+P01188,pre-workout,,0,$29.99,0,29.99,General,performance_energy,0.0
+P01189,pre-workout,,0,$36.99,0,36.99,General,performance_energy,0.0
+P01190,pre-workout,,0,$36.99,0,36.99,General,performance_energy,0.0
+P01191,pre-workout,,0,$36.99,0,36.99,General,performance_energy,0.0
+P01192,pre-workout,,0,$36.99,0,36.99,General,performance_energy,0.0
+P01193,pre-workout,,0,$36.99,0,36.99,General,performance_energy,0.0
+P01194,pre-workout,,0,$36.99,0,36.99,General,performance_energy,0.0
+P01195,pre-workout,,0,$36.99,0,36.99,General,performance_energy,0.0
+P01196,pre-workout,,0,$28.79,0,28.79,General,performance_energy,0.0
+P01197,pre-workout,,0,$28.79,0,28.79,General,performance_energy,0.0
+P01198,pre-workout,,0,$28.79,0,28.79,General,performance_energy,0.0
+P01199,pre-workout,,0,$28.79,0,28.79,General,performance_energy,0.0
+P01200,pre-workout,,0,$28.79,0,28.79,General,performance_energy,0.0
+P01201,pre-workout,,0,$28.79,0,28.79,General,performance_energy,0.0
+P01202,pre-workout,,0,$28.79,0,28.79,General,performance_energy,0.0
+P01203,pre-workout,,0,$28.79,0,28.79,General,performance_energy,0.0
+P01204,pre-workout,,0,$32.99,0,32.99,General,performance_energy,0.0
+P01205,pre-workout,,0,$32.99,0,32.99,General,performance_energy,0.0
+P01206,pre-workout,,0,$32.99,0,32.99,General,performance_energy,0.0
+P01207,pre-workout,,0,$32.99,0,32.99,General,performance_energy,0.0
+P01208,pre-workout,,0,$42.25,0,42.25,General,performance_energy,0.0
+P01209,pre-workout,,0,$42.25,0,42.25,General,performance_energy,0.0
+P01210,pre-workout,,0,$42.25,0,42.25,General,performance_energy,0.0
+P01211,pre-workout,,0,$42.25,0,42.25,General,performance_energy,0.0
+P01212,pre-workout,,0,$41.99,0,41.99,General,performance_energy,0.0
+P01213,pre-workout,,0,$41.99,0,41.99,General,performance_energy,0.0
+P01214,pre-workout,,0,$41.99,0,41.99,General,performance_energy,0.0
+P01215,pre-workout,,0,$41.99,0,41.99,General,performance_energy,0.0
+P01216,pre-workout,,0,$41.99,0,41.99,General,performance_energy,0.0
+P01217,pre-workout,,0,$20.24,0,20.24,General,performance_energy,0.0
+P01218,pre-workout,,0,$20.24,0,20.24,General,performance_energy,0.0
+P01219,pre-workout,,0,$20.24,0,20.24,General,performance_energy,0.0
+P01220,pre-workout,,0,$20.24,0,20.24,General,performance_energy,0.0
+P01221,pre-workout,,0,$20.24,0,20.24,General,performance_energy,0.0
+P01222,pre-workout,,0,$29.44,0,29.44,General,performance_energy,0.0
+P01223,pre-workout,,0,$29.44,0,29.44,General,performance_energy,0.0
+P01224,pre-workout,,0,$29.44,0,29.44,General,performance_energy,0.0
+P01225,pre-workout,,0,$29.44,0,29.44,General,performance_energy,0.0
+P01226,pre-workout,,0,$29.44,0,29.44,General,performance_energy,0.0
+P01227,pre-workout,,0,$39.99,0,39.99,General,performance_energy,0.0
+P01228,pre-workout,,0,$39.99,0,39.99,General,performance_energy,0.0
+P01229,pre-workout,,0,$23.99,0,23.99,General,performance_energy,0.0
+P01230,pre-workout,,0,$23.99,0,23.99,General,performance_energy,0.0
+P01231,pre-workout,,0,$30.39,0,30.39,General,performance_energy,0.0
+P01232,pre-workout,,0,$30.39,0,30.39,General,performance_energy,0.0
+P01233,pre-workout,,0,$22.79,0,22.79,General,performance_energy,0.0
+P01234,pre-workout,,0,$22.79,0,22.79,General,performance_energy,0.0
+P01235,pre-workout,,0,$20.99,0,20.99,General,performance_energy,0.0
+P01236,pre-workout,,0,$20.99,0,20.99,General,performance_energy,0.0
+P01237,pre-workout,,0,$20.99,0,20.99,General,performance_energy,0.0
+P01238,pre-workout,,0,$20.99,0,20.99,General,performance_energy,0.0
+P01239,pre-workout,,0,$40.99,0,40.99,General,performance_energy,0.0
+P01240,pre-workout,,0,$40.99,0,40.99,General,performance_energy,0.0
+P01241,pre-workout,,0,$40.99,0,40.99,General,performance_energy,0.0
+P01242,pre-workout,,0,$40.99,0,40.99,General,performance_energy,0.0
+P01243,pre-workout,,0,$40.99,0,40.99,General,performance_energy,0.0
+P01244,pre-workout,,0,$40.99,0,40.99,General,performance_energy,0.0
+P01245,pre-workout,,0,$27.99,0,27.99,General,performance_energy,0.0
+P01246,pre-workout,,0,$27.99,0,27.99,General,performance_energy,0.0
+P01247,pre-workout,,0,$27.99,0,27.99,General,performance_energy,0.0
+P01248,pre-workout,,0,$34.99,0,34.99,General,performance_energy,0.0
+P01249,pre-workout,,0,$28.04,0,28.04,General,performance_energy,0.0
+P01250,pre-workout,,0,$28.04,0,28.04,General,performance_energy,0.0
+P01251,pre-workout,,0,$39.99,0,39.99,General,performance_energy,0.0
+P01252,pre-workout,,0,$39.99,0,39.99,General,performance_energy,0.0
+P01253,pre-workout,,0,$39.99,0,39.99,General,performance_energy,0.0
+P01254,pre-workout,,0,$39.99,0,39.99,General,performance_energy,0.0
+P01255,pre-workout,,0,$39.99,0,39.99,General,performance_energy,0.0
+P01256,pre-workout,,0,$39.99,0,39.99,General,performance_energy,0.0
+P01257,pre-workout,,0,$29.24,0,29.24,General,performance_energy,0.0
+P01258,pre-workout,,0,$29.24,0,29.24,General,performance_energy,0.0
+P01259,pre-workout,,0,$29.24,0,29.24,General,performance_energy,0.0
+P01260,pre-workout,,0,$29.24,0,29.24,General,performance_energy,0.0
+P01261,pre-workout,,0,$22.49,0,22.49,General,performance_energy,0.0
+P01262,pre-workout,,0,$22.49,0,22.49,General,performance_energy,0.0
+P01263,pre-workout,,0,$23.24,0,23.24,General,performance_energy,0.0
+P01264,pre-workout,,0,$23.24,0,23.24,General,performance_energy,0.0
+P01265,pre-workout,,0,$38.63,0,38.63,General,performance_energy,0.0
+P01266,pre-workout,,0,$25.99,0,25.99,General,performance_energy,0.0
+P01267,pre-workout,,0,$39.99,0,39.99,General,performance_energy,0.0
+P01268,pre-workout,,0,$39.99,0,39.99,General,performance_energy,0.0
+P01269,pre-workout,,0,$39.99,0,39.99,General,performance_energy,0.0
+P01270,pre-workout,,0,$15.99,0,15.99,General,performance_energy,0.08
+P01271,pre-workout,,0,$26.95,0,26.95,General,performance_energy,0.0
+P01272,pre-workout,,0,$26.95,0,26.95,General,performance_energy,0.0
+P01273,pre-workout,,0,$33.69,0,33.69,General,performance_energy,0.0
+P01274,pre-workout,,0,$27.99,0,27.99,General,performance_energy,0.0
+P01275,pre-workout,,0,$27.99,0,27.99,General,performance_energy,0.0
+P01276,pre-workout,,0,$18.74,0,18.74,General,performance_energy,0.025
+P01277,pre-workout,,0,$18.74,0,18.74,General,performance_energy,0.025
+P01278,pre-workout,,0,$18.74,0,18.74,General,performance_energy,0.025
+P01279,pre-workout,,0,$42.99,0,42.99,General,performance_energy,0.0
+P01280,pre-workout,,0,$31.19,0,31.19,General,performance_energy,0.0
+P01281,pre-workout,,0,$31.19,0,31.19,General,performance_energy,0.0
+P01282,pre-workout,,0,$31.19,0,31.19,General,performance_energy,0.0
+P01283,pre-workout,,0,$31.19,0,31.19,General,performance_energy,0.0
+P01284,pre-workout,,0,$34.99,0,34.99,General,performance_energy,0.0
+P01285,pre-workout,,0,$24.74,0,24.74,General,performance_energy,0.0
+P01286,pre-workout,,0,$24.74,0,24.74,General,performance_energy,0.0
+P01287,pre-workout,,0,$24.74,0,24.74,General,performance_energy,0.0
+P01288,pre-workout,,0,$24.74,0,24.74,General,performance_energy,0.0
+P01289,pre-workout,,0,$39.99,0,39.99,General,performance_energy,0.0
+P01290,pre-workout,,0,$39.99,0,39.99,General,performance_energy,0.0
+P01291,pre-workout,,0,$29.99,0,29.99,General,performance_energy,0.0
+P01292,pre-workout,,0,$29.99,0,29.99,General,performance_energy,0.0
+P01293,pre-workout,,0,$29.99,0,29.99,General,performance_energy,0.0
+P01294,pre-workout,,0,$29.99,0,29.99,General,performance_energy,0.0
+P01295,pre-workout,,0,$21.59,0,21.59,General,performance_energy,0.0
+P01296,pre-workout,,0,$29.24,0,29.24,General,performance_energy,0.0
+P01297,pre-workout,,0,$29.24,0,29.24,General,performance_energy,0.0
+P01298,pre-workout,,0,$29.24,0,29.24,General,performance_energy,0.0
+P01299,pre-workout,,0,$39.99,0,39.99,General,performance_energy,0.0
+P01300,pre-workout,,0,$39.99,0,39.99,General,performance_energy,0.0
+P01301,pre-workout,,0,$39.99,0,39.99,General,performance_energy,0.0
+P01302,pre-workout,,0,$39.99,0,39.99,General,performance_energy,0.0
+P01303,pre-workout,,0,$39.99,0,39.99,General,performance_energy,0.0
+P01304,pre-workout,,0,$39.99,0,39.99,General,performance_energy,0.0
+P01305,pre-workout,,0,$39.99,0,39.99,General,performance_energy,0.0
+P01306,pre-workout,,0,$73.99,0,73.99,General,performance_energy,0.0
+P01307,pre-workout,,0,$73.99,0,73.99,General,performance_energy,0.0
+P01308,pre-workout,,0,$73.99,0,73.99,General,performance_energy,0.0
+P01309,pre-workout,,0,$73.99,0,73.99,General,performance_energy,0.0
+P01310,pre-workout,,0,$73.99,0,73.99,General,performance_energy,0.0
+P01311,pre-workout,,0,$73.99,0,73.99,General,performance_energy,0.0
+P01312,pre-workout,,0,$73.99,0,73.99,General,performance_energy,0.0
+P01313,pre-workout,,0,$27.99,0,27.99,General,performance_energy,0.0
+P01314,pre-workout,,0,$19.49,0,19.49,General,performance_energy,0.01
+P01315,pre-workout,,0,$20.24,0,20.24,General,performance_energy,0.0
+P01316,pre-workout,,0,$24.99,0,24.99,General,performance_energy,0.0
+P01317,pre-workout,,0,$24.99,0,24.99,General,performance_energy,0.0
+P01318,pre-workout,,0,$35.24,0,35.24,General,performance_energy,0.0
+P01319,pre-workout,,0,$35.24,0,35.24,General,performance_energy,0.0
+P01320,pre-workout,,0,$42.25,0,42.25,General,performance_energy,0.0
+P01321,pre-workout,,0,$42.25,0,42.25,General,performance_energy,0.0
+P01322,pre-workout,,0,$42.25,0,42.25,General,performance_energy,0.0
+P01323,pre-workout,,0,$12.74,0,12.74,General,performance_energy,0.145
+P01324,pre-workout,,0,$28.99,0,28.99,General,performance_energy,0.0
+P01325,pre-workout,,0,$28.99,0,28.99,General,performance_energy,0.0
+P01326,pre-workout,,0,$30.20,0,30.2,General,performance_energy,0.0
+P01327,pre-workout,,0,$31.19,0,31.19,General,performance_energy,0.0
+P01328,pre-workout,,0,$31.19,0,31.19,General,performance_energy,0.0
+P01329,pre-workout,,0,$36.74,0,36.74,General,performance_energy,0.0
+P01330,pre-workout,,0,$36.74,0,36.74,General,performance_energy,0.0
+P01331,pre-workout,,0,$39.99,0,39.99,General,performance_energy,0.0
+P01332,pre-workout,,0,$39.99,0,39.99,General,performance_energy,0.0
+P01333,pre-workout,,0,$39.99,0,39.99,General,performance_energy,0.0
+P01334,pre-workout,,0,$30.74,0,30.74,General,performance_energy,0.0
+P01335,pre-workout,,0,$21.59,0,21.59,General,performance_energy,0.0
+P01336,pre-workout,,0,$41.99,0,41.99,General,performance_energy,0.0
+P01337,pre-workout,,0,$41.99,0,41.99,General,performance_energy,0.0
+P01338,pre-workout,,0,$17.99,0,17.99,General,performance_energy,0.04
+P01339,pre-workout,,0,$17.99,0,17.99,General,performance_energy,0.04
+P01340,pre-workout,,0,$33.56,0,33.56,General,performance_energy,0.0
+P01341,pre-workout,,0,$33.56,0,33.56,General,performance_energy,0.0
+P01342,pre-workout,,0,$33.56,0,33.56,General,performance_energy,0.0
+P01343,pre-workout,,0,$36.99,0,36.99,General,performance_energy,0.0
+P01344,pre-workout,,0,$33.99,0,33.99,General,performance_energy,0.0
+P01345,pre-workout,,0,$44.99,0,44.99,General,performance_energy,0.0
+P01346,pre-workout,,0,$44.99,0,44.99,General,performance_energy,0.0
+P01347,pre-workout,,0,$26.24,0,26.24,General,performance_energy,0.0
+P01348,pre-workout,,0,$34.22,0,34.22,General,performance_energy,0.0
+P01349,pre-workout,,0,$34.22,0,34.22,General,performance_energy,0.0
+P01350,pre-workout,,0,$27.99,0,27.99,General,performance_energy,0.0
+P01351,pre-workout,,0,$27.99,0,27.99,General,performance_energy,0.0
+P01352,pre-workout,,0,$32.24,0,32.24,General,performance_energy,0.0
+P01353,pre-workout,,0,$30.99,0,30.99,General,performance_energy,0.0
+P01354,pre-workout,,0,$30.99,0,30.99,General,performance_energy,0.0
+P01355,pre-workout,,0,$38.24,0,38.24,General,performance_energy,0.0
+P01356,pre-workout,,0,$38.24,0,38.24,General,performance_energy,0.0
+P01357,pre-workout,,0,$38.24,0,38.24,General,performance_energy,0.0
+P01358,pre-workout,,0,$49.99,0,49.99,General,performance_energy,0.0
+P01359,pre-workout,,0,$49.99,0,49.99,General,performance_energy,0.0
+P01360,pre-workout,,0,$49.99,0,49.99,General,performance_energy,0.0
+P01361,pre-workout,,0,$26.99,0,26.99,General,performance_energy,0.0
+P01362,pre-workout,,0,$26.99,0,26.99,General,performance_energy,0.0
+P01363,pre-workout,,0,$25.59,0,25.59,General,performance_energy,0.0
+P01364,pre-workout,,0,$39.99,0,39.99,General,performance_energy,0.0
+P01365,pre-workout,,0,$39.99,0,39.99,General,performance_energy,0.0
+P01366,pre-workout,,0,$39.99,0,39.99,General,performance_energy,0.0
+P01367,pre-workout,,0,$39.99,0,39.99,General,performance_energy,0.0
+P01368,pre-workout,,0,$39.99,0,39.99,General,performance_energy,0.0
+P01369,pre-workout,,0,$39.99,0,39.99,General,performance_energy,0.0
+P01370,pre-workout,,0,$36.54,0,36.54,General,performance_energy,0.0
+P01371,pre-workout,,0,$36.54,0,36.54,General,performance_energy,0.0
+P01372,pre-workout,,0,$58.18,0,58.18,General,performance_energy,0.0
+P01373,pre-workout,,0,$59.49,0,59.49,General,performance_energy,0.0
+P01374,pre-workout,,0,$59.49,0,59.49,General,performance_energy,0.0
+P01375,pre-workout,,0,$49.99,0,49.99,General,performance_energy,0.0
+P01376,pre-workout,,0,$49.99,0,49.99,General,performance_energy,0.0
+P01377,pre-workout,,0,$49.99,0,49.99,General,performance_energy,0.0
+P01378,pre-workout,,0,$49.99,0,49.99,General,performance_energy,0.0
+P01379,pre-workout,,0,$42.99,0,42.99,General,performance_energy,0.0
+P01380,pre-workout,,0,$42.99,0,42.99,General,performance_energy,0.0
+P01381,pre-workout,,0,$39.99,0,39.99,General,performance_energy,0.0
+P01382,pre-workout,,0,$39.99,0,39.99,General,performance_energy,0.0
+P01383,pre-workout,,0,$39.99,0,39.99,General,performance_energy,0.0
+P01384,pre-workout,,0,$59.99,0,59.99,General,performance_energy,0.0
+P01385,pre-workout,,0,$59.99,0,59.99,General,performance_energy,0.0
+P01386,pre-workout,,0,$33.80,0,33.8,General,performance_energy,0.0
+P01387,pre-workout,,0,$33.80,0,33.8,General,performance_energy,0.0
+P01388,pre-workout,,0,$33.80,0,33.8,General,performance_energy,0.0
+P01389,pre-workout,,0,$33.80,0,33.8,General,performance_energy,0.0
+P01390,pre-workout,,0,$32.29,0,32.29,General,performance_energy,0.0
+P01391,pre-workout,,0,$34.01,0,34.01,General,performance_energy,0.0
+P01392,pre-workout,,0,$40.99,0,40.99,General,performance_energy,0.0
+P01393,pre-workout,,0,$47.99,0,47.99,General,performance_energy,0.0
+P01394,pre-workout,,0,$47.99,0,47.99,General,performance_energy,0.0
+P01395,pre-workout,,0,$49.99,0,49.99,General,performance_energy,0.0
+P01396,pre-workout,,0,$49.99,0,49.99,General,performance_energy,0.0
+P01397,pre-workout,,0,$49.99,0,49.99,General,performance_energy,0.0
+P01398,pre-workout,,0,$44.99,0,44.99,General,performance_energy,0.0
+P01399,pre-workout,,0,$44.99,0,44.99,General,performance_energy,0.0
+P01400,pre-workout,,0,$44.99,0,44.99,General,performance_energy,0.0
+P01401,pre-workout,,0,$44.99,0,44.99,General,performance_energy,0.0
+P01402,pre-workout,,0,$44.99,0,44.99,General,performance_energy,0.0
+P01403,pre-workout,,0,$35.19,0,35.19,General,performance_energy,0.0
+P01404,pre-workout,,0,$35.19,0,35.19,General,performance_energy,0.0
+P01405,pre-workout,,0,$39.99,0,39.99,General,performance_energy,0.0
+P01406,pre-workout,,0,$34.99,0,34.99,General,performance_energy,0.0
+P01407,pre-workout,,0,$34.99,0,34.99,General,performance_energy,0.0
+P01408,pre-workout,,0,$34.99,0,34.99,General,performance_energy,0.0
+P01409,pre-workout,,0,$34.99,0,34.99,General,performance_energy,0.0
+P01410,pre-workout,,0,$45.99,0,45.99,General,performance_energy,0.0
+P01411,pre-workout,,0,$45.35,0,45.35,General,performance_energy,0.0
+P01412,pre-workout,,0,$35.43,0,35.43,General,performance_energy,0.0
+P01413,pre-workout,,0,$31.99,0,31.99,General,performance_energy,0.0
+P01414,pre-workout,,0,$31.99,0,31.99,General,performance_energy,0.0
+P01415,pre-workout,,0,$37.59,0,37.59,General,performance_energy,0.0
+P01416,pre-workout,,0,$35.50,0,35.5,General,performance_energy,0.0
+P01417,pre-workout,,0,$39.99,0,39.99,General,performance_energy,0.0
+P01418,pre-workout,,0,$39.99,0,39.99,General,performance_energy,0.0
+P01419,pre-workout,,0,$39.99,0,39.99,General,performance_energy,0.0
+P01420,pre-workout,,0,$39.99,0,39.99,General,performance_energy,0.0
+P01421,pre-workout,,0,$39.99,0,39.99,General,performance_energy,0.0
+P01422,pre-workout,,0,$33.56,0,33.56,General,performance_energy,0.0
+P01423,pre-workout,,0,$55.99,0,55.99,General,performance_energy,0.0
+P01424,pre-workout,,0,$55.99,0,55.99,General,performance_energy,0.0
+P01425,pre-workout,,0,$55.99,0,55.99,General,performance_energy,0.0
+P01426,pre-workout,,0,$55.99,0,55.99,General,performance_energy,0.0
+P01427,pre-workout,,0,$55.99,0,55.99,General,performance_energy,0.0
+P01428,pre-workout,,0,$38.39,0,38.39,General,performance_energy,0.0
+P01429,pre-workout,,0,$60.99,0,60.99,General,performance_energy,0.0
+P01430,pre-workout,,0,$39.67,0,39.67,General,performance_energy,0.0
+P01431,pre-workout,,0,$39.67,0,39.67,General,performance_energy,0.0
+P01432,pre-workout,,0,$51.99,0,51.99,General,performance_energy,0.0
+P01433,pre-workout,,0,$40.99,0,40.99,General,performance_energy,0.0
+P01434,pre-workout,,0,$29.99,0,29.99,General,performance_energy,0.0
+P01435,pre-workout,,0,$32.99,0,32.99,General,performance_energy,0.0
+P01436,pre-workout,,0,$32.99,0,32.99,General,performance_energy,0.0
+P01437,post-workout recovery,,0,$37.99,0,37.99,General,other,0.0
+P01438,post-workout recovery,,0,$37.99,0,37.99,General,other,0.0
+P01439,post-workout recovery,,0,$37.99,0,37.99,General,other,0.0
+P01440,post-workout recovery,,0,$37.99,0,37.99,General,other,0.0
+P01441,post-workout recovery,,0,$37.99,0,37.99,General,other,0.0
+P01442,post-workout recovery,,0,$37.99,0,37.99,General,other,0.0
+P01443,post-workout recovery,,0,$37.99,0,37.99,General,other,0.0
+P01444,post-workout recovery,,0,$13.49,0,13.49,General,other,0.0
+P01445,post-workout recovery,,0,$13.49,0,13.49,General,other,0.0
+P01446,post-workout recovery,,0,$13.49,0,13.49,General,other,0.0
+P01447,post-workout recovery,,0,$13.49,0,13.49,General,other,0.0
+P01448,post-workout recovery,,0,$14.99,0,14.99,General,other,0.0
+P01449,post-workout recovery,,0,$19.99,0,19.99,General,other,0.0
+P01450,post-workout recovery,,0,$19.99,0,19.99,General,other,0.0
+P01451,post-workout recovery,,0,$19.99,0,19.99,General,other,0.0
+P01452,post-workout recovery,,0,$19.99,0,19.99,General,other,0.0
+P01453,post-workout recovery,,0,$19.99,0,19.99,General,other,0.0
+P01454,post-workout recovery,,0,$19.99,0,19.99,General,other,0.0
+P01455,post-workout recovery,,0,$19.99,0,19.99,General,other,0.0
+P01456,post-workout recovery,,0,$24.99,0,24.99,General,other,0.0
+P01457,post-workout recovery,,0,$49.99,0,49.99,General,other,0.0
+P01458,post-workout recovery,,0,$49.99,0,49.99,General,other,0.0
+P01459,post-workout recovery,,0,$15.99,0,15.99,General,other,0.0
+P01460,post-workout recovery,,0,$27.99,0,27.99,General,other,0.0
+P01461,post-workout recovery,,0,$27.99,0,27.99,General,other,0.0
+P01462,post-workout recovery,,0,$27.99,0,27.99,General,other,0.0
+P01463,post-workout recovery,,0,$27.99,0,27.99,General,other,0.0
+P01464,post-workout recovery,,0,$15.99,0,15.99,General,other,0.0
+P01465,post-workout recovery,,0,$19.99,0,19.99,General,other,0.0
+P01466,post-workout recovery,,0,$24.99,0,24.99,General,other,0.0
+P01467,post-workout recovery,,0,$24.99,0,24.99,General,other,0.0
+P01468,post-workout recovery,,0,$24.99,0,24.99,General,other,0.0
+P01469,post-workout recovery,,0,$24.99,0,24.99,General,other,0.0
+P01470,post-workout recovery,,0,$24.99,0,24.99,General,other,0.0
+P01471,post-workout recovery,,0,$24.99,0,24.99,General,other,0.0
+P01472,post-workout recovery,,0,$24.99,0,24.99,General,other,0.0
+P01473,post-workout recovery,,0,$24.99,0,24.99,General,other,0.0
+P01474,post-workout recovery,,0,$24.99,0,24.99,General,other,0.0
+P01475,post-workout recovery,,0,$59.99,0,59.99,General,other,0.0
+P01476,post-workout recovery,,0,$59.99,0,59.99,General,other,0.0
+P01477,post-workout recovery,,0,$59.99,0,59.99,General,other,0.0
+P01478,post-workout recovery,,0,$59.99,0,59.99,General,other,0.0
+P01479,post-workout recovery,,0,$59.99,0,59.99,General,other,0.0
+P01480,post-workout recovery,,0,$59.99,0,59.99,General,other,0.0
+P01481,post-workout recovery,,0,$17.99,0,17.99,General,other,0.0
+P01482,post-workout recovery,,0,$29.99,0,29.99,General,other,0.0
+P01483,post-workout recovery,,0,$16.99,0,16.99,General,other,0.0
+P01484,post-workout recovery,,0,$16.99,0,16.99,General,other,0.0
+P01485,post-workout recovery,,0,$16.99,0,16.99,General,other,0.0
+P01486,post-workout recovery,,0,$16.99,0,16.99,General,other,0.0
+P01487,post-workout recovery,,0,$16.99,0,16.99,General,other,0.0
+P01488,post-workout recovery,,0,$16.99,0,16.99,General,other,0.0
+P01489,post-workout recovery,,0,$17.59,0,17.59,General,other,0.0
+P01490,post-workout recovery,,0,$17.59,0,17.59,General,other,0.0
+P01491,post-workout recovery,,0,$17.59,0,17.59,General,other,0.0
+P01492,post-workout recovery,,0,$25.99,0,25.99,General,other,0.0
+P01493,post-workout recovery,,0,$25.99,0,25.99,General,other,0.0
+P01494,post-workout recovery,,0,$25.99,0,25.99,General,other,0.0
+P01495,post-workout recovery,,0,$25.99,0,25.99,General,other,0.0
+P01496,post-workout recovery,,0,$25.99,0,25.99,General,other,0.0
+P01497,post-workout recovery,,0,$25.99,0,25.99,General,other,0.0
+P01498,post-workout recovery,,0,$19.99,0,19.99,General,other,0.0
+P01499,post-workout recovery,,0,$25.99,0,25.99,General,other,0.0
+P01500,post-workout recovery,,0,$22.99,0,22.99,General,other,0.0
+P01501,post-workout recovery,,0,$16.99,0,16.99,General,other,0.0
+P01502,post-workout recovery,,0,$7.99,0,7.99,General,other,0.0
+P01503,post-workout recovery,,0,$19.99,0,19.99,General,other,0.0
+P01504,post-workout recovery,,0,$32.99,0,32.99,General,other,0.0
+P01505,post-workout recovery,,0,$31.99,0,31.99,General,other,0.0
+P01506,post-workout recovery,,0,$31.99,0,31.99,General,other,0.0
+P01507,post-workout recovery,,0,$31.99,0,31.99,General,other,0.0
+P01508,post-workout recovery,,0,$26.99,0,26.99,General,other,0.0
+P01509,post-workout recovery,,0,$26.99,0,26.99,General,other,0.0
+P01510,post-workout recovery,,0,$26.99,0,26.99,General,other,0.0
+P01511,post-workout recovery,,0,$26.99,0,26.99,General,other,0.0
+P01512,post-workout recovery,,0,$31.99,0,31.99,General,other,0.0
+P01513,post-workout recovery,,0,$31.99,0,31.99,General,other,0.0
+P01514,post-workout recovery,,0,$47.99,0,47.99,General,other,0.0
+P01515,post-workout recovery,,0,$47.99,0,47.99,General,other,0.0
+P01516,post-workout recovery,,0,$21.99,0,21.99,General,other,0.0
+P01517,post-workout recovery,,0,$21.99,0,21.99,General,other,0.0
+P01518,post-workout recovery,,0,$27.99,0,27.99,General,other,0.0
+P01519,post-workout recovery,,0,$27.99,0,27.99,General,other,0.0
+P01520,post-workout recovery,,0,$27.99,0,27.99,General,other,0.0
+P01521,post-workout recovery,,0,$27.99,0,27.99,General,other,0.0
+P01522,post-workout recovery,,0,$27.99,0,27.99,General,other,0.0
+P01523,post-workout recovery,,0,$27.99,0,27.99,General,other,0.0
+P01524,post-workout recovery,,0,$44.99,0,44.99,General,other,0.0
+P01525,post-workout recovery,,0,$44.99,0,44.99,General,other,0.0
+P01526,post-workout recovery,,0,$44.99,0,44.99,General,other,0.0
+P01527,post-workout recovery,,0,$44.99,0,44.99,General,other,0.0
+P01528,post-workout recovery,,0,$37.49,0,37.49,General,other,0.0
+P01529,post-workout recovery,,0,$37.49,0,37.49,General,other,0.0
+P01530,post-workout recovery,,0,$37.49,0,37.49,General,other,0.0
+P01531,post-workout recovery,,0,$24.99,0,24.99,General,other,0.0
+P01532,post-workout recovery,,0,$24.99,0,24.99,General,other,0.0
+P01533,post-workout recovery,,0,$24.99,0,24.99,General,other,0.0
+P01534,post-workout recovery,,0,$24.99,0,24.99,General,other,0.0
+P01535,post-workout recovery,,0,$29.99,0,29.99,General,other,0.0
+P01536,post-workout recovery,,0,$29.99,0,29.99,General,other,0.0
+P01537,post-workout recovery,,0,$32.99,0,32.99,General,other,0.0
+P01538,post-workout recovery,,0,$10.99,0,10.99,General,other,0.0
+P01539,post-workout recovery,,0,$16.99,0,16.99,General,other,0.0
+P01540,post-workout recovery,,0,$39.99,0,39.99,General,other,0.0
+P01541,post-workout recovery,,0,$36.99,0,36.99,General,other,0.0
+P01542,post-workout recovery,,0,$36.99,0,36.99,General,other,0.0
+P01543,post-workout recovery,,0,$5.99,0,5.99,General,other,0.0
+P01544,post-workout recovery,,0,$30.99,0,30.99,General,other,0.0
+P01545,post-workout recovery,,0,$34.99,0,34.99,General,other,0.0
+P01546,post-workout recovery,,0,$47.99,0,47.99,General,other,0.0
+P01547,post-workout recovery,,0,$19.99,0,19.99,General,other,0.0
+P01548,post-workout recovery,,0,$14.24,0,14.24,General,other,0.0
+P01549,post-workout recovery,,0,$14.24,0,14.24,General,other,0.0
+P01550,post-workout recovery,,0,$14.24,0,14.24,General,other,0.0
+P01551,post-workout recovery,,0,$14.24,0,14.24,General,other,0.0
+P01552,post-workout recovery,,0,$14.24,0,14.24,General,other,0.0
+P01553,post-workout recovery,,0,$18.99,0,18.99,General,other,0.0
+P01554,post-workout recovery,,0,$14.99,0,14.99,General,other,0.0
+P01555,post-workout recovery,,0,$22.49,0,22.49,General,other,0.0
+P01556,post-workout recovery,,0,$22.49,0,22.49,General,other,0.0
+P01557,post-workout recovery,,0,$22.49,0,22.49,General,other,0.0
+P01558,post-workout recovery,,0,$14.24,0,14.24,General,other,0.0
+P01559,post-workout recovery,,0,$20.99,0,20.99,General,other,0.0
+P01560,post-workout recovery,,0,$14.23,0,14.23,General,other,0.0
+P01561,post-workout recovery,,0,$14.23,0,14.23,General,other,0.0
+P01562,post-workout recovery,,0,$14.98,0,14.98,General,other,0.0
+P01563,post-workout recovery,,0,$17.97,0,17.97,General,other,0.0
+P01564,post-workout recovery,,0,$26.39,0,26.39,General,other,0.0
+P01565,post-workout recovery,,0,$26.39,0,26.39,General,other,0.0
+P01566,post-workout recovery,,0,$40.49,0,40.49,General,other,0.0
+P01567,post-workout recovery,,0,$23.99,0,23.99,General,other,0.0
+P01568,post-workout recovery,,0,$25.59,0,25.59,General,other,0.0
+P01569,post-workout recovery,,0,$25.59,0,25.59,General,other,0.0
+P01570,post-workout recovery,,0,$25.59,0,25.59,General,other,0.0
+P01571,post-workout recovery,,0,$25.59,0,25.59,General,other,0.0
+P01572,post-workout recovery,,0,$25.59,0,25.59,General,other,0.0
+P01573,post-workout recovery,,0,$25.59,0,25.59,General,other,0.0
+P01574,post-workout recovery,,0,$25.59,0,25.59,General,other,0.0
+P01575,post-workout recovery,,0,$41.59,0,41.59,General,other,0.0
+P01576,post-workout recovery,,0,$41.59,0,41.59,General,other,0.0
+P01577,post-workout recovery,,0,$41.59,0,41.59,General,other,0.0
+P01578,post-workout recovery,,0,$41.59,0,41.59,General,other,0.0
+P01579,post-workout recovery,,0,$41.59,0,41.59,General,other,0.0
+P01580,post-workout recovery,,0,$41.59,0,41.59,General,other,0.0
+P01581,post-workout recovery,,0,$41.59,0,41.59,General,other,0.0
+P01582,post-workout recovery,,0,$41.59,0,41.59,General,other,0.0
+P01583,post-workout recovery,,0,$35.99,0,35.99,General,other,0.0
+P01584,post-workout recovery,,0,$48.99,0,48.99,General,other,0.0
+P01585,post-workout recovery,,0,$26.99,0,26.99,General,other,0.0
+P01586,post-workout recovery,,0,$31.99,0,31.99,General,other,0.0
+P01587,post-workout recovery,,0,$35.92,0,35.92,General,other,0.0
+P01588,post-workout recovery,,0,$35.92,0,35.92,General,other,0.0
+P01589,post-workout recovery,,0,$35.92,0,35.92,General,other,0.0
+P01590,post-workout recovery,,0,$35.92,0,35.92,General,other,0.0
+P01591,post-workout recovery,,0,$27.74,0,27.74,General,other,0.0
+P01592,post-workout recovery,,0,$27.74,0,27.74,General,other,0.0
+P01593,post-workout recovery,,0,$39.74,0,39.74,General,other,0.0
+P01594,post-workout recovery,,0,$39.74,0,39.74,General,other,0.0
+P01595,post-workout recovery,,0,$11.24,0,11.24,General,other,0.0
+P01596,post-workout recovery,,0,$16.49,0,16.49,General,other,0.0
+P01597,post-workout recovery,,0,$29.99,0,29.99,General,other,0.0
+P01598,post-workout recovery,,0,$29.99,0,29.99,General,other,0.0
+P01599,post-workout recovery,,0,$29.99,0,29.99,General,other,0.0
+P01600,post-workout recovery,,0,$23.99,0,23.99,General,other,0.0
+P01601,post-workout recovery,,0,$24.99,0,24.99,General,other,0.0
+P01602,post-workout recovery,,0,$11.23,0,11.23,General,other,0.0
+P01603,post-workout recovery,,0,$18.73,0,18.73,General,other,0.0
+P01604,post-workout recovery,,0,$16.99,0,16.99,General,other,0.0
+P01605,post-workout recovery,,0,$22.99,0,22.99,General,other,0.0
+P01606,post-workout recovery,,0,$29.99,0,29.99,General,other,0.0
+P01607,post-workout recovery,,0,$35.99,0,35.99,General,other,0.0
+P01608,post-workout recovery,,0,$61.99,0,61.99,General,other,0.0
+P01609,post-workout recovery,,0,$61.99,0,61.99,General,other,0.0
+P01610,post-workout recovery,,0,$34.99,0,34.99,General,other,0.0
+P01611,post-workout recovery,,0,$34.99,0,34.99,General,other,0.0
+P01612,post-workout recovery,,0,$34.99,0,34.99,General,other,0.0
+P01613,post-workout recovery,,0,$17.24,0,17.24,General,other,0.0
+P01614,post-workout recovery,,0,$17.99,0,17.99,General,other,0.0
+P01615,post-workout recovery,,0,$17.99,0,17.99,General,other,0.0
+P01616,post-workout recovery,,0,$37.99,0,37.99,General,other,0.0
+P01617,post-workout recovery,,0,$21.99,0,21.99,General,other,0.0
+P01618,post-workout recovery,,0,$39.99,0,39.99,General,other,0.0
+P01619,post-workout recovery,,0,$40.99,0,40.99,General,other,0.0
+P01620,post-workout recovery,,0,$40.99,0,40.99,General,other,0.0
+P01621,post-workout recovery,,0,$40.99,0,40.99,General,other,0.0
+P01622,post-workout recovery,,0,$11.99,0,11.99,General,other,0.0
+P01623,post-workout recovery,,0,$11.99,0,11.99,General,other,0.0
+P01624,post-workout recovery,,0,$48.99,0,48.99,General,other,0.0
+P01625,post-workout recovery,,0,$48.99,0,48.99,General,other,0.0
+P01626,post-workout recovery,,0,$48.99,0,48.99,General,other,0.0
+P01627,post-workout recovery,,0,$48.99,0,48.99,General,other,0.0
+P01628,post-workout recovery,,0,$48.99,0,48.99,General,other,0.0
+P01629,post-workout recovery,,0,$89.99,0,89.99,General,other,0.0
+P01630,post-workout recovery,,0,$89.99,0,89.99,General,other,0.0
+P01631,post-workout recovery,,0,$89.99,0,89.99,General,other,0.0
+P01632,post-workout recovery,,0,$19.99,0,19.99,General,other,0.0
+P01633,post-workout recovery,,0,$29.59,0,29.59,General,other,0.0
+P01634,post-workout recovery,,0,$37.99,0,37.99,General,other,0.0
+P01635,post-workout recovery,,0,$10.99,0,10.99,General,other,0.0
+P01636,post-workout recovery,,0,$15.99,0,15.99,General,other,0.0
+P01637,post-workout recovery,,0,$26.99,0,26.99,General,other,0.0
+P01638,post-workout recovery,,0,$16.99,0,16.99,General,other,0.0
+P01639,post-workout recovery,,0,$27.99,0,27.99,General,other,0.0
+P01640,post-workout recovery,,0,$54.99,0,54.99,General,other,0.0
+P01641,post-workout recovery,,0,$21.99,0,21.99,General,other,0.0
+P01642,post-workout recovery,,0,$22.49,0,22.49,General,other,0.0
+P01643,post-workout recovery,,0,$22.49,0,22.49,General,other,0.0
+P01644,post-workout recovery,,0,$22.49,0,22.49,General,other,0.0
+P01645,post-workout recovery,,0,$31.99,0,31.99,General,other,0.0
+P01646,post-workout recovery,,0,$31.99,0,31.99,General,other,0.0
+P01647,post-workout recovery,,0,$31.99,0,31.99,General,other,0.0
+P01648,post-workout recovery,,0,$31.99,0,31.99,General,other,0.0
+P01649,post-workout recovery,,0,$31.99,0,31.99,General,other,0.0
+P01650,post-workout recovery,,0,$31.99,0,31.99,General,other,0.0
+P01651,post-workout recovery,,0,$31.99,0,31.99,General,other,0.0
+P01652,post-workout recovery,,0,$29.92,0,29.92,General,other,0.0
+P01653,post-workout recovery,,0,$29.92,0,29.92,General,other,0.0
+P01654,post-workout recovery,,0,$55.99,0,55.99,General,other,0.0
+P01655,post-workout recovery,,0,$55.99,0,55.99,General,other,0.0
+P01656,post-workout recovery,,0,$55.99,0,55.99,General,other,0.0
+P01657,post-workout recovery,,0,$62.24,0,62.24,General,other,0.0
+P01658,post-workout recovery,,0,$15.99,0,15.99,General,other,0.0
+P01659,post-workout recovery,,0,$41.59,0,41.59,General,other,0.0
+P01660,post-workout recovery,,0,$23.80,0,23.8,General,other,0.0
+P01661,post-workout recovery,,0,$23.80,0,23.8,General,other,0.0
+P01662,post-workout recovery,,0,$23.80,0,23.8,General,other,0.0
+P01663,post-workout recovery,,0,$23.80,0,23.8,General,other,0.0
+P01664,post-workout recovery,,0,$24.14,0,24.14,General,other,0.0
+P01665,post-workout recovery,,0,$24.99,0,24.99,General,other,0.0
+P01666,post-workout recovery,,0,$24.99,0,24.99,General,other,0.0
+P01667,post-workout recovery,,0,$36.99,0,36.99,General,other,0.0
+P01668,post-workout recovery,,0,$36.99,0,36.99,General,other,0.0
+P01669,post-workout recovery,,0,$23.99,0,23.99,General,other,0.0
+P01670,post-workout recovery,,0,$45.99,0,45.99,General,other,0.0
+P01671,post-workout recovery,,0,$22.49,0,22.49,General,other,0.0
+P01672,post-workout recovery,,0,$22.49,0,22.49,General,other,0.0
+P01673,post-workout recovery,,0,$19.99,0,19.99,General,other,0.0
+P01674,post-workout recovery,,0,$19.99,0,19.99,General,other,0.0
+P01675,post-workout recovery,,0,$30.99,0,30.99,General,other,0.0
+P01676,post-workout recovery,,0,$17.99,0,17.99,General,other,0.0
+P01677,post-workout recovery,,0,$31.99,0,31.99,General,other,0.0
+P01678,post-workout recovery,,0,$20.69,0,20.69,General,other,0.0
+P01679,post-workout recovery,,0,$43.19,0,43.19,General,other,0.0
+P01680,post-workout recovery,,0,$42.39,0,42.39,General,other,0.0
+P01681,post-workout recovery,,0,$59.99,0,59.99,General,other,0.0
+P01682,post-workout recovery,,0,$59.99,0,59.99,General,other,0.0
+P01683,post-workout recovery,,0,$52.99,0,52.99,General,other,0.0
+P01684,post-workout recovery,,0,$52.99,0,52.99,General,other,0.0
+P01685,post-workout recovery,,0,$27.99,0,27.99,General,other,0.0
+P01686,post-workout recovery,,0,$17.59,0,17.59,General,other,0.0
+P01687,post-workout recovery,,0,$33.15,0,33.15,General,other,0.0
+P01688,post-workout recovery,,0,$29.59,0,29.59,General,other,0.0
+P01689,post-workout recovery,,0,$29.59,0,29.59,General,other,0.0
+P01690,post-workout recovery,,0,$29.59,0,29.59,General,other,0.0
+P01691,post-workout recovery,,0,$29.59,0,29.59,General,other,0.0
+P01692,post-workout recovery,,0,$29.99,0,29.99,General,other,0.0
+P01693,post-workout recovery,,0,$29.99,0,29.99,General,other,0.0
+P01694,post-workout recovery,,0,$69.99,0,69.99,General,other,0.0
+P01695,post-workout recovery,,0,$69.99,0,69.99,General,other,0.0
+P01696,post-workout recovery,,0,$69.99,0,69.99,General,other,0.0
+P01697,post-workout recovery,,0,$69.99,0,69.99,General,other,0.0
+P01698,post-workout recovery,,0,$69.99,0,69.99,General,other,0.0
+P01699,post-workout recovery,,0,$69.99,0,69.99,General,other,0.0
+P01700,post-workout recovery,,0,$69.99,0,69.99,General,other,0.0
+P01701,post-workout recovery,,0,$69.99,0,69.99,General,other,0.0
+P01702,post-workout recovery,,0,$69.99,0,69.99,General,other,0.0
+P01703,post-workout recovery,,0,$45.99,0,45.99,General,other,0.0
+P01704,post-workout recovery,,0,$45.99,0,45.99,General,other,0.0
+P01705,post-workout recovery,,0,$21.53,0,21.53,General,other,0.0
+P01706,post-workout recovery,,0,$51.99,0,51.99,General,other,0.0
+P01707,post-workout recovery,,0,$51.99,0,51.99,General,other,0.0
+P01708,post-workout recovery,,0,$27.99,0,27.99,General,other,0.0
+P01709,post-workout recovery,,0,$31.99,0,31.99,General,other,0.0
+P01710,post-workout recovery,,0,$43.34,0,43.34,General,other,0.0
+P01711,bcaa supplements,,0,$27.99,0,27.99,General,other,0.0
+P01712,bcaa supplements,,0,$27.99,0,27.99,General,other,0.0
+P01713,bcaa supplements,,0,$29.99,0,29.99,General,other,0.0
+P01714,bcaa supplements,,0,$29.99,0,29.99,General,other,0.0
+P01715,bcaa supplements,,0,$29.99,0,29.99,General,other,0.0
+P01716,bcaa supplements,,0,$19.99,0,19.99,General,other,0.0
+P01717,bcaa supplements,,0,$29.99,0,29.99,General,other,0.0
+P01718,bcaa supplements,,0,$24.99,0,24.99,General,other,0.0
+P01719,bcaa supplements,,0,$24.99,0,24.99,General,other,0.0
+P01720,bcaa supplements,,0,$24.99,0,24.99,General,other,0.0
+P01721,bcaa supplements,,0,$24.99,0,24.99,General,other,0.0
+P01722,bcaa supplements,,0,$19.99,0,19.99,General,other,0.0
+P01723,bcaa supplements,,0,$19.99,0,19.99,General,other,0.0
+P01724,bcaa supplements,,0,$24.49,0,24.49,General,other,0.0
+P01725,bcaa supplements,,0,$24.49,0,24.49,General,other,0.0
+P01726,bcaa supplements,,0,$37.99,0,37.99,General,other,0.0
+P01727,bcaa supplements,,0,$37.99,0,37.99,General,other,0.0
+P01728,bcaa supplements,,0,$37.99,0,37.99,General,other,0.0
+P01729,bcaa supplements,,0,$19.99,0,19.99,General,other,0.0
+P01730,bcaa supplements,,0,$29.99,0,29.99,General,other,0.0
+P01731,bcaa supplements,,0,$23.50,0,23.5,General,other,0.0
+P01732,bcaa supplements,,0,$23.50,0,23.5,General,other,0.0
+P01733,bcaa supplements,,0,$23.50,0,23.5,General,other,0.0
+P01734,bcaa supplements,,0,$35.99,0,35.99,General,other,0.0
+P01735,bcaa supplements,,0,$35.99,0,35.99,General,other,0.0
+P01736,bcaa supplements,,0,$35.99,0,35.99,General,other,0.0
+P01737,bcaa supplements,,0,$35.99,0,35.99,General,other,0.0
+P01738,bcaa supplements,,0,$35.99,0,35.99,General,other,0.0
+P01739,bcaa supplements,,0,$30.99,0,30.99,General,other,0.0
+P01740,bcaa supplements,,0,$30.99,0,30.99,General,other,0.0
+P01741,bcaa supplements,,0,$30.99,0,30.99,General,other,0.0
+P01742,bcaa supplements,,0,$30.99,0,30.99,General,other,0.0
+P01743,bcaa supplements,,0,$30.99,0,30.99,General,other,0.0
+P01744,bcaa supplements,,0,$22.80,0,22.8,General,other,0.0
+P01745,bcaa supplements,,0,$22.80,0,22.8,General,other,0.0
+P01746,bcaa supplements,,0,$22.80,0,22.8,General,other,0.0
+P01747,bcaa supplements,,0,$20.99,0,20.99,General,other,0.0
+P01748,bcaa supplements,,0,$20.99,0,20.99,General,other,0.0
+P01749,bcaa supplements,,0,$20.99,0,20.99,General,other,0.0
+P01750,bcaa supplements,,0,$20.99,0,20.99,General,other,0.0
+P01751,bcaa supplements,,0,$40.99,0,40.99,General,other,0.0
+P01752,bcaa supplements,,0,$40.99,0,40.99,General,other,0.0
+P01753,bcaa supplements,,0,$40.99,0,40.99,General,other,0.0
+P01754,bcaa supplements,,0,$40.99,0,40.99,General,other,0.0
+P01755,bcaa supplements,,0,$40.99,0,40.99,General,other,0.0
+P01756,bcaa supplements,,0,$40.99,0,40.99,General,other,0.0
+P01757,bcaa supplements,,0,$40.99,0,40.99,General,other,0.0
+P01758,bcaa supplements,,0,$29.99,0,29.99,General,other,0.0
+P01759,bcaa supplements,,0,$29.99,0,29.99,General,other,0.0
+P01760,bcaa supplements,,0,$19.99,0,19.99,General,other,0.0
+P01761,bcaa supplements,,0,$27.99,0,27.99,General,other,0.0
+P01762,bcaa supplements,,0,$22.48,0,22.48,General,other,0.0
+P01763,bcaa supplements,,0,$22.48,0,22.48,General,other,0.0
+P01764,bcaa supplements,,0,$22.48,0,22.48,General,other,0.0
+P01765,bcaa supplements,,0,$34.99,0,34.99,General,other,0.0
+P01766,bcaa supplements,,0,$34.99,0,34.99,General,other,0.0
+P01767,bcaa supplements,,0,$34.99,0,34.99,General,other,0.0
+P01768,bcaa supplements,,0,$34.99,0,34.99,General,other,0.0
+P01769,bcaa supplements,,0,$34.99,0,34.99,General,other,0.0
+P01770,bcaa supplements,,0,$34.99,0,34.99,General,other,0.0
+P01771,bcaa supplements,,0,$34.99,0,34.99,General,other,0.0
+P01772,bcaa supplements,,0,$34.99,0,34.99,General,other,0.0
+P01773,bcaa supplements,,0,$36.99,0,36.99,General,other,0.0
+P01774,bcaa supplements,,0,$36.99,0,36.99,General,other,0.0
+P01775,bcaa supplements,,0,$19.99,0,19.99,General,other,0.0
+P01776,bcaa supplements,,0,$29.24,0,29.24,General,other,0.0
+P01777,bcaa supplements,,0,$29.24,0,29.24,General,other,0.0
+P01778,bcaa supplements,,0,$29.24,0,29.24,General,other,0.0
+P01779,bcaa supplements,,0,$29.24,0,29.24,General,other,0.0
+P01780,bcaa supplements,,0,$49.99,0,49.99,General,other,0.0
+P01781,bcaa supplements,,0,$49.99,0,49.99,General,other,0.0
+P01782,bcaa supplements,,0,$41.99,0,41.99,General,other,0.0
+P01783,bcaa supplements,,0,$22.99,0,22.99,General,other,0.0
+P01784,bcaa supplements,,0,$23.99,0,23.99,General,other,0.0
+P01785,bcaa supplements,,0,$23.99,0,23.99,General,other,0.0
+P01786,bcaa supplements,,0,$23.99,0,23.99,General,other,0.0
+P01787,bcaa supplements,,0,$39.99,0,39.99,General,other,0.0
+P01788,bcaa supplements,,0,$39.99,0,39.99,General,other,0.0
+P01789,bcaa supplements,,0,$18.73,0,18.73,General,other,0.0
+P01790,bcaa supplements,,0,$18.73,0,18.73,General,other,0.0
+P01791,bcaa supplements,,0,$18.73,0,18.73,General,other,0.0
+P01792,bcaa supplements,,0,$30.74,0,30.74,General,other,0.0
+P01793,bcaa supplements,,0,$21.74,0,21.74,General,other,0.0
+P01794,bcaa supplements,,0,$21.74,0,21.74,General,other,0.0
+P01795,bcaa supplements,,0,$26.99,0,26.99,General,other,0.0
+P01796,bcaa supplements,,0,$23.62,0,23.62,General,other,0.0
+P01797,bcaa supplements,,0,$23.62,0,23.62,General,other,0.0
+P01798,bcaa supplements,,0,$23.99,0,23.99,General,other,0.0
+P01799,bcaa supplements,,0,$23.99,0,23.99,General,other,0.0
+P01800,bcaa supplements,,0,$23.99,0,23.99,General,other,0.0
+P01801,bcaa supplements,,0,$23.99,0,23.99,General,other,0.0
+P01802,bcaa supplements,,0,$23.99,0,23.99,General,other,0.0
+P01803,bcaa supplements,,0,$23.99,0,23.99,General,other,0.0
+P01804,bcaa supplements,,0,$23.99,0,23.99,General,other,0.0
+P01805,bcaa supplements,,0,$45.74,0,45.74,General,other,0.0
+P01806,bcaa supplements,,0,$45.74,0,45.74,General,other,0.0
+P01807,bcaa supplements,,0,$35.99,0,35.99,General,other,0.0
+P01808,bcaa supplements,,0,$35.99,0,35.99,General,other,0.0
+P01809,bcaa supplements,,0,$13.59,0,13.59,General,other,0.0
+P01810,bcaa supplements,,0,$32.99,0,32.99,General,other,0.0
+P01811,bcaa supplements,,0,$32.99,0,32.99,General,other,0.0
+P01812,bcaa supplements,,0,$32.99,0,32.99,General,other,0.0
+P01813,bcaa supplements,,0,$32.99,0,32.99,General,other,0.0
+P01814,bcaa supplements,,0,$49.99,0,49.99,General,other,0.0
+P01815,bcaa supplements,,0,$49.99,0,49.99,General,other,0.0
+P01816,bcaa supplements,,0,$49.99,0,49.99,General,other,0.0
+P01817,bcaa supplements,,0,$11.99,0,11.99,General,other,0.0
+P01818,bcaa supplements,,0,$31.99,0,31.99,General,other,0.0
+P01819,bcaa supplements,,0,$28.34,0,28.34,General,other,0.0
+P01820,bcaa supplements,,0,$28.34,0,28.34,General,other,0.0
+P01821,bcaa supplements,,0,$28.34,0,28.34,General,other,0.0
+P01822,bcaa supplements,,0,$28.34,0,28.34,General,other,0.0
+P01823,bcaa supplements,,0,$28.34,0,28.34,General,other,0.0
+P01824,bcaa supplements,,0,$39.99,0,39.99,General,other,0.0
+P01825,bcaa supplements,,0,$39.99,0,39.99,General,other,0.0
+P01826,bcaa supplements,,0,$34.99,0,34.99,General,other,0.0
+P01827,bcaa supplements,,0,$34.99,0,34.99,General,other,0.0
+P01828,bcaa supplements,,0,$34.99,0,34.99,General,other,0.0
+P01829,bcaa supplements,,0,$36.79,0,36.79,General,other,0.0
+P01830,pre-workout,,0,$29.50,0,29.5,General,performance_energy,0.0
+P01831,pre-workout,,0,$29.50,0,29.5,General,performance_energy,0.0
+P01832,pre-workout,,0,$29.50,0,29.5,General,performance_energy,0.0
+P01833,bcaa supplements,,0,$29.99,0,29.99,General,other,0.0
+P01834,bcaa supplements,,0,$29.99,0,29.99,General,other,0.0
+P01835,bcaa supplements,,0,$29.99,0,29.99,General,other,0.0
+P01836,bcaa supplements,,0,$29.99,0,29.99,General,other,0.0
+P01837,bcaa supplements,,0,$20.99,0,20.99,General,other,0.0
+P01838,bcaa supplements,,0,$20.99,0,20.99,General,other,0.0
+P01839,bcaa supplements,,0,$20.99,0,20.99,General,other,0.0
+P01840,bcaa supplements,,0,$20.99,0,20.99,General,other,0.0
+P01841,bcaa supplements,,0,$19.49,0,19.49,General,other,0.0
+P01842,bcaa supplements,,0,$19.49,0,19.49,General,other,0.0
+P01843,bcaa supplements,,0,$19.49,0,19.49,General,other,0.0
+P01844,bcaa supplements,,0,$34.99,0,34.99,General,other,0.0
+P01845,bcaa supplements,,0,$31.99,0,31.99,General,other,0.0
+P01846,bcaa supplements,,0,$32.99,0,32.99,General,other,0.0
+P01847,bcaa supplements,,0,$32.99,0,32.99,General,other,0.0
+P01848,bcaa supplements,,0,$33.56,0,33.56,General,other,0.0
+P01849,bcaa supplements,,0,$33.56,0,33.56,General,other,0.0
+P01850,bcaa supplements,,0,$33.56,0,33.56,General,other,0.0
+P01851,bcaa supplements,,0,$33.56,0,33.56,General,other,0.0
+P01852,bcaa supplements,,0,$29.74,0,29.74,General,other,0.0
+P01853,bcaa supplements,,0,$45.99,0,45.99,General,other,0.0
+P01854,bcaa supplements,,0,$45.99,0,45.99,General,other,0.0
+P01855,bcaa supplements,,0,$23.99,0,23.99,General,other,0.0
+P01856,bcaa supplements,,0,$25.59,0,25.59,General,other,0.0
+P01857,bcaa supplements,,0,$25.59,0,25.59,General,other,0.0
+P01858,bcaa supplements,,0,$42.99,0,42.99,General,other,0.0
+P01859,bcaa supplements,,0,$19.99,0,19.99,General,other,0.0
+P01860,bcaa supplements,,0,$19.99,0,19.99,General,other,0.0
+P01861,bcaa supplements,,0,$23.99,0,23.99,General,other,0.0
+P01862,bcaa supplements,,0,$34.99,0,34.99,General,other,0.0
+P01863,bcaa supplements,,0,$29.99,0,29.99,General,other,0.0
+P01864,bcaa supplements,,0,$31.74,0,31.74,General,other,0.0
+P01865,bcaa supplements,,0,$31.74,0,31.74,General,other,0.0
+P01866,bcaa supplements,,0,$59.99,0,59.99,General,other,0.0
+P01867,bcaa supplements,,0,$59.99,0,59.99,General,other,0.0
+P01868,bcaa supplements,,0,$32.29,0,32.29,General,other,0.0
+P01869,bcaa supplements,,0,$24.99,0,24.99,General,other,0.0
+P01870,amino acids,,0,$19.99,0,19.99,General,other,0.0
+P01871,amino acids,,0,$22.99,0,22.99,General,other,0.0
+P01872,amino acids,,0,$15.00,0,15.0,General,other,0.0
+P01873,amino acids,,0,$29.99,0,29.99,General,other,0.0
+P01874,amino acids,,0,$29.99,0,29.99,General,other,0.0
+P01875,amino acids,,0,$37.99,0,37.99,General,other,0.0
+P01876,amino acids,,0,$43.99,0,43.99,General,other,0.0
+P01877,amino acids,,0,$17.49,0,17.49,General,other,0.0
+P01878,amino acids,,0,$21.99,0,21.99,General,other,0.0
+P01879,amino acids,,0,$29.99,0,29.99,General,other,0.0
+P01880,amino acids,,0,$16.99,0,16.99,General,other,0.0
+P01881,amino acids,,0,$26.99,0,26.99,General,other,0.0
+P01882,amino acids,,0,$7.99,0,7.99,General,other,0.0
+P01883,amino acids,,0,$14.99,0,14.99,General,other,0.0
+P01884,amino acids,,0,$19.99,0,19.99,General,other,0.0
+P01885,amino acids,,0,$26.99,0,26.99,General,other,0.0
+P01886,amino acids,,0,$26.99,0,26.99,General,other,0.0
+P01887,amino acids,,0,$14.99,0,14.99,General,other,0.0
+P01888,amino acids,,0,$24.99,0,24.99,General,other,0.0
+P01889,amino acids,,0,$33.14,0,33.14,General,other,0.0
+P01890,amino acids,,0,$26.99,0,26.99,General,other,0.0
+P01891,amino acids,,0,$23.23,0,23.23,General,other,0.0
+P01892,amino acids,,0,$24.99,0,24.99,General,other,0.0
+P01893,amino acids,,0,$24.99,0,24.99,General,other,0.0
+P01894,amino acids,,0,$24.99,0,24.99,General,other,0.0
+P01895,amino acids,,0,$24.99,0,24.99,General,other,0.0
+P01896,amino acids,,0,$24.99,0,24.99,General,other,0.0
+P01897,amino acids,,0,$24.99,0,24.99,General,other,0.0
+P01898,amino acids,,0,$24.99,0,24.99,General,other,0.0
+P01899,amino acids,,0,$24.99,0,24.99,General,other,0.0
+P01900,amino acids,,0,$24.99,0,24.99,General,other,0.0
+P01901,amino acids,,0,$29.99,0,29.99,General,other,0.0
+P01902,amino acids,,0,$29.99,0,29.99,General,other,0.0
+P01903,amino acids,,0,$29.99,0,29.99,General,other,0.0
+P01904,amino acids,,0,$29.99,0,29.99,General,other,0.0
+P01905,amino acids,,0,$29.99,0,29.99,General,other,0.0
+P01906,amino acids,,0,$29.99,0,29.99,General,other,0.0
+P01907,amino acids,,0,$29.99,0,29.99,General,other,0.0
+P01908,amino acids,,0,$29.99,0,29.99,General,other,0.0
+P01909,amino acids,,0,$34.99,0,34.99,General,other,0.0
+P01910,amino acids,,0,$34.99,0,34.99,General,other,0.0
+P01911,amino acids,,0,$24.99,0,24.99,General,other,0.0
+P01912,amino acids,,0,$29.99,0,29.99,General,other,0.0
+P01913,amino acids,,0,$43.19,0,43.19,General,other,0.0
+P01914,amino acids,,0,$14.99,0,14.99,General,other,0.0
+P01915,amino acids,,0,$8.99,0,8.99,General,other,0.0
+P01916,amino acids,,0,$24.99,0,24.99,General,other,0.0
+P01917,amino acids,,0,$53.99,0,53.99,General,other,0.0
+P01918,amino acids,,0,$19.19,0,19.19,General,other,0.0
+P01919,amino acids,,0,$27.99,0,27.99,General,other,0.0
+P01920,amino acids,,0,$11.99,0,11.99,General,other,0.0
+P01921,amino acids,,0,$18.99,0,18.99,General,other,0.0
+P01922,amino acids,,0,$5.99,0,5.99,General,other,0.0
+P01923,amino acids,,0,$11.99,0,11.99,General,other,0.0
+P01924,amino acids,,0,$16.99,0,16.99,General,other,0.0
+P01925,amino acids,,0,$23.99,0,23.99,General,other,0.0
+P01926,amino acids,,0,$18.39,0,18.39,General,other,0.0
+P01927,amino acids,,0,$16.99,0,16.99,General,other,0.0
+P01928,amino acids,,0,$43.99,0,43.99,General,other,0.0
+P01929,amino acids,,0,$44.79,0,44.79,General,other,0.0
+P01930,amino acids,,0,$35.19,0,35.19,General,other,0.0
+P01931,amino acids,,0,$35.19,0,35.19,General,other,0.0
+P01932,amino acids,,0,$16.99,0,16.99,General,other,0.0
+P01933,amino acids,,0,$28.99,0,28.99,General,other,0.0
+P01934,amino acids,,0,$14.39,0,14.39,General,other,0.0
+P01935,amino acids,,0,$36.74,0,36.74,General,other,0.0
+P01936,amino acids,,0,$18.74,0,18.74,General,other,0.0
+P01937,amino acids,,0,$18.74,0,18.74,General,other,0.0
+P01938,amino acids,,0,$18.74,0,18.74,General,other,0.0
+P01939,amino acids,,0,$18.74,0,18.74,General,other,0.0
+P01940,amino acids,,0,$18.74,0,18.74,General,other,0.0
+P01941,amino acids,,0,$18.74,0,18.74,General,other,0.0
+P01942,amino acids,,0,$43.99,0,43.99,General,other,0.0
+P01943,amino acids,,0,$49.49,0,49.49,General,other,0.0
+P01944,amino acids,,0,$12.99,0,12.99,General,other,0.0
+P01945,amino acids,,0,$33.25,0,33.25,General,other,0.0
+P01946,amino acids,,0,$33.25,0,33.25,General,other,0.0
+P01947,amino acids,,0,$33.25,0,33.25,General,other,0.0
+P01948,amino acids,,0,$14.99,0,14.99,General,other,0.0
+P01949,amino acids,,0,$18.13,0,18.13,General,other,0.0
+P01950,amino acids,,0,$12.74,0,12.74,General,other,0.0
+P01951,amino acids,,0,$25.59,0,25.59,General,other,0.0
+P01952,amino acids,,0,$27.99,0,27.99,General,other,0.0
+P01953,amino acids,,0,$12.99,0,12.99,General,other,0.0
+P01954,amino acids,,0,$22.99,0,22.99,General,other,0.0
+P01955,amino acids,,0,$25.99,0,25.99,General,other,0.0
+P01956,amino acids,,0,$21.99,0,21.99,General,other,0.0
+P01957,amino acids,,0,$39.99,0,39.99,General,other,0.0
+P01958,amino acids,,0,$42.99,0,42.99,General,other,0.0
+P01959,amino acids,,0,$19.99,0,19.99,General,other,0.0
+P01960,amino acids,,0,$22.99,0,22.99,General,other,0.0
+P01961,amino acids,,0,$14.99,0,14.99,General,other,0.0
+P01962,amino acids,,0,$29.99,0,29.99,General,other,0.0
+P01963,amino acids,,0,$37.59,0,37.59,General,other,0.0
+P01964,amino acids,,0,$111.20,0,111.2,General,other,0.0
+P01965,amino acids,,0,$16.99,0,16.99,General,other,0.0
+P01966,amino acids,,0,$33.99,0,33.99,General,other,0.0
+P01967,amino acids,,0,$14.99,0,14.99,General,other,0.0
+P01968,amino acids,,0,$91.99,0,91.99,General,other,0.0
+P01969,amino acids,,0,$20.99,0,20.99,General,other,0.0
+P01970,amino acids,,0,$49.79,0,49.79,General,other,0.0
+P01971,amino acids,,0,$50.99,0,50.99,General,other,0.0
+P01972,amino acids,,0,$15.99,0,15.99,General,other,0.0
+P01973,amino acids,,0,$9.99,0,9.99,General,other,0.0
+P01974,amino acids,,0,$25.99,0,25.99,General,other,0.0
+P01975,amino acids,,0,$20.99,0,20.99,General,other,0.0
+P01976,amino acids,,0,$55.20,0,55.2,General,other,0.0
+P01977,amino acids,,0,$16.99,0,16.99,General,other,0.0
+P01978,amino acids,,0,$24.99,0,24.99,General,other,0.0
+P01979,amino acids,,0,$22.99,0,22.99,General,other,0.0
+P01980,amino acids,,0,$28.99,0,28.99,General,other,0.0
+P01981,amino acids,,0,$104.54,0,104.54,General,other,0.0
+P01982,amino acids,,0,$39.99,0,39.99,General,other,0.0
+P01983,amino acids,,0,$14.99,0,14.99,General,other,0.0
+P01984,amino acids,,0,$39.99,0,39.99,General,other,0.0
+P01985,amino acids,,0,$39.99,0,39.99,General,other,0.0
+P01986,amino acids,,0,$39.99,0,39.99,General,other,0.0
+P01987,amino acids,,0,$111.20,0,111.2,General,other,0.0
+P01988,creatine,,0,$11.49,0,11.49,General,performance_energy,0.17
+P01989,creatine,,0,$8.62,0,8.62,General,performance_energy,0.228
+P01990,creatine,,0,$10.38,0,10.38,General,performance_energy,0.192
+P01991,creatine,,0,$12.78,0,12.78,General,performance_energy,0.144
+P01992,creatine,,0,$13.99,0,13.99,General,performance_energy,0.12
+P01993,creatine,,0,$9.99,0,9.99,General,performance_energy,0.2
+P01994,creatine,,0,$12.99,0,12.99,General,performance_energy,0.14
+P01995,creatine,,0,$19.99,0,19.99,General,performance_energy,0.0
+P01996,creatine,,0,$37.99,0,37.99,General,performance_energy,0.0
+P01997,creatine,,0,$50.99,0,50.99,General,performance_energy,0.0
+P01998,creatine,,0,$13.99,0,13.99,General,performance_energy,0.12
+P01999,creatine,,0,$24.99,0,24.99,General,performance_energy,0.0
+P02000,creatine,,0,$19.99,0,19.99,General,performance_energy,0.0
+P02001,creatine,,0,$19.99,0,19.99,General,performance_energy,0.0
+P02002,creatine,,0,$19.99,0,19.99,General,performance_energy,0.0
+P02003,creatine,,0,$14.99,0,14.99,General,performance_energy,0.1
+P02004,creatine,,0,$14.39,0,14.39,General,performance_energy,0.112
+P02005,creatine,,0,$12.79,0,12.79,General,performance_energy,0.144
+P02006,creatine,,0,$22.39,0,22.39,General,performance_energy,0.0
+P02007,creatine,,0,$22.39,0,22.39,General,performance_energy,0.0
+P02008,creatine,,0,$22.39,0,22.39,General,performance_energy,0.0
+P02009,creatine,,0,$21.59,0,21.59,General,performance_energy,0.0
+P02010,creatine,,0,$8.99,0,8.99,General,performance_energy,0.22
+P02011,creatine,,0,$18.99,0,18.99,General,performance_energy,0.02
+P02012,creatine,,0,$9.99,0,9.99,General,performance_energy,0.2
+P02013,creatine,,0,$24.99,0,24.99,General,performance_energy,0.0
+P02014,creatine,,0,$39.99,0,39.99,General,performance_energy,0.0
+P02015,creatine,,0,$19.99,0,19.99,General,performance_energy,0.0
+P02016,creatine,,0,$19.59,0,19.59,General,performance_energy,0.008
+P02017,creatine,,0,$19.59,0,19.59,General,performance_energy,0.008
+P02018,creatine,,0,$19.59,0,19.59,General,performance_energy,0.008
+P02019,creatine,,0,$10.99,0,10.99,General,performance_energy,0.18
+P02020,creatine,,0,$5.99,0,5.99,General,performance_energy,0.28
+P02021,creatine,,0,$9.99,0,9.99,General,performance_energy,0.2
+P02022,creatine,,0,$12.99,0,12.99,General,performance_energy,0.14
+P02023,creatine,,0,$12.99,0,12.99,General,performance_energy,0.14
+P02024,creatine,,0,$12.99,0,12.99,General,performance_energy,0.14
+P02025,creatine,,0,$21.99,0,21.99,General,performance_energy,0.0
+P02026,creatine,,0,$13.99,0,13.99,General,performance_energy,0.12
+P02027,creatine,,0,$9.99,0,9.99,General,performance_energy,0.2
+P02028,creatine,,0,$15.99,0,15.99,General,performance_energy,0.08
+P02029,creatine,,0,$19.99,0,19.99,General,performance_energy,0.0
+P02030,creatine,,0,$24.99,0,24.99,General,performance_energy,0.0
+P02031,creatine,,0,$24.99,0,24.99,General,performance_energy,0.0
+P02032,creatine,,0,$31.99,0,31.99,General,performance_energy,0.0
+P02033,creatine,,0,$31.99,0,31.99,General,performance_energy,0.0
+P02034,creatine,,0,$31.99,0,31.99,General,performance_energy,0.0
+P02035,creatine,,0,$31.99,0,31.99,General,performance_energy,0.0
+P02036,creatine,,0,$31.99,0,31.99,General,performance_energy,0.0
+P02037,creatine,,0,$14.99,0,14.99,General,performance_energy,0.1
+P02038,creatine,,0,$19.99,0,19.99,General,performance_energy,0.0
+P02039,creatine,,0,$24.99,0,24.99,General,performance_energy,0.0
+P02040,creatine,,0,$14.99,0,14.99,General,performance_energy,0.1
+P02041,creatine,,0,$14.99,0,14.99,General,performance_energy,0.1
+P02042,creatine,,0,$29.99,0,29.99,General,performance_energy,0.0
+P02043,creatine,,0,$24.99,0,24.99,General,performance_energy,0.0
+P02044,creatine,,0,$34.99,0,34.99,General,performance_energy,0.0
+P02045,creatine,,0,$9.59,0,9.59,General,performance_energy,0.208
+P02046,creatine,,0,$18.74,0,18.74,General,performance_energy,0.025
+P02047,creatine,,0,$19.19,0,19.19,General,performance_energy,0.016
+P02048,creatine,,0,$7.96,0,7.96,General,performance_energy,0.241
+P02049,creatine,,0,$10.19,0,10.19,General,performance_energy,0.196
+P02050,creatine,,0,$14.15,0,14.15,General,performance_energy,0.117
+P02051,creatine,,0,$21.41,0,21.41,General,performance_energy,0.0
+P02052,creatine,,0,$20.99,0,20.99,General,performance_energy,0.0
+P02053,creatine,,0,$33.99,0,33.99,General,performance_energy,0.0
+P02054,creatine,,0,$14.39,0,14.39,General,performance_energy,0.112
+P02055,creatine,,0,$26.24,0,26.24,General,performance_energy,0.0
+P02056,creatine,,0,$30.74,0,30.74,General,performance_energy,0.0
+P02057,creatine,,0,$17.99,0,17.99,General,performance_energy,0.04
+P02058,creatine,,0,$8.24,0,8.24,General,performance_energy,0.235
+P02059,creatine,,0,$40.99,0,40.99,General,performance_energy,0.0
+P02060,creatine,,0,$43.49,0,43.49,General,performance_energy,0.0
+P02061,creatine,,0,$46.39,0,46.39,General,performance_energy,0.0
+P02062,creatine,,0,$9.99,0,9.99,General,performance_energy,0.2
+P02063,creatine,,0,$14.39,0,14.39,General,performance_energy,0.112
+P02064,creatine,,0,$13.49,0,13.49,General,performance_energy,0.13
+P02065,creatine,,0,$34.01,0,34.01,General,performance_energy,0.0
+P02066,creatine,,0,$19.27,0,19.27,General,performance_energy,0.015
+P02067,creatine,,0,$14.99,0,14.99,General,performance_energy,0.1
+P02068,creatine,,0,$58.64,0,58.64,General,performance_energy,0.0
+P02069,creatine,,0,$11.89,0,11.89,General,performance_energy,0.162
+P02070,creatine,,0,$59.99,0,59.99,General,performance_energy,0.0
+P02071,creatine,,0,$28.99,0,28.99,General,performance_energy,0.0
+P02072,creatine,,0,$29.99,0,29.99,General,performance_energy,0.0
+P02073,creatine,,0,$15.99,0,15.99,General,performance_energy,0.08
+P02074,testosterone support,,0,$34.99,0,34.99,General,other,0.0
+P02075,testosterone support,,0,$39.98,0,39.98,General,other,0.0
+P02076,testosterone support,,0,$18.99,0,18.99,General,other,0.0
+P02077,testosterone support,,0,$15.98,0,15.98,General,other,0.0
+P02078,testosterone support,,0,$29.59,0,29.59,General,other,0.0
+P02079,testosterone support,,0,$12.99,0,12.99,General,other,0.0
+P02080,testosterone support,,0,$22.99,0,22.99,General,other,0.0
+P02081,testosterone support,,0,$18.99,0,18.99,General,other,0.0
+P02082,testosterone support,,0,$27.99,0,27.99,General,other,0.0
+P02083,testosterone support,,0,$14.99,0,14.99,General,other,0.0
+P02084,testosterone support,,0,$16.99,0,16.99,General,other,0.0
+P02085,testosterone support,,0,$26.99,0,26.99,General,other,0.0
+P02086,testosterone support,,0,$15.99,0,15.99,General,other,0.0
+P02087,testosterone support,,0,$34.99,0,34.99,General,other,0.0
+P02088,testosterone support,,0,$42.85,0,42.85,General,other,0.0
+P02089,testosterone support,,0,$31.49,0,31.49,General,other,0.0
+P02090,testosterone support,,0,$49.99,0,49.99,General,other,0.0
+P02091,testosterone support,,0,$15.99,0,15.99,General,other,0.0
+P02092,testosterone support,,0,$14.99,0,14.99,General,other,0.0
+P02093,testosterone support,,0,$24.99,0,24.99,General,other,0.0
+P02094,testosterone support,,0,$39.99,0,39.99,General,other,0.0
+P02095,testosterone support,,0,$21.99,0,21.99,General,other,0.0
+P02096,testosterone support,,0,$20.79,0,20.79,General,other,0.0
+P02097,testosterone support,,0,$18.99,0,18.99,General,other,0.0
+P02098,testosterone support,,0,$15.99,0,15.99,General,other,0.0
+P02099,testosterone support,,0,$27.99,0,27.99,General,other,0.0
+P02100,testosterone support,,0,$12.74,0,12.74,General,other,0.0
+P02101,testosterone support,,0,$24.99,0,24.99,General,other,0.0
+P02102,testosterone support,,0,$159.99,0,159.99,General,other,0.0
+P02103,testosterone support,,0,$10.99,0,10.99,General,other,0.0
+P02104,testosterone support,,0,$47.20,0,47.2,General,other,0.0
+P02105,testosterone support,,0,$44.24,0,44.24,General,other,0.0
+P02106,testosterone support,,0,$12.99,0,12.99,General,other,0.0
+P02107,testosterone support,,0,$24.99,0,24.99,General,other,0.0
+P02108,testosterone support,,0,$30.99,0,30.99,General,other,0.0
+P02109,testosterone support,,0,$24.99,0,24.99,General,other,0.0
+P02110,testosterone support,,0,$31.99,0,31.99,General,other,0.0
+P02111,testosterone support,,0,$43.99,0,43.99,General,other,0.0
+P02112,testosterone support,,0,$14.99,0,14.99,General,other,0.0
+P02113,testosterone support,,0,$25.99,0,25.99,General,other,0.0
+P02114,testosterone support,,0,$12.99,0,12.99,General,other,0.0
+P02115,testosterone support,,0,$79.99,0,79.99,General,other,0.0
+P02116,testosterone support,,0,$21.59,0,21.59,General,other,0.0
+P02117,testosterone support,,0,$36.49,0,36.49,General,other,0.0
+P02118,testosterone support,,0,$28.99,0,28.99,General,other,0.0
+P02119,testosterone support,,0,$25.99,0,25.99,General,other,0.0
+P02120,testosterone support,,0,$28.89,0,28.89,General,other,0.0
+P02121,testosterone support,,0,$15.99,0,15.99,General,other,0.0
+P02122,testosterone support,,0,$59.99,0,59.99,General,other,0.0
+P02123,testosterone support,,0,$57.99,0,57.99,General,other,0.0
+P02124,testosterone support,,0,$27.99,0,27.99,General,other,0.0
+P02125,testosterone support,,0,$8.50,0,8.5,General,other,0.0
+P02126,testosterone support,,0,$64.99,0,64.99,General,other,0.0
+P02127,testosterone support,,0,$19.99,0,19.99,General,other,0.0
+P02128,testosterone support,,0,$20.99,0,20.99,General,other,0.0
+P02129,testosterone support,,0,$39.99,0,39.99,General,other,0.0
+P02130,testosterone support,,0,$28.99,0,28.99,General,other,0.0
+P02131,testosterone support,,0,$74.39,0,74.39,General,other,0.0
+P02132,testosterone support,,0,$12.99,0,12.99,General,other,0.0
+P02133,testosterone support,,0,$44.93,0,44.93,General,other,0.0
+P02134,testosterone support,,0,$50.99,0,50.99,General,other,0.0
+P02135,testosterone support,,0,$29.56,0,29.56,General,other,0.0
+P02136,testosterone support,,0,$27.99,0,27.99,General,other,0.0
+P02137,testosterone support,,0,$89.99,0,89.99,General,other,0.0
+P02138,testosterone support,,0,$25.99,0,25.99,General,other,0.0
+P02139,testosterone support,,0,$32.99,0,32.99,General,other,0.0
+P02140,testosterone support,,0,$47.99,0,47.99,General,other,0.0
+P02141,testosterone support,,0,$13.46,0,13.46,General,other,0.0
+P02142,testosterone support,,0,$26.90,0,26.9,General,other,0.0
+P02143,testosterone support,,0,$27.99,0,27.99,General,other,0.0
+P02144,testosterone support,,0,$15.99,0,15.99,General,other,0.0
+P02145,testosterone support,,0,$52.99,0,52.99,General,other,0.0
+P02146,testosterone support,,0,$25.99,0,25.99,General,other,0.0
+P02147,testosterone support,,0,$13.59,0,13.59,General,other,0.0
+P02148,testosterone support,,0,$19.99,0,19.99,General,other,0.0
+P02149,testosterone support,,0,$31.99,0,31.99,General,other,0.0
+P02150,testosterone support,,0,$17.99,0,17.99,General,other,0.0
+P02151,testosterone support,,0,$67.99,0,67.99,General,other,0.0
+P02152,testosterone support,,0,$47.99,0,47.99,General,other,0.0
+P02153,testosterone support,,0,$15.99,0,15.99,General,other,0.0
+P02154,testosterone support,,0,$24.99,0,24.99,General,other,0.0
+P02155,testosterone support,,0,$23.61,0,23.61,General,other,0.0
+P02156,testosterone support,,0,$33.99,0,33.99,General,other,0.0
+P02157,testosterone support,,0,$35.99,0,35.99,General,other,0.0
+P02158,testosterone support,,0,$21.18,0,21.18,General,other,0.0
+P02159,testosterone support,,0,$28.99,0,28.99,General,other,0.0
+P02160,testosterone support,,0,$46.39,0,46.39,General,other,0.0
+P02161,testosterone support,,0,$59.99,0,59.99,General,other,0.0
+P02162,testosterone support,,0,$36.99,0,36.99,General,other,0.0
+P02163,testosterone support,,0,$35.24,0,35.24,General,other,0.0
+P02164,fat burners,,0,$24.99,0,24.99,General,other,0.0
+P02165,fat burners,,0,$19.99,0,19.99,General,other,0.0
+P02166,fat burners,,0,$24.99,0,24.99,General,other,0.0
+P02167,fat burners,,0,$29.99,0,29.99,General,other,0.0
+P02168,fat burners,,0,$12.99,0,12.99,General,other,0.0
+P02169,fat burners,,0,$19.99,0,19.99,General,other,0.0
+P02170,fat burners,,0,$29.99,0,29.99,General,other,0.0
+P02171,fat burners,,0,$19.99,0,19.99,General,other,0.0
+P02172,fat burners,,0,$29.99,0,29.99,General,other,0.0
+P02173,fat burners,,0,$17.59,0,17.59,General,other,0.0
+P02174,fat burners,,0,$26.23,0,26.23,General,other,0.0
+P02175,fat burners,,0,$8.39,0,8.39,General,other,0.0
+P02176,fat burners,,0,$19.99,0,19.99,General,other,0.0
+P02177,fat burners,,0,$29.99,0,29.99,General,other,0.0
+P02178,fat burners,,0,$10.38,0,10.38,General,other,0.0
+P02179,fat burners,,0,$15.98,0,15.98,General,other,0.0
+P02180,fat burners,,0,$36.95,0,36.95,General,other,0.0
+P02181,fat burners,,0,$21.99,0,21.99,General,other,0.0
+P02182,fat burners,,0,$29.99,0,29.99,General,other,0.0
+P02183,fat burners,,0,$23.50,0,23.5,General,other,0.0
+P02184,fat burners,,0,$29.99,0,29.99,General,other,0.0
+P02185,fat burners,,0,$37.49,0,37.49,General,other,0.0
+P02186,fat burners,,0,$14.99,0,14.99,General,other,0.0
+P02187,fat burners,,0,$10.38,0,10.38,General,other,0.0
+P02188,fat burners,,0,$19.97,0,19.97,General,other,0.0
+P02189,fat burners,,0,$12.97,0,12.97,General,other,0.0
+P02190,fat burners,,0,$12.97,0,12.97,General,other,0.0
+P02191,fat burners,,0,$18.97,0,18.97,General,other,0.0
+P02192,fat burners,,0,$18.97,0,18.97,General,other,0.0
+P02193,fat burners,,0,$20.99,0,20.99,General,other,0.0
+P02194,fat burners,,0,$27.49,0,27.49,General,other,0.0
+P02195,fat burners,,0,$29.99,0,29.99,General,other,0.0
+P02196,fat burners,,0,$15.91,0,15.91,General,other,0.0
+P02197,fat burners,,0,$29.99,0,29.99,General,other,0.0
+P02198,fat burners,,0,$49.99,0,49.99,General,other,0.0
+P02199,fat burners,,0,$20.99,0,20.99,General,other,0.0
+P02200,fat burners,,0,$20.99,0,20.99,General,other,0.0
+P02201,fat burners,,0,$20.99,0,20.99,General,other,0.0
+P02202,fat burners,,0,$25.99,0,25.99,General,other,0.0
+P02203,fat burners,,0,$3.49,0,3.49,General,other,0.0
+P02204,fat burners,,0,$23.23,0,23.23,General,other,0.0
+P02205,fat burners,,0,$25.49,0,25.49,General,other,0.0
+P02206,fat burners,,0,$35.99,0,35.99,General,other,0.0
+P02207,fat burners,,0,$35.69,0,35.69,General,other,0.0
+P02208,fat burners,,0,$35.69,0,35.69,General,other,0.0
+P02209,fat burners,,0,$35.69,0,35.69,General,other,0.0
+P02210,fat burners,,0,$16.60,0,16.6,General,other,0.0
+P02211,fat burners,,0,$16.60,0,16.6,General,other,0.0
+P02212,fat burners,,0,$31.49,0,31.49,General,other,0.0
+P02213,fat burners,,0,$31.49,0,31.49,General,other,0.0
+P02214,fat burners,,0,$15.80,0,15.8,General,other,0.0
+P02215,fat burners,,0,$11.99,0,11.99,General,other,0.0
+P02216,fat burners,,0,$10.49,0,10.49,General,other,0.0
+P02217,fat burners,,0,$34.49,0,34.49,General,other,0.0
+P02218,fat burners,,0,$37.49,0,37.49,General,other,0.0
+P02219,fat burners,,0,$21.99,0,21.99,General,other,0.0
+P02220,fat burners,,0,$21.99,0,21.99,General,other,0.0
+P02221,fat burners,,0,$21.99,0,21.99,General,other,0.0
+P02222,fat burners,,0,$28.79,0,28.79,General,other,0.0
+P02223,fat burners,,0,$28.79,0,28.79,General,other,0.0
+P02224,fat burners,,0,$28.79,0,28.79,General,other,0.0
+P02225,fat burners,,0,$19.99,0,19.99,General,other,0.0
+P02226,fat burners,,0,$19.99,0,19.99,General,other,0.0
+P02227,fat burners,,0,$17.24,0,17.24,General,other,0.0
+P02228,fat burners,,0,$24.99,0,24.99,General,other,0.0
+P02229,fat burners,,0,$40.99,0,40.99,General,other,0.0
+P02230,fat burners,,0,$24.99,0,24.99,General,other,0.0
+P02231,fat burners,,0,$26.39,0,26.39,General,other,0.0
+P02232,fat burners,,0,$22.39,0,22.39,General,other,0.0
+P02233,fat burners,,0,$40.49,0,40.49,General,other,0.0
+P02234,fat burners,,0,$14.99,0,14.99,General,other,0.0
+P02235,fat burners,,0,$14.99,0,14.99,General,other,0.0
+P02236,fat burners,,0,$14.99,0,14.99,General,other,0.0
+P02237,fat burners,,0,$14.99,0,14.99,General,other,0.0
+P02238,fat burners,,0,$15.99,0,15.99,General,other,0.0
+P02239,fat burners,,0,$12.99,0,12.99,General,other,0.0
+P02240,fat burners,,0,$12.99,0,12.99,General,other,0.0
+P02241,fat burners,,0,$17.99,0,17.99,General,other,0.0
+P02242,fat burners,,0,$17.99,0,17.99,General,other,0.0
+P02243,fat burners,,0,$9.34,0,9.34,General,other,0.0
+P02244,fat burners,,0,$15.99,0,15.99,General,other,0.0
+P02245,fat burners,,0,$20.78,0,20.78,General,other,0.0
+P02246,fat burners,,0,$17.59,0,17.59,General,other,0.0
+P02247,fat burners,,0,$23.24,0,23.24,General,other,0.0
+P02248,fat burners,,0,$23.24,0,23.24,General,other,0.0
+P02249,fat burners,,0,$24.99,0,24.99,General,other,0.0
+P02250,fat burners,,0,$16.14,0,16.14,General,other,0.0
+P02251,fat burners,,0,$18.99,0,18.99,General,other,0.0
+P02252,fat burners,,0,$9.99,0,9.99,General,other,0.0
+P02253,fat burners,,0,$26.39,0,26.39,General,other,0.0
+P02254,fat burners,,0,$34.49,0,34.49,General,other,0.0
+P02255,fat burners,,0,$16.99,0,16.99,General,other,0.0
+P02256,fat burners,,0,$14.99,0,14.99,General,other,0.0
+P02257,fat burners,,0,$4.99,0,4.99,General,other,0.0
+P02258,fat burners,,0,$12.99,0,12.99,General,other,0.0
+P02259,fat burners,,0,$23.79,0,23.79,General,other,0.0
+P02260,fat burners,,0,$31.99,0,31.99,General,other,0.0
+P02261,fat burners,,0,$22.65,0,22.65,General,other,0.0
+P02262,fat burners,,0,$34.01,0,34.01,General,other,0.0
+P02263,fat burners,,0,$49.99,0,49.99,General,other,0.0
+P02264,fat burners,,0,$14.99,0,14.99,General,other,0.0
+P02265,fat burners,,0,$30.97,0,30.97,General,other,0.0
+P02266,fat burners,,0,$22.99,0,22.99,General,other,0.0
+P02267,fat burners,,0,$28.04,0,28.04,General,other,0.0
+P02268,fat burners,,0,$15.99,0,15.99,General,other,0.0
+P02269,fat burners,,0,$28.04,0,28.04,General,other,0.0
+P02270,fat burners,,0,$51.99,0,51.99,General,other,0.0
+P02271,fat burners,,0,$23.99,0,23.99,General,other,0.0
+P02272,fat burners,,0,$49.99,0,49.99,General,other,0.0
+P02273,fat burners,,0,$49.99,0,49.99,General,other,0.0
+P02274,fat burners,,0,$29.24,0,29.24,General,other,0.0
+P02275,fat burners,,0,$29.24,0,29.24,General,other,0.0
+P02276,fat burners,,0,$29.24,0,29.24,General,other,0.0
+P02277,fat burners,,0,$20.99,0,20.99,General,other,0.0
+P02278,fat burners,,0,$14.99,0,14.99,General,other,0.0
+P02279,fat burners,,0,$31.19,0,31.19,General,other,0.0
+P02280,fat burners,,0,$14.99,0,14.99,General,other,0.0
+P02281,fat burners,,0,$18.74,0,18.74,General,other,0.0
+P02282,fat burners,,0,$26.39,0,26.39,General,other,0.0
+P02283,fat burners,,0,$29.99,0,29.99,General,other,0.0
+P02284,fat burners,,0,$50.99,0,50.99,General,other,0.0
+P02285,fat burners,,0,$34.99,0,34.99,General,other,0.0
+P02286,fat burners,,0,$13.99,0,13.99,General,other,0.0
+P02287,fat burners,,0,$15.99,0,15.99,General,other,0.0
+P02288,fat burners,,0,$62.99,0,62.99,General,other,0.0
+P02289,fat burners,,0,$79.99,0,79.99,General,other,0.0
+P02290,fat burners,,0,$42.99,0,42.99,General,other,0.0
+P02291,fat burners,,0,$17.99,0,17.99,General,other,0.0
+P02292,fat burners,,0,$21.24,0,21.24,General,other,0.0
+P02293,fat burners,,0,$21.24,0,21.24,General,other,0.0
+P02294,fat burners,,0,$24.99,0,24.99,General,other,0.0
+P02295,fat burners,,0,$41.99,0,41.99,General,other,0.0
+P02296,fat burners,,0,$21.99,0,21.99,General,other,0.0
+P02297,fat burners,,0,$60.99,0,60.99,General,other,0.0
+P02298,fat burners,,0,$37.49,0,37.49,General,other,0.0
+P02299,fat burners,,0,$15.41,0,15.41,General,other,0.0
+P02300,fat burners,,0,$15.41,0,15.41,General,other,0.0
+P02301,fat burners,,0,$25.99,0,25.99,General,other,0.0
+P02302,fat burners,,0,$46.99,0,46.99,General,other,0.0
+P02303,fat burners,,0,$22.99,0,22.99,General,other,0.0
+P02304,fat burners,,0,$19.99,0,19.99,General,other,0.0
+P02305,fat burners,,0,$31.99,0,31.99,General,other,0.0
+P02306,fat burners,,0,$26.99,0,26.99,General,other,0.0
+P02307,fat burners,,0,$18.99,0,18.99,General,other,0.0
+P02308,fat burners,,0,$27.19,0,27.19,General,other,0.0
+P02309,fat burners,,0,$35.99,0,35.99,General,other,0.0
+P02310,fat burners,,0,$11.02,0,11.02,General,other,0.0
+P02311,fat burners,,0,$33.49,0,33.49,General,other,0.0
+P02312,fat burners,,0,$26.99,0,26.99,General,other,0.0
+P02313,fat burners,,0,$17.84,0,17.84,General,other,0.0
+P02314,fat burners,,0,$17.99,0,17.99,General,other,0.0
+P02315,fat burners,,0,$14.99,0,14.99,General,other,0.0
+P02316,fat burners,,0,$33.32,0,33.32,General,other,0.0
+P02317,fat burners,,0,$14.99,0,14.99,General,other,0.0
+P02318,fat burners,,0,$40.99,0,40.99,General,other,0.0
+P02319,fat burners,,0,$25.19,0,25.19,General,other,0.0
+P02320,fat burners,,0,$16.99,0,16.99,General,other,0.0
+P02321,fat burners,,0,$30.09,0,30.09,General,other,0.0
+P02322,fat burners,,0,$32.99,0,32.99,General,other,0.0
+P02323,fat burners,,0,$32.99,0,32.99,General,other,0.0
+P02324,fat burners,,0,$53.59,0,53.59,General,other,0.0
+P02325,fat burners,,0,$39.99,0,39.99,General,other,0.0
+P02326,fat burners,,0,$56.99,0,56.99,General,other,0.0
+P02327,appetite suppressant,,0,$14.99,0,14.99,General,performance_energy,0.1
+P02328,appetite suppressant,,0,$22.99,0,22.99,General,performance_energy,0.0
+P02329,appetite suppressant,,0,$11.99,0,11.99,General,performance_energy,0.16
+P02330,appetite suppressant,,0,$25.49,0,25.49,General,performance_energy,0.0
+P02331,appetite suppressant,,0,$11.99,0,11.99,General,performance_energy,0.16
+P02332,appetite suppressant,,0,$13.99,0,13.99,General,performance_energy,0.12
+P02333,l-carnitine,,0,$15.99,0,15.99,General,other,0.0
+P02334,l-carnitine,,0,$27.99,0,27.99,General,other,0.0
+P02335,l-carnitine,,0,$47.99,0,47.99,General,other,0.0
+P02336,l-carnitine,,0,$16.99,0,16.99,General,other,0.0
+P02337,ketogenic,,0,$20.00,0,20.0,General,other,0.0
+P02338,ketogenic,,0,$19.99,0,19.99,General,other,0.0
+P02339,ketogenic,,0,$33.99,0,33.99,General,other,0.0
+P02340,ketogenic,,0,$14.99,0,14.99,General,other,0.0
+P02341,ketogenic,,0,$15.99,0,15.99,General,other,0.0
+P02342,ketogenic,,0,$15.99,0,15.99,General,other,0.0
+P02343,ketogenic,,0,$8.99,0,8.99,General,other,0.0
+P02344,ketogenic,,0,$24.99,0,24.99,General,other,0.0
+P02345,ketogenic,,0,$29.58,0,29.58,General,other,0.0
+P02346,ketogenic,,0,$29.58,0,29.58,General,other,0.0
+P02347,ketogenic,,0,$29.58,0,29.58,General,other,0.0
+P02348,ketogenic,,0,$32.23,0,32.23,General,other,0.0
+P02349,ketogenic,,0,$32.23,0,32.23,General,other,0.0
+P02350,ketogenic,,0,$26.23,0,26.23,General,other,0.0
+P02351,ketogenic,,0,$26.23,0,26.23,General,other,0.0
+P02352,ketogenic,,0,$24.94,0,24.94,General,other,0.0
+P02353,ketogenic,,0,$47.19,0,47.19,General,other,0.0
+P02354,ketogenic,,0,$36.74,0,36.74,General,other,0.0
+P02355,ketogenic,,0,$36.74,0,36.74,General,other,0.0
+P02356,ketogenic,,0,$57.74,0,57.74,General,other,0.0
+P02357,ketogenic,,0,$26.23,0,26.23,General,other,0.0
+P02358,ketogenic,,0,$25.50,0,25.5,General,other,0.0
+P02359,ketogenic,,0,$25.50,0,25.5,General,other,0.0
+P02360,low carb protein,,0,$34.99,0,34.99,General,muscle_gain_energy,0.0
+P02361,low carb protein,,0,$34.99,0,34.99,General,muscle_gain_energy,0.0
+P02362,low carb protein,,0,$34.99,0,34.99,General,muscle_gain_energy,0.0
+P02363,low carb protein,,0,$34.99,0,34.99,General,muscle_gain_energy,0.0
+P02364,low carb protein,,0,$57.49,0,57.49,General,muscle_gain_energy,0.0
+P02365,low carb protein,,0,$57.49,0,57.49,General,muscle_gain_energy,0.0
+P02366,low carb protein,,0,$57.49,0,57.49,General,muscle_gain_energy,0.0
+P02367,low carb protein,,0,$57.49,0,57.49,General,muscle_gain_energy,0.0
+P02368,low carb protein,,0,$57.49,0,57.49,General,muscle_gain_energy,0.0
+P02369,low carb protein,,0,$124.99,0,124.99,General,muscle_gain_energy,0.0
+P02370,low carb protein,,0,$124.99,0,124.99,General,muscle_gain_energy,0.0
+P02371,low carb protein,,0,$20.24,0,20.24,General,muscle_gain_energy,0.0
+P02372,low carb protein,,0,$20.24,0,20.24,General,muscle_gain_energy,0.0
+P02373,low carb protein,,0,$20.24,0,20.24,General,muscle_gain_energy,0.0
+P02374,low carb protein,,0,$35.24,0,35.24,General,muscle_gain_energy,0.0
+P02375,low carb protein,,0,$35.24,0,35.24,General,muscle_gain_energy,0.0
+P02376,low carb protein,,0,$35.24,0,35.24,General,muscle_gain_energy,0.0
+P02377,low carb protein,,0,$35.24,0,35.24,General,muscle_gain_energy,0.0
+P02378,low carb protein,,0,$35.24,0,35.24,General,muscle_gain_energy,0.0
+P02379,low carb protein,,0,$35.24,0,35.24,General,muscle_gain_energy,0.0
+P02380,low carb protein,,0,$67.49,0,67.49,General,muscle_gain_energy,0.0
+P02381,low carb protein,,0,$89.99,0,89.99,General,muscle_gain_energy,0.0
+P02382,low carb protein,,0,$16.99,0,16.99,General,muscle_gain_energy,0.06
+P02383,low carb protein,,0,$49.99,0,49.99,General,muscle_gain_energy,0.0
+P02384,low carb protein,,0,$18.99,0,18.99,General,muscle_gain_energy,0.02
+P02385,low carb protein,,0,$18.99,0,18.99,General,muscle_gain_energy,0.02
+P02386,low carb protein,,0,$28.79,0,28.79,General,muscle_gain_energy,0.0
+P02387,low carb protein,,0,$28.79,0,28.79,General,muscle_gain_energy,0.0
+P02388,low carb protein,,0,$28.79,0,28.79,General,muscle_gain_energy,0.0
+P02389,low carb protein,,0,$44.99,0,44.99,General,muscle_gain_energy,0.0
+P02390,low carb protein,,0,$44.99,0,44.99,General,muscle_gain_energy,0.0
+P02391,low carb protein,,0,$44.99,0,44.99,General,muscle_gain_energy,0.0
+P02392,low carb protein,,0,$44.99,0,44.99,General,muscle_gain_energy,0.0
+P02393,low carb protein,,0,$44.99,0,44.99,General,muscle_gain_energy,0.0
+P02394,low carb protein,,0,$83.24,0,83.24,General,muscle_gain_energy,0.0
+P02395,low carb protein,,0,$63.99,0,63.99,General,muscle_gain_energy,0.0
+P02396,low carb protein,,0,$28.99,0,28.99,General,muscle_gain_energy,0.0
+P02397,low carb protein,,0,$29.99,0,29.99,General,muscle_gain_energy,0.0
+P02398,low carb protein,,0,$29.99,0,29.99,General,muscle_gain_energy,0.0
+P02399,low carb protein,,0,$29.99,0,29.99,General,muscle_gain_energy,0.0
+P02400,low carb protein,,0,$55.99,0,55.99,General,muscle_gain_energy,0.0
+P02401,low carb protein,,0,$55.99,0,55.99,General,muscle_gain_energy,0.0
+P02402,low carb protein,,0,$55.99,0,55.99,General,muscle_gain_energy,0.0
+P02403,low carb protein,,0,$55.99,0,55.99,General,muscle_gain_energy,0.0
+P02404,low carb protein,,0,$55.99,0,55.99,General,muscle_gain_energy,0.0
+P02405,low carb protein,,0,$55.99,0,55.99,General,muscle_gain_energy,0.0
+P02406,low carb protein,,0,$55.99,0,55.99,General,muscle_gain_energy,0.0
+P02407,low carb protein,,0,$55.99,0,55.99,General,muscle_gain_energy,0.0
+P02408,low carb protein,,0,$93.99,0,93.99,General,muscle_gain_energy,0.0
+P02409,low carb protein,,0,$95.99,0,95.99,General,muscle_gain_energy,0.0
+P02410,low carb protein,,0,$95.99,0,95.99,General,muscle_gain_energy,0.0
+P02411,low carb protein,,0,$47.99,0,47.99,General,muscle_gain_energy,0.0
+P02412,low carb protein,,0,$10.39,0,10.39,General,muscle_gain_energy,0.192
+P02413,low carb protein,,0,$10.39,0,10.39,General,muscle_gain_energy,0.192
+P02414,low carb protein,,0,$10.39,0,10.39,General,muscle_gain_energy,0.192
+P02415,low carb protein,,0,$10.39,0,10.39,General,muscle_gain_energy,0.192
+P02416,low carb protein,,0,$10.39,0,10.39,General,muscle_gain_energy,0.192
+P02417,low carb protein,,0,$37.99,0,37.99,General,muscle_gain_energy,0.0
+P02418,low carb protein,,0,$37.99,0,37.99,General,muscle_gain_energy,0.0
+P02419,low carb protein,,0,$37.99,0,37.99,General,muscle_gain_energy,0.0
+P02420,low carb protein,,0,$37.99,0,37.99,General,muscle_gain_energy,0.0
+P02421,low carb protein,,0,$37.99,0,37.99,General,muscle_gain_energy,0.0
+P02422,low carb protein,,0,$37.99,0,37.99,General,muscle_gain_energy,0.0
+P02423,low carb protein,,0,$51.99,0,51.99,General,muscle_gain_energy,0.0
+P02424,low carb protein,,0,$51.99,0,51.99,General,muscle_gain_energy,0.0
+P02425,low carb protein,,0,$51.99,0,51.99,General,muscle_gain_energy,0.0
+P02426,low carb protein,,0,$51.99,0,51.99,General,muscle_gain_energy,0.0
+P02427,low carb protein,,0,$51.99,0,51.99,General,muscle_gain_energy,0.0
+P02428,low carb protein,,0,$37.49,0,37.49,General,muscle_gain_energy,0.0
+P02429,low carb protein,,0,$37.49,0,37.49,General,muscle_gain_energy,0.0
+P02430,low carb protein,,0,$38.99,0,38.99,General,muscle_gain_energy,0.0
+P02431,low carb protein,,0,$39.99,0,39.99,General,muscle_gain_energy,0.0
+P02432,low carb protein,,0,$45.99,0,45.99,General,muscle_gain_energy,0.0
+P02433,low carb protein,,0,$45.99,0,45.99,General,muscle_gain_energy,0.0
+P02434,low carb protein,,0,$45.99,0,45.99,General,muscle_gain_energy,0.0
+P02435,low carb protein,,0,$45.99,0,45.99,General,muscle_gain_energy,0.0
+P02436,low carb protein,,0,$45.99,0,45.99,General,muscle_gain_energy,0.0
+P02437,low carb protein,,0,$45.99,0,45.99,General,muscle_gain_energy,0.0
+P02438,low carb protein,,0,$45.99,0,45.99,General,muscle_gain_energy,0.0
+P02439,low carb protein,,0,$45.99,0,45.99,General,muscle_gain_energy,0.0
+P02440,low carb protein,,0,$45.99,0,45.99,General,muscle_gain_energy,0.0
+P02441,low carb protein,,0,$45.99,0,45.99,General,muscle_gain_energy,0.0
+P02442,low carb protein,,0,$69.99,0,69.99,General,muscle_gain_energy,0.0
+P02443,low carb protein,,0,$69.99,0,69.99,General,muscle_gain_energy,0.0
+P02444,low carb protein,,0,$69.99,0,69.99,General,muscle_gain_energy,0.0
+P02445,low carb protein,,0,$69.99,0,69.99,General,muscle_gain_energy,0.0
+P02446,low carb protein,,0,$69.99,0,69.99,General,muscle_gain_energy,0.0
+P02447,low carb protein,,0,$69.99,0,69.99,General,muscle_gain_energy,0.0
+P02448,low carb protein,,0,$69.99,0,69.99,General,muscle_gain_energy,0.0
+P02449,low carb protein,,0,$69.99,0,69.99,General,muscle_gain_energy,0.0
+P02450,low carb protein,,0,$69.99,0,69.99,General,muscle_gain_energy,0.0
+P02451,low carb protein,,0,$69.99,0,69.99,General,muscle_gain_energy,0.0
+P02452,low carb protein,,0,$69.99,0,69.99,General,muscle_gain_energy,0.0
+P02453,low carb protein,,0,$44.99,0,44.99,General,muscle_gain_energy,0.0
+P02454,low carb protein,,0,$44.99,0,44.99,General,muscle_gain_energy,0.0
+P02455,low carb protein,,0,$41.99,0,41.99,General,muscle_gain_energy,0.0
+P02456,low carb protein,,0,$41.99,0,41.99,General,muscle_gain_energy,0.0
+P02457,low carb protein,,0,$26.99,0,26.99,General,muscle_gain_energy,0.0
+P02458,low carb protein,,0,$26.99,0,26.99,General,muscle_gain_energy,0.0
+P02459,low carb protein,,0,$26.99,0,26.99,General,muscle_gain_energy,0.0
+P02460,low carb protein,,0,$26.99,0,26.99,General,muscle_gain_energy,0.0
+P02461,low carb protein,,0,$32.99,0,32.99,General,muscle_gain_energy,0.0
+P02462,low carb protein,,0,$32.99,0,32.99,General,muscle_gain_energy,0.0
+P02463,low carb protein,,0,$12.79,0,12.79,General,muscle_gain_energy,0.144
+P02464,low carb protein,,0,$12.79,0,12.79,General,muscle_gain_energy,0.144
+P02465,low carb protein,,0,$15.99,0,15.99,General,muscle_gain_energy,0.08
+P02466,low carb protein,,0,$49.59,0,49.59,General,muscle_gain_energy,0.0
+P02467,low carb protein,,0,$49.59,0,49.59,General,muscle_gain_energy,0.0
+P02468,low carb protein,,0,$39.99,0,39.99,General,muscle_gain_energy,0.0
+P02469,low carb protein,,0,$39.99,0,39.99,General,muscle_gain_energy,0.0
+P02470,low carb protein,,0,$22.39,0,22.39,General,muscle_gain_energy,0.0
+P02471,low carb protein,,0,$22.39,0,22.39,General,muscle_gain_energy,0.0
+P02472,low carb protein,,0,$50.99,0,50.99,General,muscle_gain_energy,0.0
+P02473,low carb protein,,0,$50.99,0,50.99,General,muscle_gain_energy,0.0
+P02474,low carb protein,,0,$37.99,0,37.99,General,muscle_gain_energy,0.0
+P02475,low carb protein,,0,$37.99,0,37.99,General,muscle_gain_energy,0.0
+P02476,low carb protein,,0,$37.99,0,37.99,General,muscle_gain_energy,0.0
+P02477,low carb protein,,0,$31.99,0,31.99,General,muscle_gain_energy,0.0
+P02478,low carb protein,,0,$34.99,0,34.99,General,muscle_gain_energy,0.0
+P02479,low carb protein,,0,$51.74,0,51.74,General,muscle_gain_energy,0.0
+P02480,low carb protein,,0,$52.49,0,52.49,General,muscle_gain_energy,0.0
+P02481,low carb protein,,0,$21.99,0,21.99,General,muscle_gain_energy,0.0
+P02482,low carb protein,,0,$24.74,0,24.74,General,muscle_gain_energy,0.0
+P02483,low carb protein,,0,$24.74,0,24.74,General,muscle_gain_energy,0.0
+P02484,low carb protein,,0,$48.24,0,48.24,General,muscle_gain_energy,0.0
+P02485,low carb protein,,0,$49.99,0,49.99,General,muscle_gain_energy,0.0
+P02486,low carb protein,,0,$49.99,0,49.99,General,muscle_gain_energy,0.0
+P02487,low carb protein,,0,$49.99,0,49.99,General,muscle_gain_energy,0.0
+P02488,low carb protein,,0,$89.99,0,89.99,General,muscle_gain_energy,0.0
+P02489,low carb protein,,0,$89.99,0,89.99,General,muscle_gain_energy,0.0
+P02490,low carb protein,,0,$89.99,0,89.99,General,muscle_gain_energy,0.0
+P02491,low carb protein,,0,$47.99,0,47.99,General,muscle_gain_energy,0.0
+P02492,low carb protein,,0,$47.99,0,47.99,General,muscle_gain_energy,0.0
+P02493,low carb protein,,0,$24.34,0,24.34,General,muscle_gain_energy,0.0
+P02494,low carb protein,,0,$24.79,0,24.79,General,muscle_gain_energy,0.0
+P02495,low carb protein,,0,$24.79,0,24.79,General,muscle_gain_energy,0.0
+P02496,low carb protein,,0,$50.39,0,50.39,General,muscle_gain_energy,0.0
+P02497,low carb protein,,0,$50.39,0,50.39,General,muscle_gain_energy,0.0
+P02498,low carb protein,,0,$50.39,0,50.39,General,muscle_gain_energy,0.0
+P02499,low carb protein,,0,$50.39,0,50.39,General,muscle_gain_energy,0.0
+P02500,low carb protein,,0,$51.19,0,51.19,General,muscle_gain_energy,0.0
+P02501,low carb protein,,0,$51.19,0,51.19,General,muscle_gain_energy,0.0
+P02502,low carb protein,,0,$77.24,0,77.24,General,muscle_gain_energy,0.0
+P02503,low carb protein,,0,$77.24,0,77.24,General,muscle_gain_energy,0.0
+P02504,low carb protein,,0,$39.68,0,39.68,General,muscle_gain_energy,0.0
+P02505,low carb protein,,0,$75.33,0,75.33,General,muscle_gain_energy,0.0
+P02506,low carb protein,,0,$31.49,0,31.49,General,muscle_gain_energy,0.0
+P02507,low carb protein,,0,$30.59,0,30.59,General,muscle_gain_energy,0.0
+P02508,low carb protein,,0,$72.99,0,72.99,General,muscle_gain_energy,0.0
+P02509,low carb protein,,0,$22.49,0,22.49,General,muscle_gain_energy,0.0
+P02510,low carb protein,,0,$64.99,0,64.99,General,muscle_gain_energy,0.0
+P02511,multivitamins,,0,$16.99,0,16.99,General,general_immunity,0.06
+P02512,multivitamins,,0,$28.99,0,28.99,General,general_immunity,0.0
+P02513,multivitamins,,0,$14.99,0,14.99,General,general_immunity,0.1
+P02514,multivitamins,,0,$11.89,0,11.89,General,general_immunity,0.162
+P02515,multivitamins,,0,$24.99,0,24.99,General,general_immunity,0.0
+P02516,multivitamins,,0,$19.99,0,19.99,General,general_immunity,0.0
+P02517,multivitamins,,0,$25.99,0,25.99,General,general_immunity,0.0
+P02518,multivitamins,,0,$47.99,0,47.99,General,general_immunity,0.0
+P02519,multivitamins,,0,$16.65,0,16.65,General,general_immunity,0.067
+P02520,multivitamins,,0,$18.99,0,18.99,General,general_immunity,0.02
+P02521,multivitamins,,0,$28.99,0,28.99,General,general_immunity,0.0
+P02522,multivitamins,,0,$34.95,0,34.95,General,general_immunity,0.0
+P02523,multivitamins,,0,$34.95,0,34.95,General,general_immunity,0.0
+P02524,multivitamins,,0,$34.95,0,34.95,General,general_immunity,0.0
+P02525,multivitamins,,0,$34.95,0,34.95,General,general_immunity,0.0
+P02526,multivitamins,,0,$12.99,0,12.99,General,general_immunity,0.14
+P02527,multivitamins,,0,$19.99,0,19.99,General,general_immunity,0.0
+P02528,multivitamins,,0,$28.49,0,28.49,General,general_immunity,0.0
+P02529,multivitamins,,0,$28.99,0,28.99,General,general_immunity,0.0
+P02530,multivitamins,,0,$14.99,0,14.99,General,general_immunity,0.1
+P02531,multivitamins,,0,$29.05,0,29.05,General,general_immunity,0.0
+P02532,multivitamins,,0,$11.24,0,11.24,General,general_immunity,0.175
+P02533,multivitamins,,0,$33.69,0,33.69,General,general_immunity,0.0
+P02534,multivitamins,,0,$20.99,0,20.99,General,general_immunity,0.0
+P02535,multivitamins,,0,$19.99,0,19.99,General,general_immunity,0.0
+P02536,multivitamins,,0,$17.99,0,17.99,General,general_immunity,0.04
+P02537,multivitamins,,0,$28.99,0,28.99,General,general_immunity,0.0
+P02538,multivitamins,,0,$34.99,0,34.99,General,general_immunity,0.0
+P02539,multivitamins,,0,$27.99,0,27.99,General,general_immunity,0.0
+P02540,multivitamins,,0,$17.49,0,17.49,General,general_immunity,0.05
+P02541,multivitamins,,0,$8.99,0,8.99,General,general_immunity,0.22
+P02542,multivitamins,,0,$11.99,0,11.99,General,general_immunity,0.16
+P02543,multivitamins,,0,$12.99,0,12.99,General,general_immunity,0.14
+P02544,multivitamins,,0,$11.98,0,11.98,General,general_immunity,0.16
+P02545,multivitamins,,0,$24.97,0,24.97,General,general_immunity,0.0
+P02546,multivitamins,,0,$25.99,0,25.99,General,general_immunity,0.0
+P02547,multivitamins,,0,$29.99,0,29.99,General,general_immunity,0.0
+P02548,multivitamins,,0,$35.24,0,35.24,General,general_immunity,0.0
+P02549,multivitamins,,0,$35.24,0,35.24,General,general_immunity,0.0
+P02550,multivitamins,,0,$59.99,0,59.99,General,general_immunity,0.0
+P02551,multivitamins,,0,$16.14,0,16.14,General,general_immunity,0.077
+P02552,multivitamins,,0,$24.74,0,24.74,General,general_immunity,0.0
+P02553,multivitamins,,0,$48.99,0,48.99,General,general_immunity,0.0
+P02554,multivitamins,,0,$31.99,0,31.99,General,general_immunity,0.0
+P02555,multivitamins,,0,$17.99,0,17.99,General,general_immunity,0.04
+P02556,multivitamins,,0,$24.99,0,24.99,General,general_immunity,0.0
+P02557,multivitamins,,0,$25.99,0,25.99,General,general_immunity,0.0
+P02558,multivitamins,,0,$27.99,0,27.99,General,general_immunity,0.0
+P02559,multivitamins,,0,$28.04,0,28.04,General,general_immunity,0.0
+P02560,multivitamins,,0,$22.39,0,22.39,General,general_immunity,0.0
+P02561,multivitamins,,0,$18.99,0,18.99,General,general_immunity,0.02
+P02562,multivitamins,,0,$31.99,0,31.99,General,general_immunity,0.0
+P02563,multivitamins,,0,$12.99,0,12.99,General,general_immunity,0.14
+P02564,multivitamins,,0,$9.99,0,9.99,General,general_immunity,0.2
+P02565,multivitamins,,0,$19.19,0,19.19,General,general_immunity,0.016
+P02566,multivitamins,,0,$32.99,0,32.99,General,general_immunity,0.0
+P02567,multivitamins,,0,$52.99,0,52.99,General,general_immunity,0.0
+P02568,multivitamins,,0,$18.14,0,18.14,General,general_immunity,0.037
+P02569,multivitamins,,0,$40.99,0,40.99,General,general_immunity,0.0
+P02570,multivitamins,,0,$19.99,0,19.99,General,general_immunity,0.0
+P02571,multivitamins,,0,$45.99,0,45.99,General,general_immunity,0.0
+P02572,multivitamins,,0,$81.99,0,81.99,General,general_immunity,0.0
+P02573,multivitamins,,0,$83.99,0,83.99,General,general_immunity,0.0
+P02574,multivitamins,,0,$16.99,0,16.99,General,general_immunity,0.06
+P02575,multivitamins,,0,$24.99,0,24.99,General,general_immunity,0.0
+P02576,multivitamins,,0,$40.99,0,40.99,General,general_immunity,0.0
+P02577,multivitamins,,0,$45.99,0,45.99,General,general_immunity,0.0
+P02578,multivitamins,,0,$45.43,0,45.43,General,general_immunity,0.0
+P02579,multivitamins,,0,$31.99,0,31.99,General,general_immunity,0.0
+P02580,multivitamins,,0,$32.99,0,32.99,General,general_immunity,0.0
+P02581,multivitamins,,0,$38.99,0,38.99,General,general_immunity,0.0
+P02582,multivitamins,,0,$15.19,0,15.19,General,general_immunity,0.096
+P02583,greens,,0,$31.99,0,31.99,General,other,0.0
+P02584,greens,,0,$31.99,0,31.99,General,other,0.0
+P02585,greens,,0,$31.99,0,31.99,General,other,0.0
+P02586,greens,,0,$33.99,0,33.99,General,other,0.0
+P02587,greens,,0,$33.99,0,33.99,General,other,0.0
+P02588,greens,,0,$28.99,0,28.99,General,other,0.0
+P02589,greens,,0,$28.99,0,28.99,General,other,0.0
+P02590,greens,,0,$28.99,0,28.99,General,other,0.0
+P02591,greens,,0,$28.99,0,28.99,General,other,0.0
+P02592,greens,,0,$28.99,0,28.99,General,other,0.0
+P02593,greens,,0,$28.99,0,28.99,General,other,0.0
+P02594,greens,,0,$28.99,0,28.99,General,other,0.0
+P02595,greens,,0,$45.99,0,45.99,General,other,0.0
+P02596,greens,,0,$45.99,0,45.99,General,other,0.0
+P02597,greens,,0,$45.99,0,45.99,General,other,0.0
+P02598,greens,,0,$45.99,0,45.99,General,other,0.0
+P02599,greens,,0,$45.99,0,45.99,General,other,0.0
+P02600,greens,,0,$45.99,0,45.99,General,other,0.0
+P02601,greens,,0,$62.99,0,62.99,General,other,0.0
+P02602,greens,,0,$65.99,0,65.99,General,other,0.0
+P02603,greens,,0,$65.99,0,65.99,General,other,0.0
+P02604,greens,,0,$65.99,0,65.99,General,other,0.0
+P02605,greens,,0,$65.99,0,65.99,General,other,0.0
+P02606,greens,,0,$65.99,0,65.99,General,other,0.0
+P02607,greens,,0,$26.39,0,26.39,General,other,0.0
+P02608,greens,,0,$39.99,0,39.99,General,other,0.0
+P02609,greens,,0,$39.99,0,39.99,General,other,0.0
+P02610,greens,,0,$24.99,0,24.99,General,other,0.0
+P02611,greens,,0,$22.99,0,22.99,General,other,0.0
+P02612,greens,,0,$14.99,0,14.99,General,other,0.0
+P02613,greens,,0,$31.99,0,31.99,General,other,0.0
+P02614,greens,,0,$45.99,0,45.99,General,other,0.0
+P02615,greens,,0,$24.99,0,24.99,General,other,0.0
+P02616,greens,,0,$24.99,0,24.99,General,other,0.0
+P02617,greens,,0,$38.39,0,38.39,General,other,0.0
+P02618,greens,,0,$81.99,0,81.99,General,other,0.0
+P02619,greens,,0,$91.99,0,91.99,General,other,0.0
+P02620,greens,,0,$11.99,0,11.99,General,other,0.0
+P02621,greens,,0,$39.99,0,39.99,General,other,0.0
+P02622,greens,,0,$66.99,0,66.99,General,other,0.0
+P02623,greens,,0,$37.99,0,37.99,General,other,0.0
+P02624,greens,,0,$59.00,0,59.0,General,other,0.0
+P02625,fish oil omega-3,,0,$29.99,0,29.99,General,heart_immunity,0.0
+P02626,fish oil omega-3,,0,$15.99,0,15.99,General,heart_immunity,0.08
+P02627,fish oil omega-3,,0,$26.99,0,26.99,General,heart_immunity,0.0
+P02628,fish oil omega-3,,0,$9.79,0,9.79,General,heart_immunity,0.204
+P02629,fish oil omega-3,,0,$12.99,0,12.99,General,heart_immunity,0.14
+P02630,fish oil omega-3,,0,$18.99,0,18.99,General,heart_immunity,0.02
+P02631,fish oil omega-3,,0,$14.99,0,14.99,General,heart_immunity,0.1
+P02632,fish oil omega-3,,0,$17.99,0,17.99,General,heart_immunity,0.04
+P02633,fish oil omega-3,,0,$22.99,0,22.99,General,heart_immunity,0.0
+P02634,fish oil omega-3,,0,$12.99,0,12.99,General,heart_immunity,0.14
+P02635,fish oil omega-3,,0,$33.99,0,33.99,General,heart_immunity,0.0
+P02636,fish oil omega-3,,0,$10.49,0,10.49,General,heart_immunity,0.19
+P02637,fish oil omega-3,,0,$6.99,0,6.99,General,heart_immunity,0.26
+P02638,fish oil omega-3,,0,$17.99,0,17.99,General,heart_immunity,0.04
+P02639,fish oil omega-3,,0,$9.99,0,9.99,General,heart_immunity,0.2
+P02640,fish oil omega-3,,0,$23.99,0,23.99,General,heart_immunity,0.0
+P02641,fish oil omega-3,,0,$16.99,0,16.99,General,heart_immunity,0.06
+P02642,fish oil omega-3,,0,$29.99,0,29.99,General,heart_immunity,0.0
+P02643,fish oil omega-3,,0,$8.99,0,8.99,General,heart_immunity,0.22
+P02644,fish oil omega-3,,0,$39.99,0,39.99,General,heart_immunity,0.0
+P02645,fish oil omega-3,,0,$22.99,0,22.99,General,heart_immunity,0.0
+P02646,fish oil omega-3,,0,$35.99,0,35.99,General,heart_immunity,0.0
+P02647,fish oil omega-3,,0,$14.99,0,14.99,General,heart_immunity,0.1
+P02648,fish oil omega-3,,0,$24.99,0,24.99,General,heart_immunity,0.0
+P02649,fish oil omega-3,,0,$11.99,0,11.99,General,heart_immunity,0.16
+P02650,fish oil omega-3,,0,$10.99,0,10.99,General,heart_immunity,0.18
+P02651,fish oil omega-3,,0,$24.99,0,24.99,General,heart_immunity,0.0
+P02652,fish oil omega-3,,0,$12.99,0,12.99,General,heart_immunity,0.14
+P02653,fish oil omega-3,,0,$36.79,0,36.79,General,heart_immunity,0.0
+P02654,fish oil omega-3,,0,$20.16,0,20.16,General,heart_immunity,0.0
+P02655,fish oil omega-3,,0,$13.99,0,13.99,General,heart_immunity,0.12
+P02656,fish oil omega-3,,0,$25.99,0,25.99,General,heart_immunity,0.0
+P02657,fish oil omega-3,,0,$16.99,0,16.99,General,heart_immunity,0.06
+P02658,fish oil omega-3,,0,$6.99,0,6.99,General,heart_immunity,0.26
+P02659,fish oil omega-3,,0,$16.99,0,16.99,General,heart_immunity,0.06
+P02660,fish oil omega-3,,0,$18.39,0,18.39,General,heart_immunity,0.032
+P02661,fish oil omega-3,,0,$37.99,0,37.99,General,heart_immunity,0.0
+P02662,fish oil omega-3,,0,$45.99,0,45.99,General,heart_immunity,0.0
+P02663,fish oil omega-3,,0,$31.99,0,31.99,General,heart_immunity,0.0
+P02664,fish oil omega-3,,0,$13.50,0,13.5,General,heart_immunity,0.13
+P02665,fish oil omega-3,,0,$23.99,0,23.99,General,heart_immunity,0.0
+P02666,fish oil omega-3,,0,$29.99,0,29.99,General,heart_immunity,0.0
+P02667,fish oil omega-3,,0,$28.99,0,28.99,General,heart_immunity,0.0
+P02668,fish oil omega-3,,0,$25.99,0,25.99,General,heart_immunity,0.0
+P02669,fish oil omega-3,,0,$23.99,0,23.99,General,heart_immunity,0.0
+P02670,fish oil omega-3,,0,$24.99,0,24.99,General,heart_immunity,0.0
+P02671,fish oil omega-3,,0,$15.99,0,15.99,General,heart_immunity,0.08
+P02672,fish oil omega-3,,0,$19.99,0,19.99,General,heart_immunity,0.0
+P02673,fish oil omega-3,,0,$19.99,0,19.99,General,heart_immunity,0.0
+P02674,fish oil omega-3,,0,$20.99,0,20.99,General,heart_immunity,0.0
+P02675,fish oil omega-3,,0,$15.99,0,15.99,General,heart_immunity,0.08
+P02676,fish oil omega-3,,0,$32.99,0,32.99,General,heart_immunity,0.0
+P02677,fish oil omega-3,,0,$23.99,0,23.99,General,heart_immunity,0.0
+P02678,fish oil omega-3,,0,$25.99,0,25.99,General,heart_immunity,0.0
+P02679,fish oil omega-3,,0,$23.99,0,23.99,General,heart_immunity,0.0
+P02680,fish oil omega-3,,0,$29.32,0,29.32,General,heart_immunity,0.0
+P02681,fish oil omega-3,,0,$48.99,0,48.99,General,heart_immunity,0.0
+P02682,men's health,,0,$22.99,0,22.99,General,other,0.0
+P02683,men's health,,0,$12.99,0,12.99,General,other,0.0
+P02684,men's health,,0,$26.99,0,26.99,General,other,0.0
+P02685,men's health,,0,$26.99,0,26.99,General,other,0.0
+P02686,men's health,,0,$41.99,0,41.99,General,other,0.0
+P02687,men's health,,0,$19.99,0,19.99,General,other,0.0
+P02688,men's health,,0,$27.99,0,27.99,General,other,0.0
+P02689,men's health,,0,$9.99,0,9.99,General,other,0.0
+P02690,men's health,,0,$28.99,0,28.99,General,other,0.0
+P02691,men's health,,0,$44.99,0,44.99,General,other,0.0
+P02692,men's health,,0,$19.99,0,19.99,General,other,0.0
+P02693,men's health,,0,$24.99,0,24.99,General,other,0.0
+P02694,men's health,,0,$16.99,0,16.99,General,other,0.0
+P02695,men's health,,0,$24.99,0,24.99,General,other,0.0
+P02696,men's health,,0,$18.99,0,18.99,General,other,0.0
+P02697,men's health,,0,$41.99,0,41.99,General,other,0.0
+P02698,men's health,,0,$47.19,0,47.19,General,other,0.0
+P02699,men's health,,0,$21.99,0,21.99,General,other,0.0
+P02700,men's health,,0,$53.99,0,53.99,General,other,0.0
+P02701,women's health,,0,$20.99,0,20.99,General,other,0.0
+P02702,women's health,,0,$31.18,0,31.18,General,other,0.0
+P02703,women's health,,0,$31.18,0,31.18,General,other,0.0
+P02704,women's health,,0,$31.18,0,31.18,General,other,0.0
+P02705,women's health,,0,$31.18,0,31.18,General,other,0.0
+P02706,women's health,,0,$31.18,0,31.18,General,other,0.0
+P02707,women's health,,0,$32.74,0,32.74,General,other,0.0
+P02708,women's health,,0,$16.79,0,16.79,General,other,0.0
+P02709,women's health,,0,$5.99,0,5.99,General,other,0.0
+P02710,women's health,,0,$25.00,0,25.0,General,other,0.0
+P02711,women's health,,0,$25.00,0,25.0,General,other,0.0
+P02712,women's health,,0,$25.00,0,25.0,General,other,0.0
+P02713,women's health,,0,$25.00,0,25.0,General,other,0.0
+P02714,women's health,,0,$34.00,0,34.0,General,other,0.0
+P02715,women's health,,0,$34.00,0,34.0,General,other,0.0
+P02716,women's health,,0,$34.00,0,34.0,General,other,0.0
+P02717,women's health,,0,$26.65,0,26.65,General,other,0.0
+P02718,women's health,,0,$14.99,0,14.99,General,other,0.0
+P02719,women's health,,0,$19.99,0,19.99,General,other,0.0
