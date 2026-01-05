@@ -106,7 +106,7 @@ The OpenAI agent is instructed to:
 
 ---
 
-## ✍️ Author & Affiliation
+## ✍️ Author 
 **Açelya Uslu**  
 MSc Computer Engineering  
 Manisa Celal Bayar University, Türkiye
